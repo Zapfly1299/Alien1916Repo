@@ -3007,6 +3007,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.21-21.16.18:216][401]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Assets/Characters/AI/PoopManFolder/SideScrollerCharacter.
 [2020.02.21-21.16.18:218][401]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Assets/Characters/AI/PoopManFolder/WD_YouDied.
 [2020.02.21-21.17.19:757][585]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Assets/Characters/AI/PoopManFolder/PoopMan.
+<<<<<<< HEAD
 [2020.02.21-21.18.33:527][  8]LogSavePackage: Moving '../../../../../../Users/V8088555/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/SideScrollerExampleMapD6CAF304464D45735801B8A05D647C89.tmp' to '../../../../../../Users/V8088555/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
 [2020.02.21-21.18.33:947][  8]LogSavePackage: Moving '../../../../../../Users/V8088555/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/SideScrollerExampleMap_BuiltData169773634D1B97CD4154248E497F2BB4.tmp' to '../../../../../../Users/V8088555/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
 [2020.02.21-21.18.37:187][203]LogSlate: Window 'Save Content' being destroyed
@@ -3352,3 +3353,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 >>>>>>> parent of 06f3590... Fucking, way too late for this shit
 =======
 >>>>>>> parent of 06f3590... Fucking, way too late for this shit
+=======
+>>>>>>> parent of c2dea14... MORE?!?
