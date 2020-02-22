@@ -1,10 +1,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 02/22/20 04:47:28
 =======
 ﻿Log file open, 02/21/20 14:08:28
 >>>>>>> parent of 34b9809... AI and Shit
+=======
+﻿Log file open, 02/21/20 21:04:40
+>>>>>>> parent of 06f3590... Fucking, way too late for this shit
 =======
 ﻿Log file open, 02/21/20 21:04:40
 >>>>>>> parent of 06f3590... Fucking, way too late for this shit
@@ -22,6 +26,7 @@ LogInit: Display: Running engine for game: Alien1916MASTER
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -129,6 +134,11 @@ LogStats: Stats thread started at 0.437784
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 >>>>>>> parent of 06f3590... Fucking, way too late for this shit
+=======
+LogStats: Stats thread started at 0.437784
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+>>>>>>> parent of 06f3590... Fucking, way too late for this shit
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -214,12 +224,17 @@ LogPluginManager: Mounting plugin WindowsMoviePlayer
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStreaming: Display: Took  2.095s to configure plugins.
 LogInit: Using libcurl 7.47.1
 =======
 LogStreaming: Display: Took  0.147s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 >>>>>>> parent of 34b9809... AI and Shit
+=======
+LogStreaming: Display: Took  0.150s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+>>>>>>> parent of 06f3590... Fucking, way too late for this shit
 =======
 LogStreaming: Display: Took  0.150s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
@@ -249,6 +264,7 @@ LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: WinSock: I am TU45376 (152.105.218.162:0)
 LogInit: Build: ++UE4+Release-4.19-CL-4033788
 LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
@@ -260,13 +276,19 @@ LogDevObjectVersion: Number of dev versions registered: 18
 >>>>>>> parent of 06f3590... Fucking, way too late for this shit
 =======
 >>>>>>> parent of 06f3590... Fucking, way too late for this shit
+=======
+>>>>>>> parent of 06f3590... Fucking, way too late for this shit
 LogInit: Build: ++UE4+Release-4.21-CL-4753647
 LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
 LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
 LogInit: Net CL: 4541578
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7800X CPU @ 3.50GHz, GPU: NVIDIA GeForce RTX 2080
+=======
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz, GPU: NVIDIA GeForce GTX 980 Ti
+>>>>>>> parent of 06f3590... Fucking, way too late for this shit
 =======
 LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz, GPU: NVIDIA GeForce GTX 980 Ti
 >>>>>>> parent of 06f3590... Fucking, way too late for this shit
@@ -283,7 +305,10 @@ LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 22
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 34b9809... AI and Shit
+=======
+>>>>>>> parent of 06f3590... Fucking, way too late for this shit
 =======
 >>>>>>> parent of 06f3590... Fucking, way too late for this shit
 =======
@@ -307,6 +332,7 @@ LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
 LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
 LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2406,6 +2432,14 @@ LogStreaming: Display: Took  0.001s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
 >>>>>>> parent of 06f3590... Fucking, way too late for this shit
+=======
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+>>>>>>> parent of 06f3590... Fucking, way too late for this shit
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.21-21.04.40:478][  0]LogConfig: Setting CVar [[r.VSync:0]]
@@ -3312,6 +3346,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.21-21.18.41:774][204]LogExit: Exiting.
 [2020.02.21-21.18.41:820][204]Log file closed, 02/21/20 21:18:41
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 06f3590... Fucking, way too late for this shit
+=======
 >>>>>>> parent of 06f3590... Fucking, way too late for this shit
 =======
 >>>>>>> parent of 06f3590... Fucking, way too late for this shit
