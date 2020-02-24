@@ -752,3 +752,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.24-09.19.01:603][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.02.24-09.19.01:638][254]LogPlayLevel: Display: Destroying online subsystem :Context_7
 [2020.02.24-09.19.34:069][ 80]BlueprintLog: New page: Compile SideScrollerExampleMap
+[2020.02.24-09.22.19:852][786]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.24-09.22.38:148][943]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Destructables/MC_VentGrate_BP.MC_VentGrate_BP
+[2020.02.24-09.22.38:694][944]LogRenderer: Reallocating scene render targets to support 1208x1020 Format 10 NumSamples 1 (Frame:1).
+[2020.02.24-09.22.57:469][712]BlueprintLog: New page: Compile MC_VentGrate_BP
+[2020.02.24-09.23.09:409][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.24-09.23.57:760][506]LogSlate: Took 0.005958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.24-09.25.42:981][838]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.24-09.25.52:808][753]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.24-09.30.05:119][817]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(296)].
+[2020.02.24-09.30.05:423][817]LogSavePackage: Moving '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/SideScrollerExampleMap_Auto1F184E7CA4A8EE75A51F959BC36AB814F.tmp' to '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap'
+[2020.02.24-09.30.05:432][817]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.279
+[2020.02.24-09.30.05:432][817]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.279
+[2020.02.24-09.30.05:434][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Destructables/MC_VentGrate_BP] ([1] browsable assets)...
+[2020.02.24-09.30.05:462][817]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Destructables/MC_VentGrate_BP.MC_VentGrate_BP]
+[2020.02.24-09.30.05:462][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Destructables/MC_VentGrate_BP]
+[2020.02.24-09.30.05:498][817]LogSavePackage: Moving '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/MC_VentGrate_BP_Auto15196E18F4C6FADFE7C3C21A63497A668.tmp' to '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/Assets/Destructables/MC_VentGrate_BP_Auto1.uasset'
+[2020.02.24-09.30.05:500][817]LogFileHelpers: Auto-saving content packages took 0.066
+[2020.02.24-09.33.05:915][787]BlueprintLog: New page: Compile SideScrollerExampleMap
+[2020.02.24-09.33.11:153][338]BlueprintLog: New page: Compile MC_VentGrate_BP
+[2020.02.24-09.33.14:518][683]LogSavePackage: Moving '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/MC_VentGrate_BP858F90BD4CD1B172D86AFDAEFB698ED3.tmp' to '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/Destructables/MC_VentGrate_BP.uasset'
+[2020.02.24-09.33.16:207][820]LogSavePackage: Moving '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/SideScrollerExampleMap7E216C6248F8EE63A465909257147C9F.tmp' to '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2020.02.24-09.33.16:245][820]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.281
+[2020.02.24-09.33.16:861][867]LogSlate: Window 'SideScrollerExampleMap - Level Blueprint Editor' being destroyed
