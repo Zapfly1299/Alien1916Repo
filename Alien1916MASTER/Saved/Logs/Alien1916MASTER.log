@@ -601,3 +601,558 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.28-14.54.28:056][854]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
 [2020.02.28-14.54.28:056][854]LogFileHelpers: Loading map 'Train' took 0.098
 [2020.02.28-14.54.41:724][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-14.57.00:604][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-14.57.18:561][320]LogMetaData: Removing '/Game/LevelFolder/Train.Train_C' ref from Metadata '/Game/SideScrollerBP/Maps/Train.PackageMetaData'
+[2020.02.28-14.57.18:561][320]LogMetaData: Removing '/Game/LevelFolder/Train.SKEL_Train_C' ref from Metadata '/Game/SideScrollerBP/Maps/Train.PackageMetaData'
+[2020.02.28-14.57.18:578][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelFolder/Train_BuiltData" FILE="D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Train_BuiltData.uasset" SILENT=true
+[2020.02.28-14.57.18:770][320]LogSavePackage: Moving 'D:/Alien1916Repo/Alien1916MASTER/Saved/Train_BuiltData81BB67944D95E2E7F941CB8A518EDD10.tmp' to 'D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Train_BuiltData.uasset'
+[2020.02.28-14.57.18:776][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelFolder/Train" FILE="D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Train.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.28-14.57.19:125][320]LogSavePackage: Moving 'D:/Alien1916Repo/Alien1916MASTER/Saved/Train52CFF0F0484F69071B3FF0A64A2E66E5.tmp' to 'D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Train.umap'
+[2020.02.28-14.57.19:199][320]LogFileHelpers: Saving map 'Train' took 0.424
+[2020.02.28-14.57.39:884][680]LogMetaData: Removing '/Game/LevelFolder/Level2/Train.Train_C' ref from Metadata '/Game/LevelFolder/Train.PackageMetaData'
+[2020.02.28-14.57.39:884][680]LogMetaData: Removing '/Game/LevelFolder/Level2/Train.SKEL_Train_C' ref from Metadata '/Game/LevelFolder/Train.PackageMetaData'
+[2020.02.28-14.57.39:896][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelFolder/Level2/Train_BuiltData" FILE="D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train_BuiltData.uasset" SILENT=true
+[2020.02.28-14.57.40:078][680]LogSavePackage: Moving 'D:/Alien1916Repo/Alien1916MASTER/Saved/Train_BuiltDataC2F76C54463E61B35CB03F801B50DE2B.tmp' to 'D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train_BuiltData.uasset'
+[2020.02.28-14.57.40:082][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelFolder/Level2/Train" FILE="D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.28-14.57.40:428][680]LogSavePackage: Moving 'D:/Alien1916Repo/Alien1916MASTER/Saved/TrainCCA946934EE5A722BA75B6848E8AC335.tmp' to 'D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train.umap'
+[2020.02.28-14.57.40:472][680]LogFileHelpers: Saving map 'Train' took 0.391
+[2020.02.28-14.58.08:966][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-14.59.04:690][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-14.59.04:765][116]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-14.59.04:780][116]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-14.59.04:780][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-14.59.04:780][116]PIE: New page: PIE session: Train (28 Feb 2020 14:59:04)
+[2020.02.28-14.59.04:793][116]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level2/UEDPIE_0_Train
+[2020.02.28-14.59.04:815][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021890s)
+[2020.02.28-14.59.04:815][116]LogAIModule: Creating AISystem for world Train
+[2020.02.28-14.59.04:816][116]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2020.02.28-14.59.04:816][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level2/Train.Train to /Game/LevelFolder/Level2/UEDPIE_0_Train.Train (0.022934s)
+[2020.02.28-14.59.04:951][116]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-14.59.05:014][116]LogInit: FAudioDevice initialized.
+[2020.02.28-14.59.05:066][116]LogLoad: Game class is 'GameMode'
+[2020.02.28-14.59.05:082][116]LogWorld: Bringing World /Game/LevelFolder/Level2/UEDPIE_0_Train.Train up for play (max tick rate 0) at 2020.02.28-14.59.05
+[2020.02.28-14.59.05:084][116]LogWorld: Bringing up level for play took: 0.015103
+[2020.02.28-14.59.05:111][116]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.02.28-14.59.05:111][116]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-14.59.05:111][116]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-14.59.05:111][116]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-14.59.05:113][116]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-14.59.05:113][116]PIE: Play in editor start time for /Game/LevelFolder/Level2/UEDPIE_0_Train 1.321
+[2020.02.28-14.59.05:114][116]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-14.59.09:548][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-14.59.09:548][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.59.09:584][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-14.59.09:585][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-14.59.09:637][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.59.09:660][640]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.28-14.59.15:249][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-14.59.15:398][292]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DefaultContent/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2020.02.28-14.59.16:129][292]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2020.02.28-14.59.17:388][292]LogSlate: Took 0.006336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.28-14.59.17:603][293]LogSlate: Took 0.011757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.28-14.59.23:926][858]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2020.02.28-14.59.23:931][858]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2020.02.28-14.59.26:381][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (train_level_sm_trainbackground)
+[2020.02.28-14.59.27:134][210]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2020.02.28-14.59.31:523][681]Cmd: DELETE
+[2020.02.28-14.59.31:523][681]Cmd: ACTOR DELETE
+[2020.02.28-14.59.31:531][681]LogEditorActor: Deleted Actor: SideScrollerCharacter_C
+[2020.02.28-14.59.31:621][681]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2020.02.28-14.59.36:186][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.00.08:155][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.00.08:230][908]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-15.00.08:250][908]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.00.08:250][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-15.00.08:250][908]PIE: New page: PIE session: Train (28 Feb 2020 15:00:08)
+[2020.02.28-15.00.08:250][908]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level2/UEDPIE_0_Train
+[2020.02.28-15.00.08:270][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019792s)
+[2020.02.28-15.00.08:271][908]LogAIModule: Creating AISystem for world Train
+[2020.02.28-15.00.08:271][908]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2020.02.28-15.00.08:271][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level2/Train.Train to /Game/LevelFolder/Level2/UEDPIE_0_Train.Train (0.020707s)
+[2020.02.28-15.00.08:400][908]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-15.00.08:468][908]LogInit: FAudioDevice initialized.
+[2020.02.28-15.00.08:505][908]LogLoad: Game class is 'GameMode'
+[2020.02.28-15.00.08:520][908]LogWorld: Bringing World /Game/LevelFolder/Level2/UEDPIE_0_Train.Train up for play (max tick rate 0) at 2020.02.28-15.00.08
+[2020.02.28-15.00.08:521][908]LogWorld: Bringing up level for play took: 0.014113
+[2020.02.28-15.00.08:536][908]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.00.08:536][908]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.00.08:536][908]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.00.08:537][908]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.00.08:537][908]PIE: Play in editor start time for /Game/LevelFolder/Level2/UEDPIE_0_Train 0.745
+[2020.02.28-15.00.08:538][908]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.00.09:786][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.00.09:787][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.00.09:825][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-15.00.09:825][ 53]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.00.09:881][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.00.09:900][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.02.28-15.00.14:523][561]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.00.24:270][627]Cmd: TRANSACTION UNDO
+[2020.02.28-15.00.24:270][627]LogEditorTransaction: Undo Rotate Actors
+[2020.02.28-15.00.27:334][920]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.00.28:695][ 76]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.00.29:261][139]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.00.29:553][172]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2020.02.28-15.00.29:839][198]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2020.02.28-15.00.41:885][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.00.41:979][593]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-15.00.41:994][593]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.00.41:994][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-15.00.41:994][593]PIE: New page: PIE session: Train (28 Feb 2020 15:00:41)
+[2020.02.28-15.00.41:994][593]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level2/UEDPIE_0_Train
+[2020.02.28-15.00.42:024][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029813s)
+[2020.02.28-15.00.42:025][593]LogAIModule: Creating AISystem for world Train
+[2020.02.28-15.00.42:025][593]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2020.02.28-15.00.42:025][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level2/Train.Train to /Game/LevelFolder/Level2/UEDPIE_0_Train.Train (0.031334s)
+[2020.02.28-15.00.42:161][593]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-15.00.42:192][593]LogInit: FAudioDevice initialized.
+[2020.02.28-15.00.42:235][593]LogLoad: Game class is 'GameMode'
+[2020.02.28-15.00.42:248][593]LogWorld: Bringing World /Game/LevelFolder/Level2/UEDPIE_0_Train.Train up for play (max tick rate 0) at 2020.02.28-15.00.42
+[2020.02.28-15.00.42:249][593]LogWorld: Bringing up level for play took: 0.014094
+[2020.02.28-15.00.42:264][593]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.00.42:264][593]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.00.42:264][593]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.00.42:266][593]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.00.42:266][593]PIE: Play in editor start time for /Game/LevelFolder/Level2/UEDPIE_0_Train 0.473
+[2020.02.28-15.00.42:266][593]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.00.43:693][757]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.00.43:693][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.00.43:738][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-15.00.43:738][757]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.00.43:801][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.00.43:826][758]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.28-15.00.48:620][286]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.02.28-15.00.50:808][488]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.00.56:416][ 73]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.01.06:166][ 91]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.01.06:578][137]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2020.02.28-15.01.06:843][162]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2020.02.28-15.01.07:918][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.01.07:999][290]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-15.01.08:014][290]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.01.08:014][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-15.01.08:014][290]PIE: New page: PIE session: Train (28 Feb 2020 15:01:08)
+[2020.02.28-15.01.08:014][290]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level2/UEDPIE_0_Train
+[2020.02.28-15.01.08:036][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022474s)
+[2020.02.28-15.01.08:037][290]LogAIModule: Creating AISystem for world Train
+[2020.02.28-15.01.08:037][290]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2020.02.28-15.01.08:037][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level2/Train.Train to /Game/LevelFolder/Level2/UEDPIE_0_Train.Train (0.023474s)
+[2020.02.28-15.01.08:160][290]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-15.01.08:208][290]LogInit: FAudioDevice initialized.
+[2020.02.28-15.01.08:246][290]LogLoad: Game class is 'GameMode'
+[2020.02.28-15.01.08:260][290]LogWorld: Bringing World /Game/LevelFolder/Level2/UEDPIE_0_Train.Train up for play (max tick rate 0) at 2020.02.28-15.01.08
+[2020.02.28-15.01.08:262][290]LogWorld: Bringing up level for play took: 0.013711
+[2020.02.28-15.01.08:276][290]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.01.08:276][290]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.01.08:276][290]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.01.08:276][290]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.01.08:277][290]PIE: Play in editor start time for /Game/LevelFolder/Level2/UEDPIE_0_Train 0.484
+[2020.02.28-15.01.08:277][290]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.01.18:742][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.01.30:465][927]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.01.30:465][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.01.30:504][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-15.01.30:505][927]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.01.30:560][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.01.30:584][928]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.28-15.01.37:376][719]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.01.48:769][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.01.48:857][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelFolder/Level2/Train" FILE="D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.28-15.01.49:270][938]LogSavePackage: Moving 'D:/Alien1916Repo/Alien1916MASTER/Saved/Train54ABA2EB4DB90C527C355FB8E24EBB2A.tmp' to 'D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train.umap'
+[2020.02.28-15.01.49:317][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelFolder/Level2/Train_BuiltData" FILE="D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train_BuiltData.uasset" SILENT=true
+[2020.02.28-15.01.49:595][938]LogSavePackage: Moving 'D:/Alien1916Repo/Alien1916MASTER/Saved/Train_BuiltData982E933A43965BF2A49239A5FE4ED7CC.tmp' to 'D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train_BuiltData.uasset'
+[2020.02.28-15.01.51:566][155]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-15.01.51:579][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.01.51:579][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-15.01.51:579][155]PIE: New page: PIE session: Train (28 Feb 2020 15:01:51)
+[2020.02.28-15.01.51:580][155]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level2/UEDPIE_0_Train
+[2020.02.28-15.01.51:600][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020405s)
+[2020.02.28-15.01.51:601][155]LogAIModule: Creating AISystem for world Train
+[2020.02.28-15.01.51:601][155]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2020.02.28-15.01.51:601][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level2/Train.Train to /Game/LevelFolder/Level2/UEDPIE_0_Train.Train (0.021273s)
+[2020.02.28-15.01.51:719][155]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-15.01.51:784][155]LogInit: FAudioDevice initialized.
+[2020.02.28-15.01.51:824][155]LogLoad: Game class is 'GameMode'
+[2020.02.28-15.01.51:839][155]LogWorld: Bringing World /Game/LevelFolder/Level2/UEDPIE_0_Train.Train up for play (max tick rate 0) at 2020.02.28-15.01.51
+[2020.02.28-15.01.51:840][155]LogWorld: Bringing up level for play took: 0.014497
+[2020.02.28-15.01.51:855][155]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.01.51:855][155]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.01.51:855][155]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.01.51:857][155]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.01.51:857][155]PIE: Play in editor start time for /Game/LevelFolder/Level2/UEDPIE_0_Train 0.064
+[2020.02.28-15.01.51:857][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.01.52:996][286]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.01.52:996][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.01.53:039][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-15.01.53:040][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.01.53:096][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.01.53:120][287]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.28-15.01.56:954][702]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.01.59:989][ 10]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.02.01:128][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.02.02:441][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.02.03:878][277]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.28-15.02.03:996][280]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Alien1916MASTER
+[2020.02.28-15.02.03:996][280]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2020.02.28-15.02.03:996][280]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2020.02.28-15.02.03:996][280]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2020.02.28-15.02.03:996][280]LogTemp: BranchPath = TU39419/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = TU39419/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2020.02.28-15.02.04:021][281]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\v8094536\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2020.02.28-15.03.03:899][468]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.28-15.03.03:903][468]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.28-15.03.08:914][ 36]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.03.34:220][900]Cmd: TRANSACTION UNDO
+[2020.02.28-15.03.34:220][900]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.28-15.03.35:542][ 18]Cmd: TRANSACTION UNDO
+[2020.02.28-15.03.35:542][ 18]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.28-15.03.36:065][ 75]Cmd: TRANSACTION UNDO
+[2020.02.28-15.03.36:065][ 75]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.28-15.03.42:501][795]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.03.48:552][455]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.04.08:444][609]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-15.04.08:458][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.04.08:458][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-15.04.08:458][609]PIE: New page: PIE session: Train (28 Feb 2020 15:04:08)
+[2020.02.28-15.04.08:458][609]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level2/UEDPIE_0_Train
+[2020.02.28-15.04.08:480][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021067s)
+[2020.02.28-15.04.08:480][609]LogAIModule: Creating AISystem for world Train
+[2020.02.28-15.04.08:480][609]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2020.02.28-15.04.08:480][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level2/Train.Train to /Game/LevelFolder/Level2/UEDPIE_0_Train.Train (0.022065s)
+[2020.02.28-15.04.08:591][609]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-15.04.08:643][609]LogInit: FAudioDevice initialized.
+[2020.02.28-15.04.08:682][609]LogLoad: Game class is 'GameMode'
+[2020.02.28-15.04.08:697][609]LogWorld: Bringing World /Game/LevelFolder/Level2/UEDPIE_0_Train.Train up for play (max tick rate 0) at 2020.02.28-15.04.08
+[2020.02.28-15.04.08:698][609]LogWorld: Bringing up level for play took: 0.014093
+[2020.02.28-15.04.08:713][609]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.04.08:713][609]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.04.08:713][609]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.04.08:714][609]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.04.08:714][609]PIE: Play in editor start time for /Game/LevelFolder/Level2/UEDPIE_0_Train 0.921
+[2020.02.28-15.04.08:714][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.04.15:937][466]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.02.28-15.04.16:113][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.04.16:113][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.04.16:152][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-15.04.16:153][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.04.16:209][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.04.16:231][488]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.28-15.04.22:476][205]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.04.25:598][458]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.04.26:156][515]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.04.26:523][553]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2020.02.28-15.04.30:251][959]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.28-15.04.30:457][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.04.30:921][ 24]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-15.04.30:937][ 24]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.04.30:937][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-15.04.30:937][ 24]PIE: New page: PIE session: Train (28 Feb 2020 15:04:30)
+[2020.02.28-15.04.30:937][ 24]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level2/UEDPIE_0_Train
+[2020.02.28-15.04.30:957][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020249s)
+[2020.02.28-15.04.30:958][ 24]LogAIModule: Creating AISystem for world Train
+[2020.02.28-15.04.30:958][ 24]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2020.02.28-15.04.30:958][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level2/Train.Train to /Game/LevelFolder/Level2/UEDPIE_0_Train.Train (0.021143s)
+[2020.02.28-15.04.31:014][ 24]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-15.04.31:048][ 24]LogInit: FAudioDevice initialized.
+[2020.02.28-15.04.31:089][ 24]LogLoad: Game class is 'GameMode'
+[2020.02.28-15.04.31:103][ 24]LogWorld: Bringing World /Game/LevelFolder/Level2/UEDPIE_0_Train.Train up for play (max tick rate 0) at 2020.02.28-15.04.31
+[2020.02.28-15.04.31:104][ 24]LogWorld: Bringing up level for play took: 0.013869
+[2020.02.28-15.04.31:120][ 24]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.04.31:120][ 24]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.04.31:120][ 24]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.04.31:121][ 24]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.04.31:121][ 24]PIE: Play in editor start time for /Game/LevelFolder/Level2/UEDPIE_0_Train -0.672
+[2020.02.28-15.04.31:121][ 24]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.04.33:739][329]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.02.28-15.04.36:012][601]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.02.28-15.04.37:689][801]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.04.37:689][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.04.37:728][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-15.04.37:729][801]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.04.37:783][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.04.37:806][802]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.28-15.04.42:260][280]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.04.45:521][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.04.45:672][643]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-15.04.45:689][643]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.04.45:689][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-15.04.45:689][643]PIE: New page: PIE session: Train (28 Feb 2020 15:04:45)
+[2020.02.28-15.04.45:689][643]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level2/UEDPIE_0_Train
+[2020.02.28-15.04.45:712][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022766s)
+[2020.02.28-15.04.45:713][643]LogAIModule: Creating AISystem for world Train
+[2020.02.28-15.04.45:713][643]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2020.02.28-15.04.45:713][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level2/Train.Train to /Game/LevelFolder/Level2/UEDPIE_0_Train.Train (0.023714s)
+[2020.02.28-15.04.45:831][643]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-15.04.45:872][643]LogInit: FAudioDevice initialized.
+[2020.02.28-15.04.45:907][643]LogLoad: Game class is 'GameMode'
+[2020.02.28-15.04.45:921][643]LogWorld: Bringing World /Game/LevelFolder/Level2/UEDPIE_0_Train.Train up for play (max tick rate 0) at 2020.02.28-15.04.45
+[2020.02.28-15.04.45:922][643]LogWorld: Bringing up level for play took: 0.012952
+[2020.02.28-15.04.45:937][643]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.04.45:937][643]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.04.45:937][643]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.04.45:938][643]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.04.45:938][643]PIE: Play in editor start time for /Game/LevelFolder/Level2/UEDPIE_0_Train 0.145
+[2020.02.28-15.04.45:939][643]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.04.58:314][121]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.02.28-15.05.01:980][541]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.05.03:000][663]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.05.03:001][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.05.03:041][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-15.05.03:041][663]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.05.03:100][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.05.03:128][664]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.28-15.05.05:024][872]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.05.10:132][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.05.10:236][394]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-15.05.10:251][394]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.05.10:251][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-15.05.10:251][394]PIE: New page: PIE session: Train (28 Feb 2020 15:05:10)
+[2020.02.28-15.05.10:251][394]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level2/UEDPIE_0_Train
+[2020.02.28-15.05.10:273][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022183s)
+[2020.02.28-15.05.10:274][394]LogAIModule: Creating AISystem for world Train
+[2020.02.28-15.05.10:275][394]LogPlayLevel: PIE: World Init took: (0.001234s)
+[2020.02.28-15.05.10:275][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level2/Train.Train to /Game/LevelFolder/Level2/UEDPIE_0_Train.Train (0.023702s)
+[2020.02.28-15.05.10:389][394]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-15.05.10:456][394]LogInit: FAudioDevice initialized.
+[2020.02.28-15.05.10:495][394]LogLoad: Game class is 'GameMode'
+[2020.02.28-15.05.10:510][394]LogWorld: Bringing World /Game/LevelFolder/Level2/UEDPIE_0_Train.Train up for play (max tick rate 0) at 2020.02.28-15.05.10
+[2020.02.28-15.05.10:511][394]LogWorld: Bringing up level for play took: 0.014269
+[2020.02.28-15.05.10:525][394]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.05.10:525][394]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.05.10:525][394]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.05.10:526][394]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.05.10:526][394]PIE: Play in editor start time for /Game/LevelFolder/Level2/UEDPIE_0_Train 0.734
+[2020.02.28-15.05.10:527][394]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.05.19:260][430]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.05.23:720][963]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.05.23:720][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.05.23:760][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-15.05.23:761][963]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.05.23:820][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.05.23:839][964]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.28-15.05.25:924][206]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (train_level_sm_trainbackground)
+[2020.02.28-15.05.25:969][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.05.27:448][347]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.28-15.05.37:205][465]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.02.28-15.05.38:543][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.07.54:407][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.07.54:876][886]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-15.07.54:892][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.07.54:892][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-15.07.54:892][886]PIE: New page: PIE session: Train (28 Feb 2020 15:07:54)
+[2020.02.28-15.07.54:892][886]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level2/UEDPIE_0_Train
+[2020.02.28-15.07.54:914][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022260s)
+[2020.02.28-15.07.54:915][886]LogAIModule: Creating AISystem for world Train
+[2020.02.28-15.07.54:915][886]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2020.02.28-15.07.54:915][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level2/Train.Train to /Game/LevelFolder/Level2/UEDPIE_0_Train.Train (0.023330s)
+[2020.02.28-15.07.55:041][886]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-15.07.55:087][886]LogInit: FAudioDevice initialized.
+[2020.02.28-15.07.55:125][886]LogLoad: Game class is 'GameMode'
+[2020.02.28-15.07.55:141][886]LogWorld: Bringing World /Game/LevelFolder/Level2/UEDPIE_0_Train.Train up for play (max tick rate 0) at 2020.02.28-15.07.55
+[2020.02.28-15.07.55:142][886]LogWorld: Bringing up level for play took: 0.015249
+[2020.02.28-15.07.55:157][886]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.07.55:157][886]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-15.07.55:157][886]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.07.55:158][886]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-15.07.55:158][886]PIE: Play in editor start time for /Game/LevelFolder/Level2/UEDPIE_0_Train -0.635
+[2020.02.28-15.07.55:159][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.08.00:681][539]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.02.28-15.08.00:944][570]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.08.00:944][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.08.00:984][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-15.08.00:985][570]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level2/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/LevelFolder/Level2/Train.Train_C' with ClassGeneratedBy '/Game/LevelFolder/Level2/Train.Train:PersistentLevel.Train'
+[2020.02.28-15.08.01:043][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.08.01:072][571]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.28-15.08.01:298][594]Cmd: SELECT NONE
+[2020.02.28-15.08.06:550][168]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Blocked point (player must use vent))
+[2020.02.28-15.08.08:262][353]Cmd: EDIT COPY
+[2020.02.28-15.08.08:541][384]Cmd: EDIT PASTE
+[2020.02.28-15.08.27:465][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.08.56:662][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.09.09:714][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.09.23:046][657]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.28-15.09.37:623][215]Cmd: EDIT COPY
+[2020.02.28-15.09.37:972][252]Cmd: EDIT PASTE
+[2020.02.28-15.09.50:105][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.10.34:961][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.11.06:887][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (train_level_sm_storageshelf)
+[2020.02.28-15.11.51:351][816]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Storage Room2)
+[2020.02.28-15.11.59:205][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.12.38:148][907]Cmd: EDIT COPY
+[2020.02.28-15.12.38:486][944]Cmd: EDIT PASTE
+[2020.02.28-15.12.50:299][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.12.56:329][828]Cmd: EDIT COPY
+[2020.02.28-15.12.56:651][862]Cmd: EDIT PASTE
+[2020.02.28-15.13.00:525][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.13.22:886][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (train_level_sm_trainbackground)
+[2020.02.28-15.13.24:482][966]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.28-15.13.25:754][103]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Blocked point (player must use vent))
+[2020.02.28-15.13.30:916][681]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.13.39:248][565]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.28-15.13.40:090][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (train_level_sm_trainmiddle)
+[2020.02.28-15.13.50:107][751]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Storage Room)
+[2020.02.28-15.13.54:214][196]Cmd: EDIT COPY
+[2020.02.28-15.13.54:566][224]Cmd: EDIT PASTE
+[2020.02.28-15.14.02:272][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.14.31:121][357]Cmd: EDIT COPY
+[2020.02.28-15.14.31:485][399]Cmd: EDIT PASTE
+[2020.02.28-15.14.52:559][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.15.31:763][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelFolder/Level2/Train" FILE="D:/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/LevelFolder/Level2/Train_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.28-15.15.32:175][380]LogSavePackage: Moving 'D:/Alien1916Repo/Alien1916MASTER/Saved/Train_Auto115FD59CC40711A10273A1984C30D5456.tmp' to 'D:/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/LevelFolder/Level2/Train_Auto1.umap'
+[2020.02.28-15.15.32:180][380]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelFolder/Level2/Train' took 0.469
+[2020.02.28-15.15.32:180][380]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.469
+[2020.02.28-15.15.43:792][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.16.20:602][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (carriage2_sm__c2_trainbackground3)
+[2020.02.28-15.16.28:807][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (carriage2_sm__c2_trainbackground3)
+[2020.02.28-15.16.29:364][841]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Shelf can be walked on)
+[2020.02.28-15.16.30:073][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (carriage2_sm__c2_trainbackground3)
+[2020.02.28-15.16.34:360][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (train_level_sm_trainbottom)
+[2020.02.28-15.16.35:154][422]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (ammo box/ crates2)
+[2020.02.28-15.16.36:737][595]Cmd: EDIT COPY
+[2020.02.28-15.16.41:674][113]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Ammo crate)
+[2020.02.28-15.16.42:641][205]Cmd: DELETE
+[2020.02.28-15.16.42:642][205]Cmd: ACTOR DELETE
+[2020.02.28-15.16.42:650][205]LogEditorActor: Deleted Actor: TextRenderActor
+[2020.02.28-15.16.42:700][205]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2020.02.28-15.16.43:696][322]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (ammo box/ crates2)
+[2020.02.28-15.16.49:793][  9]Cmd: EDIT COPY
+[2020.02.28-15.16.50:054][ 21]Cmd: EDIT PASTE
+[2020.02.28-15.16.53:462][399]Cmd: EDIT COPY
+[2020.02.28-15.16.53:691][424]Cmd: EDIT PASTE
+[2020.02.28-15.16.59:410][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (train_level_sm_storageshelf3)
+[2020.02.28-15.17.00:256][106]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (crate)
+[2020.02.28-15.17.02:608][358]Cmd: EDIT COPY
+[2020.02.28-15.17.02:868][378]Cmd: EDIT PASTE
+[2020.02.28-15.17.03:995][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.17.10:437][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.17.40:581][568]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (vent)
+[2020.02.28-15.17.44:570][987]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (ammo box/ crates2)
+[2020.02.28-15.17.50:328][539]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (crate)
+[2020.02.28-15.17.53:152][849]Cmd: EDIT COPY
+[2020.02.28-15.17.53:395][874]Cmd: EDIT PASTE
+[2020.02.28-15.18.05:490][153]Cmd: EDIT COPY
+[2020.02.28-15.18.05:713][163]Cmd: EDIT PASTE
+[2020.02.28-15.18.09:152][528]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Machine gun)
+[2020.02.28-15.18.11:003][717]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.18.16:637][275]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.28-15.18.20:120][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.18.23:718][ 63]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (crate3)
+[2020.02.28-15.18.27:873][471]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (ammo box/ crates4)
+[2020.02.28-15.18.29:933][681]Cmd: EDIT COPY
+[2020.02.28-15.18.30:171][703]Cmd: EDIT PASTE
+[2020.02.28-15.18.40:930][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (carriage2_sm__c2_trainroof1)
+[2020.02.28-15.18.42:842][ 42]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Munitions Room)
+[2020.02.28-15.18.49:768][790]Cmd: EDIT COPY
+[2020.02.28-15.18.50:009][817]Cmd: EDIT PASTE
+[2020.02.28-15.18.57:418][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.19.01:258][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.19.31:222][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.19.53:055][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.20.05:205][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.20.12:391][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelFolder/Level2/Train" FILE="D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.28-15.20.12:784][855]LogSavePackage: Moving 'D:/Alien1916Repo/Alien1916MASTER/Saved/Train6073CAA9488707D1DEC38C95329FFDB1.tmp' to 'D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train.umap'
+[2020.02.28-15.20.12:845][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelFolder/Level2/Train_BuiltData" FILE="D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train_BuiltData.uasset" SILENT=true
+[2020.02.28-15.20.13:152][855]LogSavePackage: Moving 'D:/Alien1916Repo/Alien1916MASTER/Saved/Train_BuiltDataA8BF34974A9A74D9FC72F8BD64AB979F.tmp' to 'D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train_BuiltData.uasset'
+[2020.02.28-15.20.36:641][446]Cmd: EDIT COPY
+[2020.02.28-15.20.36:888][474]Cmd: EDIT PASTE
+[2020.02.28-15.20.48:256][666]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (entrance to carriage 4)
+[2020.02.28-15.20.49:819][826]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.20.54:913][324]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Bunkbeds)
+[2020.02.28-15.20.56:196][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.20.56:268][475]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.28-15.21.00:294][879]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (entrance to carriage 4)
+[2020.02.28-15.21.03:433][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (carriage3_sm_trainbackground3)
+[2020.02.28-15.21.15:376][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.21.24:688][565]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Bunkbeds)
+[2020.02.28-15.21.26:315][732]Cmd: EDIT COPY
+[2020.02.28-15.21.26:553][756]Cmd: EDIT PASTE
+[2020.02.28-15.21.34:089][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.21.56:816][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.22.15:194][ 45]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (ammo box/ crates2)
+[2020.02.28-15.22.16:640][194]Cmd: EDIT COPY
+[2020.02.28-15.22.16:909][223]Cmd: EDIT PASTE
+[2020.02.28-15.22.22:372][780]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.02.28-15.22.23:017][847]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.02.28-15.22.24:566][ 17]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.28-15.22.36:486][285]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Bunkbeds/ Barracks)
+[2020.02.28-15.22.38:574][513]Cmd: EDIT COPY
+[2020.02.28-15.22.38:801][531]Cmd: EDIT PASTE
+[2020.02.28-15.22.45:404][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.22.54:210][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.23.04:949][340]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Bunkbeds2)
+[2020.02.28-15.23.12:825][220]Cmd: EDIT COPY
+[2020.02.28-15.23.13:099][246]Cmd: EDIT PASTE
+[2020.02.28-15.23.20:519][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.23.47:136][ 26]Cmd: EDIT COPY
+[2020.02.28-15.23.47:514][ 67]Cmd: EDIT PASTE
+[2020.02.28-15.23.52:988][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.24.11:320][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (carriage4_sm_kitchencupboard)
+[2020.02.28-15.24.13:369][915]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (fridge)
+[2020.02.28-15.24.15:097][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.24.31:185][807]Cmd: EDIT COPY
+[2020.02.28-15.24.31:482][836]Cmd: EDIT PASTE
+[2020.02.28-15.24.36:252][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.24.59:362][924]Cmd: EDIT COPY
+[2020.02.28-15.24.59:787][971]Cmd: EDIT PASTE
+[2020.02.28-15.25.03:369][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.25.18:923][ 85]Cmd: EDIT COPY
+[2020.02.28-15.25.19:299][125]Cmd: EDIT PASTE
+[2020.02.28-15.25.45:400][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.25.58:408][327]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (machine gun)
+[2020.02.28-15.26.00:359][543]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.26.03:192][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.26.04:814][  2]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Crate)
+[2020.02.28-15.26.05:775][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.26.05:868][115]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.28-15.26.08:568][365]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (machine gun)
+[2020.02.28-15.26.21:897][797]Cmd: EDIT COPY
+[2020.02.28-15.26.22:228][831]Cmd: EDIT PASTE
+[2020.02.28-15.26.27:020][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.26.56:517][567]Cmd: EDIT COPY
+[2020.02.28-15.26.56:719][587]Cmd: EDIT PASTE
+[2020.02.28-15.27.16:004][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.27.35:057][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.27.35:159][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelFolder/Level2/Train" FILE="D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.28-15.27.35:571][773]LogSavePackage: Moving 'D:/Alien1916Repo/Alien1916MASTER/Saved/Train578A32864F2F57908F40079447CCDE60.tmp' to 'D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train.umap'
+[2020.02.28-15.27.35:645][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelFolder/Level2/Train_BuiltData" FILE="D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train_BuiltData.uasset" SILENT=true
+[2020.02.28-15.27.35:929][773]LogSavePackage: Moving 'D:/Alien1916Repo/Alien1916MASTER/Saved/Train_BuiltData8DA8333F42F22075E4BCF68057BD27B5.tmp' to 'D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train_BuiltData.uasset'
+[2020.02.28-15.27.39:310][143]Cmd: EDIT COPY
+[2020.02.28-15.27.39:555][167]Cmd: EDIT PASTE
+[2020.02.28-15.27.51:437][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.27.56:104][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.28.05:693][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.28.11:001][590]Cmd: EDIT COPY
+[2020.02.28-15.28.11:253][619]Cmd: EDIT PASTE
+[2020.02.28-15.28.23:300][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.28.47:297][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.29.01:857][137]Cmd: EDIT COPY
+[2020.02.28-15.29.02:088][153]Cmd: EDIT PASTE
+[2020.02.28-15.29.11:193][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.29.40:174][320]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (ammo box/ crates6)
+[2020.02.28-15.29.44:175][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.30.09:226][515]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.28-15.30.11:193][727]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.02.28-15.30.15:076][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.30.15:182][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelFolder/Level2/Train" FILE="D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.28-15.30.15:545][169]LogSavePackage: Moving 'D:/Alien1916Repo/Alien1916MASTER/Saved/Train74F72E344DB8A33CA4CF088E3007DB33.tmp' to 'D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train.umap'
+[2020.02.28-15.30.15:591][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelFolder/Level2/Train_BuiltData" FILE="D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train_BuiltData.uasset" SILENT=true
+[2020.02.28-15.30.15:875][169]LogSavePackage: Moving 'D:/Alien1916Repo/Alien1916MASTER/Saved/Train_BuiltData58398161461180CF33AEDCBA2F496EDC.tmp' to 'D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train_BuiltData.uasset'
+[2020.02.28-15.31.44:027][965]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.31.47:957][414]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.31.48:322][455]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.31.48:585][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.31.48:810][508]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.31.49:003][527]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.31.54:691][169]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.35.05:470][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.35.05:539][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelFolder/Level2/Train" FILE="D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.28-15.35.05:997][258]LogSavePackage: Moving 'D:/Alien1916Repo/Alien1916MASTER/Saved/TrainD5E31C16441DA7F653836A960F49A0D7.tmp' to 'D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train.umap'
+[2020.02.28-15.35.06:075][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelFolder/Level2/Train_BuiltData" FILE="D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train_BuiltData.uasset" SILENT=true
+[2020.02.28-15.35.06:359][258]LogSavePackage: Moving 'D:/Alien1916Repo/Alien1916MASTER/Saved/Train_BuiltDataD4192ADE47F20E0C4D386A9A93ED8B55.tmp' to 'D:/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train_BuiltData.uasset'
+[2020.02.28-15.35.19:654][638]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.35.19:880][662]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.35.20:640][747]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.35.29:873][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.35.32:783][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.37.27:152][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.38.39:746][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.39.40:215][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
