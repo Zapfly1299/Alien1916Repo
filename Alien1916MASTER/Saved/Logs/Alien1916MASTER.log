@@ -1,0 +1,1309 @@
+﻿Log file open, 02/28/20 15:51:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Alien1916MASTER
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.415179
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.092s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7800X CPU @ 3.50GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.28-15.51.40:817][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.28-15.51.40:817][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.28-15.51.40:817][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.02.28-15.51.40:818][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.28-15.51.40:818][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.28-15.51.40:819][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.02.28-15.51.40:819][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.28-15.51.40:819][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.28-15.51.40:819][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.28-15.51.40:819][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.28-15.51.40:819][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.02.28-15.51.40:819][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.02.28-15.51.40:834][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.51.40:834][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.28-15.51.40:834][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.28-15.51.40:834][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.51.40:834][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.28-15.51.40:834][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.51.40:834][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.28-15.51.40:834][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.28-15.51.40:834][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.28-15.51.40:834][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.28-15.51.40:834][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.28-15.51.40:834][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.28-15.51.40:834][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.28-15.51.40:835][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.28-15.51.40:836][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.28-15.51.40:837][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.28-15.51.40:837][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.28-15.51.40:837][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.28-15.51.40:837][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.28-15.51.40:837][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.28-15.51.40:837][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.28-15.51.40:837][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.28-15.51.40:837][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.28-15.51.40:837][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.28-15.51.40:837][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.28-15.51.40:837][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.28-15.51.40:837][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.51.40:837][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.28-15.51.40:837][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.28-15.51.40:837][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.28-15.51.40:837][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.28-15.51.40:868][  0]LogHAL: Display: Platform has ~ 32 GB [34063945728 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.02.28-15.51.40:869][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.28-15.51.40:869][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.28-15.51.40:869][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.28-15.51.40:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.28-15.51.40:871][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.28-15.51.40:872][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.28-15.51.40:872][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.28-15.51.40:872][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.28-15.51.40:872][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.28-15.51.40:872][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.51.40:872][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.28-15.51.40:872][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.28-15.51.40:872][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.28-15.51.40:872][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.28-15.51.40:872][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.02.28-15.51.40:873][  0]LogInit: Computer: TU39434
+[2020.02.28-15.51.40:873][  0]LogInit: User: v8046588
+[2020.02.28-15.51.40:873][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.02.28-15.51.40:873][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.28-15.51.40:873][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2020.02.28-15.51.40:874][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.28-15.51.40:874][  0]LogMemory: Process Physical Memory: 105.39 MB used, 105.40 MB peak
+[2020.02.28-15.51.40:874][  0]LogMemory: Process Virtual Memory: 94.61 MB used, 94.61 MB peak
+[2020.02.28-15.51.40:874][  0]LogMemory: Physical Memory: 7707.80 MB used,  24778.11 MB free, 32485.91 MB total
+[2020.02.28-15.51.40:874][  0]LogMemory: Virtual Memory: 4672.01 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.02.28-15.51.40:908][  0]LogInit: Using OS detected language (en-GB).
+[2020.02.28-15.51.40:908][  0]LogInit: Using OS detected locale (en-GB).
+[2020.02.28-15.51.40:909][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.02.28-15.51.41:275][  0]LogStreaming: Display: Took  0.368s to InitEngineTextLocalization.
+[2020.02.28-15.51.41:276][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.28-15.51.41:336][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.28-15.51.41:336][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.28-15.51.41:527][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.28-15.51.41:527][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.28-15.51.41:634][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2020.02.28-15.51.41:634][  0]LogD3D11RHI:       8010/0/16242 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.28-15.51.41:638][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.28-15.51.41:638][  0]LogD3D11RHI:       0/0/16242 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.28-15.51.41:638][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.28-15.51.41:646][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.28-15.51.41:646][  0]LogD3D11RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.28-15.51.41:646][  0]LogWindows: EnumDisplayDevices:
+[2020.02.28-15.51.41:647][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2020.02.28-15.51.41:648][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2020.02.28-15.51.41:649][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.02.28-15.51.41:650][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.02.28-15.51.41:650][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.28-15.51.41:650][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2020.02.28-15.51.41:650][  0]LogD3D11RHI:   Driver Version: 431.70 (internal:26.21.14.3170, unified:431.70)
+[2020.02.28-15.51.41:650][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.02.28-15.51.41:650][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2020.02.28-15.51.41:704][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.28-15.51.41:718][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.28-15.51.42:209][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.02.28-15.51.42:225][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.02.28-15.51.42:237][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.02.28-15.51.42:249][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.02.28-15.51.42:261][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.02.28-15.51.42:273][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.02.28-15.51.42:284][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.02.28-15.51.42:296][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.02.28-15.51.42:302][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-15.51.42:366][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.02.28-15.51.42:454][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.02.28-15.51.42:454][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.02.28-15.51.42:482][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.02.28-15.51.42:483][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.02.28-15.51.42:494][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.02.28-15.51.42:505][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.02.28-15.51.42:516][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.02.28-15.51.42:527][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.02.28-15.51.42:567][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.02.28-15.51.42:567][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.02.28-15.51.42:567][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.28-15.51.42:625][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (D:/mb/Alien1916Repo/Alien1916MASTER/Intermediate/Shaders/WorkingDirectory/7688/).
+[2020.02.28-15.51.42:625][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/v8046588/AppData/Local/Temp/UnrealShaderWorkingDir/1017D5804DD8EA68FA08F68333317CE5/'.
+[2020.02.28-15.51.42:627][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.28-15.51.42:627][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.28-15.51.42:627][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.28-15.51.43:114][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.28-15.51.43:162][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/v8046588/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.02.28-15.51.43:162][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/v8046588/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.02.28-15.51.43:162][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/mb/Alien1916Repo/Alien1916MASTER/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.28-15.51.43:162][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.28-15.51.43:162][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/mb/Alien1916Repo/Alien1916MASTER/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.28-15.51.43:162][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.28-15.51.43:175][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.28-15.51.43:175][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.28-15.51.43:175][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.28-15.51.43:188][  0]LogDerivedDataCache: Using Local data cache path C:/Users/v8046588/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.28-15.51.43:188][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.28-15.51.43:188][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.28-15.51.43:209][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.28-15.51.43:210][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.28-15.51.43:211][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.28-15.51.43:288][  0]LogAssetRegistry: FAssetRegistry took 0.0322 seconds to start up
+[2020.02.28-15.51.43:565][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.28-15.51.43:721][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.02.28-15.51.43:724][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.02.28-15.51.43:724][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.28-15.51.43:724][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.28-15.51.43:724][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.02.28-15.51.43:740][  0]LogNetVersion: Alien1916MASTER 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 709990158)
+[2020.02.28-15.51.44:353][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.122815 seconds
+[2020.02.28-15.51.44:369][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.02.28-15.51.44:369][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.02.28-15.51.44:369][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.28-15.51.45:210][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.28-15.51.45:225][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.28-15.51.45:900][  0]SourceControl: Source control is disabled
+[2020.02.28-15.51.45:900][  0]SourceControl: Source control is disabled
+[2020.02.28-15.51.45:901][  0]SourceControl: Source control is disabled
+[2020.02.28-15.51.45:902][  0]SourceControl: Source control is disabled
+[2020.02.28-15.51.46:099][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.28-15.51.46:253][  0]LogOcInput: OculusInput pre-init called
+[2020.02.28-15.51.46:430][  0]LogEngine: Initializing Engine...
+[2020.02.28-15.51.46:431][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.28-15.51.46:433][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.02.28-15.51.46:433][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.02.28-15.51.46:433][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.02.28-15.51.46:433][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.02.28-15.51.46:718][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.28-15.51.46:739][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.28-15.51.46:762][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.28-15.51.46:883][  0]LogInit: FAudioDevice initialized.
+[2020.02.28-15.51.46:884][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.28-15.51.46:965][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/v8046588/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.02.28-15.51.46:992][  0]LogInit: Texture streaming: Enabled
+[2020.02.28-15.51.47:037][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.28-15.51.47:090][  0]LogInit: Transaction tracking system initialized
+[2020.02.28-15.51.47:140][  0]BlueprintLog: New page: Editor Load
+[2020.02.28-15.51.47:215][  0]LocalizationService: Localization service is disabled
+[2020.02.28-15.51.47:917][  0]LogFileCache: Scanning file cache for directory 'D:/mb/Alien1916Repo/Alien1916MASTER/Content/' took 0.02s
+[2020.02.28-15.51.47:917][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.28-15.51.47:917][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.28-15.51.47:917][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.02.28-15.51.47:917][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.02.28-15.51.47:917][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.02.28-15.51.47:917][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.02.28-15.51.47:917][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.02.28-15.51.48:083][  0]SourceControl: Source control is disabled
+[2020.02.28-15.51.48:084][  0]Cmd: MAP LOAD FILE="D:/mb/Alien1916Repo/Alien1916MASTER/Content/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.28-15.51.48:084][  0]LightingResults: New page: Lighting Build
+[2020.02.28-15.51.48:091][  0]MapCheck: New page: Map Check
+[2020.02.28-15.51.48:091][  0]LightingResults: New page: Lighting Build
+[2020.02.28-15.51.48:525][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.02.28-15.51.48:538][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.28-15.51.48:578][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.28-15.51.48:579][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2020.02.28-15.51.48:579][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.495
+[2020.02.28-15.51.48:694][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.51.48:700][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.51.48:706][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.51.48:712][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.51.48:718][  0]LogCollectionManager: Loaded 0 collections in 0.001763 seconds
+[2020.02.28-15.51.48:733][  0]LogFileCache: Scanning file cache for directory 'D:/mb/Alien1916Repo/Alien1916MASTER/Saved/Collections/' took 0.01s
+[2020.02.28-15.51.48:733][  0]LogFileCache: Scanning file cache for directory 'D:/mb/Alien1916Repo/Alien1916MASTER/Content/Developers/v8046588/Collections/' took 0.00s
+[2020.02.28-15.51.48:733][  0]LogFileCache: Scanning file cache for directory 'D:/mb/Alien1916Repo/Alien1916MASTER/Content/Collections/' took 0.00s
+[2020.02.28-15.51.48:733][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.28-15.51.48:742][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2660 classes and 625 folders.
+[2020.02.28-15.51.48:749][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.28-15.51.48:750][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:752][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:752][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:754][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:754][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:755][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:755][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:757][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:759][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:759][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:763][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:764][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:764][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-15.51.48:800][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.28-15.51.48:805][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.02.28-15.51.48:818][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.28-15.51.48:820][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.28-15.51.48:826][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.28-15.51.48:898][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2020.02.28-15.51.49:044][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.51.49:061][  0]LogSlate: Window 'Tutorials' being destroyed
+[2020.02.28-15.51.49:099][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.02.28-15.51.49:099][  0]LogLoad: (Engine Initialization) Total time: 10.45 seconds
+[2020.02.28-15.51.49:099][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.28-15.51.49:193][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.28-15.51.49:216][  0]LogSlate: Took 0.000367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.28-15.51.49:235][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/mb/Alien1916Repo/Alien1916MASTER/Content/' took 0.11s
+[2020.02.28-15.51.49:332][  2]LogAssetRegistry: Asset discovery search completed in 6.0669 seconds
+[2020.02.28-15.51.49:334][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.28-15.51.49:334][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2020.02.28-15.51.53:478][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.52.06:759][999]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.28-15.52.07:145][999]LogStaticMesh: Building static mesh carriage3_sm_trainbottom1...
+[2020.02.28-15.52.07:149][999]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/carriage3/carriage3_sm_trainbottom1.carriage3_sm_trainbottom1
+[2020.02.28-15.52.07:151][999]LogStaticMesh: Building static mesh carriage3_sm_trainbackground3...
+[2020.02.28-15.52.07:153][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_trainbackground3.carriage3_sm_trainbackground3
+[2020.02.28-15.52.07:154][999]LogStaticMesh: Building static mesh carriage3_sm_trainbackground2...
+[2020.02.28-15.52.07:155][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_trainbackground2.carriage3_sm_trainbackground2
+[2020.02.28-15.52.07:157][999]LogStaticMesh: Building static mesh carriage3_sm_trainback3...
+[2020.02.28-15.52.07:158][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_trainback3.carriage3_sm_trainback3
+[2020.02.28-15.52.07:160][999]LogStaticMesh: Building static mesh carriage3_sm_trainback2...
+[2020.02.28-15.52.07:162][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_trainback2.carriage3_sm_trainback2
+[2020.02.28-15.52.07:163][999]LogStaticMesh: Building static mesh carriage3_sm_supportbeam3...
+[2020.02.28-15.52.07:164][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_supportbeam3.carriage3_sm_supportbeam3
+[2020.02.28-15.52.07:165][999]LogStaticMesh: Building static mesh carriage3_sm_supportbeam2...
+[2020.02.28-15.52.07:166][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_supportbeam2.carriage3_sm_supportbeam2
+[2020.02.28-15.52.07:166][999]LogStaticMesh: Building static mesh carriage3_sm_supportbeam1...
+[2020.02.28-15.52.07:167][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_supportbeam1.carriage3_sm_supportbeam1
+[2020.02.28-15.52.07:170][999]LogStaticMesh: Building static mesh carriage3_sm_supportbeam...
+[2020.02.28-15.52.07:171][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_supportbeam.carriage3_sm_supportbeam
+[2020.02.28-15.52.07:172][999]LogStaticMesh: Building static mesh carriage3_sm_debris9...
+[2020.02.28-15.52.07:172][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_debris9.carriage3_sm_debris9
+[2020.02.28-15.52.07:174][999]LogStaticMesh: Building static mesh carriage3_sm_debris8...
+[2020.02.28-15.52.07:175][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_debris8.carriage3_sm_debris8
+[2020.02.28-15.52.07:176][999]LogStaticMesh: Building static mesh carriage3_sm_debris14...
+[2020.02.28-15.52.07:177][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_debris14.carriage3_sm_debris14
+[2020.02.28-15.52.07:178][999]LogStaticMesh: Building static mesh carriage3_sm_debris13...
+[2020.02.28-15.52.07:179][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_debris13.carriage3_sm_debris13
+[2020.02.28-15.52.07:179][999]LogStaticMesh: Building static mesh carriage3_sm_debris12...
+[2020.02.28-15.52.07:180][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_debris12.carriage3_sm_debris12
+[2020.02.28-15.52.07:181][999]LogStaticMesh: Building static mesh carriage3_sm_debris10...
+[2020.02.28-15.52.07:182][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_debris10.carriage3_sm_debris10
+[2020.02.28-15.52.07:184][999]LogStaticMesh: Building static mesh carriage3_sm_bed9...
+[2020.02.28-15.52.07:184][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_bed9.carriage3_sm_bed9
+[2020.02.28-15.52.07:186][999]LogStaticMesh: Building static mesh carriage2_sm__c2_trainbackground2...
+[2020.02.28-15.52.07:189][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm__c2_trainbackground2.carriage2_sm__c2_trainbackground2
+[2020.02.28-15.52.07:190][999]LogStaticMesh: Building static mesh carriage2_sm__c2_trainbackground3...
+[2020.02.28-15.52.07:193][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm__c2_trainbackground3.carriage2_sm__c2_trainbackground3
+[2020.02.28-15.52.07:194][999]LogStaticMesh: Building static mesh trailer_tank_gun7...
+[2020.02.28-15.52.07:195][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_tank_gun7.trailer_tank_gun7
+[2020.02.28-15.52.07:196][999]LogStaticMesh: Building static mesh trailer_tank_gun6...
+[2020.02.28-15.52.07:197][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_tank_gun6.trailer_tank_gun6
+[2020.02.28-15.52.07:198][999]LogStaticMesh: Building static mesh trailer_tank_gun1...
+[2020.02.28-15.52.07:199][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_tank_gun1.trailer_tank_gun1
+[2020.02.28-15.52.07:200][999]LogStaticMesh: Building static mesh trailer_tank_gun...
+[2020.02.28-15.52.07:201][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_tank_gun.trailer_tank_gun
+[2020.02.28-15.52.07:202][999]LogStaticMesh: Building static mesh trailer_tank_body...
+[2020.02.28-15.52.07:206][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_tank_body.trailer_tank_body
+[2020.02.28-15.52.07:208][999]LogStaticMesh: Building static mesh trailer_sm_trailer9...
+[2020.02.28-15.52.07:209][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_trailer9.trailer_sm_trailer9
+[2020.02.28-15.52.07:210][999]LogStaticMesh: Building static mesh trailer_sm_trailer8...
+[2020.02.28-15.52.07:211][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_trailer8.trailer_sm_trailer8
+[2020.02.28-15.52.07:212][999]LogStaticMesh: Building static mesh trailer_sm_trailer7...
+[2020.02.28-15.52.07:213][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_trailer7.trailer_sm_trailer7
+[2020.02.28-15.52.07:214][999]LogStaticMesh: Building static mesh trailer_sm_trailer6...
+[2020.02.28-15.52.07:215][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_trailer6.trailer_sm_trailer6
+[2020.02.28-15.52.07:216][999]LogStaticMesh: Building static mesh trailer_sm_trailer5...
+[2020.02.28-15.52.07:217][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_trailer5.trailer_sm_trailer5
+[2020.02.28-15.52.07:218][999]LogStaticMesh: Building static mesh trailer_sm_trailer4...
+[2020.02.28-15.52.07:219][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_trailer4.trailer_sm_trailer4
+[2020.02.28-15.52.07:220][999]LogStaticMesh: Building static mesh trailer_sm_trailer3...
+[2020.02.28-15.52.07:220][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_trailer3.trailer_sm_trailer3
+[2020.02.28-15.52.07:221][999]LogStaticMesh: Building static mesh trailer_sm_trailer2...
+[2020.02.28-15.52.07:222][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_trailer2.trailer_sm_trailer2
+[2020.02.28-15.52.07:223][999]LogStaticMesh: Building static mesh trailer_sm_trailer11...
+[2020.02.28-15.52.07:224][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_trailer11.trailer_sm_trailer11
+[2020.02.28-15.52.07:225][999]LogStaticMesh: Building static mesh trailer_sm_trailer10...
+[2020.02.28-15.52.07:226][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_trailer10.trailer_sm_trailer10
+[2020.02.28-15.52.07:227][999]LogStaticMesh: Building static mesh trailer_sm_trailer1...
+[2020.02.28-15.52.07:228][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_trailer1.trailer_sm_trailer1
+[2020.02.28-15.52.07:229][999]LogStaticMesh: Building static mesh trailer_sm_muntionbox22...
+[2020.02.28-15.52.07:230][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_muntionbox22.trailer_sm_muntionbox22
+[2020.02.28-15.52.07:231][999]LogStaticMesh: Building static mesh trailer_sm_muntionbox21...
+[2020.02.28-15.52.07:232][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_muntionbox21.trailer_sm_muntionbox21
+[2020.02.28-15.52.07:233][999]LogStaticMesh: Building static mesh trailer_sm_muntionbox20...
+[2020.02.28-15.52.07:234][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_muntionbox20.trailer_sm_muntionbox20
+[2020.02.28-15.52.07:235][999]LogStaticMesh: Building static mesh trailer_sm_muntionbox19...
+[2020.02.28-15.52.07:236][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_muntionbox19.trailer_sm_muntionbox19
+[2020.02.28-15.52.07:238][999]LogStaticMesh: Building static mesh trailer_sm_muntionbox18...
+[2020.02.28-15.52.07:238][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_muntionbox18.trailer_sm_muntionbox18
+[2020.02.28-15.52.07:242][999]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.02.28-15.52.07:303][999]LogStaticMesh: Building static mesh trailer_sm_muntionbox17...
+[2020.02.28-15.52.07:305][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/trailer/trailer_sm_muntionbox17.trailer_sm_muntionbox17
+[2020.02.28-15.52.07:306][999]LogStaticMesh: Building static mesh locomotive_tank_gun5...
+[2020.02.28-15.52.07:307][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/locomotive/locomotive_tank_gun5.locomotive_tank_gun5
+[2020.02.28-15.52.07:308][999]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.02.28-15.52.07:308][999]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.02.28-15.52.07:308][999]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.28-15.52.07:308][999]LogStaticMesh: Building static mesh locomotive_sm_trainbottom18...
+[2020.02.28-15.52.07:309][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/locomotive/locomotive_sm_trainbottom18.locomotive_sm_trainbottom18
+[2020.02.28-15.52.07:310][999]LogStaticMesh: Building static mesh locomotive_sm_trainbottom17...
+[2020.02.28-15.52.07:311][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/locomotive/locomotive_sm_trainbottom17.locomotive_sm_trainbottom17
+[2020.02.28-15.52.07:312][999]LogStaticMesh: Building static mesh locomotive_sm_trainbottom15...
+[2020.02.28-15.52.07:313][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/locomotive/locomotive_sm_trainbottom15.locomotive_sm_trainbottom15
+[2020.02.28-15.52.07:314][999]LogStaticMesh: Building static mesh locomotive_sm_trainbottom14...
+[2020.02.28-15.52.07:315][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/locomotive/locomotive_sm_trainbottom14.locomotive_sm_trainbottom14
+[2020.02.28-15.52.07:316][999]LogStaticMesh: Building static mesh locomotive_sm_trainbottom13...
+[2020.02.28-15.52.07:317][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/locomotive/locomotive_sm_trainbottom13.locomotive_sm_trainbottom13
+[2020.02.28-15.52.07:319][999]LogStaticMesh: Building static mesh locomotive_sm_trainbody...
+[2020.02.28-15.52.07:320][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/locomotive/locomotive_sm_trainbody.locomotive_sm_trainbody
+[2020.02.28-15.52.07:321][999]LogStaticMesh: Building static mesh locomotive_sm_train_turret...
+[2020.02.28-15.52.07:325][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/locomotive/locomotive_sm_train_turret.locomotive_sm_train_turret
+[2020.02.28-15.52.07:326][999]LogStaticMesh: Building static mesh locomotive_sm_train_top2...
+[2020.02.28-15.52.07:331][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/locomotive/locomotive_sm_train_top2.locomotive_sm_train_top2
+[2020.02.28-15.52.07:332][999]LogStaticMesh: Building static mesh locomotive_sm_train_top1...
+[2020.02.28-15.52.07:333][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/locomotive/locomotive_sm_train_top1.locomotive_sm_train_top1
+[2020.02.28-15.52.07:335][999]LogStaticMesh: Building static mesh locomotive_sm_steam_engine1...
+[2020.02.28-15.52.07:338][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/locomotive/locomotive_sm_steam_engine1.locomotive_sm_steam_engine1
+[2020.02.28-15.52.07:341][999]LogStaticMesh: Building static mesh locomotive_sm_steam_engine...
+[2020.02.28-15.52.07:345][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/locomotive/locomotive_sm_steam_engine.locomotive_sm_steam_engine
+[2020.02.28-15.52.07:348][999]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2020.02.28-15.52.07:366][999]LogStaticMesh: Building static mesh locomotive_sm_coal_storage...
+[2020.02.28-15.52.07:367][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/locomotive/locomotive_sm_coal_storage.locomotive_sm_coal_storage
+[2020.02.28-15.52.07:370][999]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.02.28-15.52.07:370][999]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.02.28-15.52.07:370][999]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.28-15.52.07:370][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg3_3...
+[2020.02.28-15.52.07:371][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg3_3.carriage4_sm_seatleg3_3
+[2020.02.28-15.52.07:372][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg3_2...
+[2020.02.28-15.52.07:373][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg3_2.carriage4_sm_seatleg3_2
+[2020.02.28-15.52.07:374][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg3_1...
+[2020.02.28-15.52.07:375][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg3_1.carriage4_sm_seatleg3_1
+[2020.02.28-15.52.07:376][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg3...
+[2020.02.28-15.52.07:377][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg3.carriage4_sm_seatleg3
+[2020.02.28-15.52.07:378][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg2_8...
+[2020.02.28-15.52.07:379][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg2_8.carriage4_sm_seatleg2_8
+[2020.02.28-15.52.07:380][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg2_7...
+[2020.02.28-15.52.07:381][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg2_7.carriage4_sm_seatleg2_7
+[2020.02.28-15.52.07:382][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg2_6...
+[2020.02.28-15.52.07:383][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg2_6.carriage4_sm_seatleg2_6
+[2020.02.28-15.52.07:384][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg2_5...
+[2020.02.28-15.52.07:385][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg2_5.carriage4_sm_seatleg2_5
+[2020.02.28-15.52.07:386][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg2_4...
+[2020.02.28-15.52.07:387][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg2_4.carriage4_sm_seatleg2_4
+[2020.02.28-15.52.07:388][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg2_3...
+[2020.02.28-15.52.07:389][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg2_3.carriage4_sm_seatleg2_3
+[2020.02.28-15.52.07:389][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg2_2...
+[2020.02.28-15.52.07:390][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg2_2.carriage4_sm_seatleg2_2
+[2020.02.28-15.52.07:391][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg2_1...
+[2020.02.28-15.52.07:392][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg2_1.carriage4_sm_seatleg2_1
+[2020.02.28-15.52.07:393][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg2...
+[2020.02.28-15.52.07:394][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg2.carriage4_sm_seatleg2
+[2020.02.28-15.52.07:395][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg1_8...
+[2020.02.28-15.52.07:396][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg1_8.carriage4_sm_seatleg1_8
+[2020.02.28-15.52.07:398][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg1_7...
+[2020.02.28-15.52.07:399][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg1_7.carriage4_sm_seatleg1_7
+[2020.02.28-15.52.07:400][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg1_6...
+[2020.02.28-15.52.07:401][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg1_6.carriage4_sm_seatleg1_6
+[2020.02.28-15.52.07:402][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg1_5...
+[2020.02.28-15.52.07:402][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg1_5.carriage4_sm_seatleg1_5
+[2020.02.28-15.52.07:403][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg1_4...
+[2020.02.28-15.52.07:405][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg1_4.carriage4_sm_seatleg1_4
+[2020.02.28-15.52.07:406][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg...
+[2020.02.28-15.52.07:407][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg.carriage4_sm_seatleg
+[2020.02.28-15.52.07:408][999]LogStaticMesh: Building static mesh carriage4_sm_seatcushion_8...
+[2020.02.28-15.52.07:409][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatcushion_8.carriage4_sm_seatcushion_8
+[2020.02.28-15.52.07:410][999]LogStaticMesh: Building static mesh carriage4_sm_seatcushion_7...
+[2020.02.28-15.52.07:411][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatcushion_7.carriage4_sm_seatcushion_7
+[2020.02.28-15.52.07:412][999]LogStaticMesh: Building static mesh carriage4_sm_seatcushion_6...
+[2020.02.28-15.52.07:413][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatcushion_6.carriage4_sm_seatcushion_6
+[2020.02.28-15.52.07:414][999]LogStaticMesh: Building static mesh carriage4_sm_seatcushion_5...
+[2020.02.28-15.52.07:415][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatcushion_5.carriage4_sm_seatcushion_5
+[2020.02.28-15.52.07:416][999]LogStaticMesh: Building static mesh carriage4_sm_seatcushion_4...
+[2020.02.28-15.52.07:417][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatcushion_4.carriage4_sm_seatcushion_4
+[2020.02.28-15.52.07:419][999]LogStaticMesh: Building static mesh carriage2_sm__c2_trainback3...
+[2020.02.28-15.52.07:420][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm__c2_trainback3.carriage2_sm__c2_trainback3
+[2020.02.28-15.52.07:422][999]LogStaticMesh: Building static mesh carriage2_sm__c2_trainback2...
+[2020.02.28-15.52.07:424][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm__c2_trainback2.carriage2_sm__c2_trainback2
+[2020.02.28-15.52.07:428][999]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.02.28-15.52.07:449][999]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.02.28-15.52.07:449][999]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.02.28-15.52.07:449][999]LogStaticMesh: Building static mesh carriage3_sm_bed8...
+[2020.02.28-15.52.07:450][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_bed8.carriage3_sm_bed8
+[2020.02.28-15.52.07:451][999]LogStaticMesh: Building static mesh carriage3_sm_bed7...
+[2020.02.28-15.52.07:453][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_bed7.carriage3_sm_bed7
+[2020.02.28-15.52.07:454][999]LogStaticMesh: Building static mesh carriage3_sm_bed6...
+[2020.02.28-15.52.07:454][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_bed6.carriage3_sm_bed6
+[2020.02.28-15.52.07:456][999]LogStaticMesh: Building static mesh carriage3_sm_bed5...
+[2020.02.28-15.52.07:456][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_bed5.carriage3_sm_bed5
+[2020.02.28-15.52.07:457][999]LogStaticMesh: Building static mesh carriage3_sm_bed4...
+[2020.02.28-15.52.07:459][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_bed4.carriage3_sm_bed4
+[2020.02.28-15.52.07:460][999]LogStaticMesh: Building static mesh carriage3_sm_bed3...
+[2020.02.28-15.52.07:461][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_bed3.carriage3_sm_bed3
+[2020.02.28-15.52.07:462][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg1...
+[2020.02.28-15.52.07:463][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg1.carriage4_sm_seatleg1
+[2020.02.28-15.52.07:463][999]LogStaticMesh: Building static mesh carriage3_sm_bed2...
+[2020.02.28-15.52.07:464][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_bed2.carriage3_sm_bed2
+[2020.02.28-15.52.07:465][999]LogStaticMesh: Building static mesh carriage3_sm_bed13...
+[2020.02.28-15.52.07:466][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_bed13.carriage3_sm_bed13
+[2020.02.28-15.52.07:467][999]LogStaticMesh: Building static mesh carriage3_sm_bed12...
+[2020.02.28-15.52.07:468][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_bed12.carriage3_sm_bed12
+[2020.02.28-15.52.07:470][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg1_1...
+[2020.02.28-15.52.07:471][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg1_1.carriage4_sm_seatleg1_1
+[2020.02.28-15.52.07:472][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg1_2...
+[2020.02.28-15.52.07:473][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg1_2.carriage4_sm_seatleg1_2
+[2020.02.28-15.52.07:474][999]LogStaticMesh: Building static mesh carriage3_sm_bed11...
+[2020.02.28-15.52.07:474][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_bed11.carriage3_sm_bed11
+[2020.02.28-15.52.07:475][999]LogStaticMesh: Building static mesh carriage3_sm_bed10...
+[2020.02.28-15.52.07:476][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_bed10.carriage3_sm_bed10
+[2020.02.28-15.52.07:478][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg1_3...
+[2020.02.28-15.52.07:479][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg1_3.carriage4_sm_seatleg1_3
+[2020.02.28-15.52.07:480][999]LogStaticMesh: Building static mesh carriage3_sm_bed1...
+[2020.02.28-15.52.07:481][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_bed1.carriage3_sm_bed1
+[2020.02.28-15.52.07:484][999]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.02.28-15.52.07:503][999]LogStaticMesh: Building static mesh carriage3_sm_bed...
+[2020.02.28-15.52.07:504][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_bed.carriage3_sm_bed
+[2020.02.28-15.52.07:505][999]LogStaticMesh: Building static mesh carriage2_sm_shelf_leg5...
+[2020.02.28-15.52.07:506][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_shelf_leg5.carriage2_sm_shelf_leg5
+[2020.02.28-15.52.07:507][999]LogStaticMesh: Building static mesh carriage2_sm_shelf_leg4...
+[2020.02.28-15.52.07:508][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_shelf_leg4.carriage2_sm_shelf_leg4
+[2020.02.28-15.52.07:509][999]LogStaticMesh: Building static mesh carriage2_sm_shelf_leg3...
+[2020.02.28-15.52.07:510][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_shelf_leg3.carriage2_sm_shelf_leg3
+[2020.02.28-15.52.07:511][999]LogStaticMesh: Building static mesh carriage2_sm_shelf_leg2...
+[2020.02.28-15.52.07:512][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_shelf_leg2.carriage2_sm_shelf_leg2
+[2020.02.28-15.52.07:513][999]LogStaticMesh: Building static mesh carriage4_sm_seatcushion_3...
+[2020.02.28-15.52.07:514][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatcushion_3.carriage4_sm_seatcushion_3
+[2020.02.28-15.52.07:515][999]LogStaticMesh: Building static mesh carriage4_sm_seatcushion_2...
+[2020.02.28-15.52.07:516][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatcushion_2.carriage4_sm_seatcushion_2
+[2020.02.28-15.52.07:517][999]LogStaticMesh: Building static mesh carriage4_sm_seatcushion_1...
+[2020.02.28-15.52.07:518][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatcushion_1.carriage4_sm_seatcushion_1
+[2020.02.28-15.52.07:519][999]LogStaticMesh: Building static mesh carriage4_sm_seatcushion...
+[2020.02.28-15.52.07:520][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatcushion.carriage4_sm_seatcushion
+[2020.02.28-15.52.07:521][999]LogStaticMesh: Building static mesh carriage4_sm_seatback_8...
+[2020.02.28-15.52.07:522][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatback_8.carriage4_sm_seatback_8
+[2020.02.28-15.52.07:523][999]LogStaticMesh: Building static mesh carriage4_sm_seatback_7...
+[2020.02.28-15.52.07:524][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatback_7.carriage4_sm_seatback_7
+[2020.02.28-15.52.07:525][999]LogStaticMesh: Building static mesh carriage4_sm_seatback_6...
+[2020.02.28-15.52.07:526][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatback_6.carriage4_sm_seatback_6
+[2020.02.28-15.52.07:527][999]LogStaticMesh: Building static mesh carriage4_sm_seatback_5...
+[2020.02.28-15.52.07:528][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatback_5.carriage4_sm_seatback_5
+[2020.02.28-15.52.07:530][999]LogStaticMesh: Building static mesh carriage4_sm_seatback_4...
+[2020.02.28-15.52.07:530][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatback_4.carriage4_sm_seatback_4
+[2020.02.28-15.52.07:531][999]LogStaticMesh: Building static mesh carriage4_sm_seatback_3...
+[2020.02.28-15.52.07:533][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatback_3.carriage4_sm_seatback_3
+[2020.02.28-15.52.07:534][999]LogStaticMesh: Building static mesh carriage4_sm_seatback_2...
+[2020.02.28-15.52.07:535][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatback_2.carriage4_sm_seatback_2
+[2020.02.28-15.52.07:536][999]LogStaticMesh: Building static mesh carriage4_sm_seatback_1...
+[2020.02.28-15.52.07:537][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatback_1.carriage4_sm_seatback_1
+[2020.02.28-15.52.07:539][999]LogStaticMesh: Building static mesh carriage4_sm_seatback...
+[2020.02.28-15.52.07:540][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatback.carriage4_sm_seatback
+[2020.02.28-15.52.07:541][999]LogStaticMesh: Building static mesh carriage4_sm_oven1...
+[2020.02.28-15.52.07:542][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_oven1.carriage4_sm_oven1
+[2020.02.28-15.52.07:543][999]LogStaticMesh: Building static mesh carriage4_sm_oven...
+[2020.02.28-15.52.07:544][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_oven.carriage4_sm_oven
+[2020.02.28-15.52.07:545][999]LogStaticMesh: Building static mesh carriage4_sm_kitchencupboard...
+[2020.02.28-15.52.07:546][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_kitchencupboard.carriage4_sm_kitchencupboard
+[2020.02.28-15.52.07:547][999]LogStaticMesh: Building static mesh carriage4_sm_cookingtable1...
+[2020.02.28-15.52.07:548][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_cookingtable1.carriage4_sm_cookingtable1
+[2020.02.28-15.52.07:552][999]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.02.28-15.52.07:571][999]LogStaticMesh: Building static mesh carriage4_sm_cookingtable...
+[2020.02.28-15.52.07:572][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_cookingtable.carriage4_sm_cookingtable
+[2020.02.28-15.52.07:573][999]LogStaticMesh: Building static mesh carriage3_sm_wall1...
+[2020.02.28-15.52.07:575][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_wall1.carriage3_sm_wall1
+[2020.02.28-15.52.07:576][999]LogStaticMesh: Building static mesh carriage3_sm_wall...
+[2020.02.28-15.52.07:577][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_wall.carriage3_sm_wall
+[2020.02.28-15.52.07:578][999]LogStaticMesh: Building static mesh carriage3_sm_trainroof1...
+[2020.02.28-15.52.07:582][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_trainroof1.carriage3_sm_trainroof1
+[2020.02.28-15.52.07:583][999]LogStaticMesh: Building static mesh carriage3_sm_trainmiddle1...
+[2020.02.28-15.52.07:585][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage3/carriage3_sm_trainmiddle1.carriage3_sm_trainmiddle1
+[2020.02.28-15.52.07:586][999]LogStaticMesh: Building static mesh train_level_sm_trainbottom...
+[2020.02.28-15.52.07:587][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage1/train_level_sm_trainbottom.train_level_sm_trainbottom
+[2020.02.28-15.52.07:588][999]LogStaticMesh: Building static mesh train_level_sm_trainroof...
+[2020.02.28-15.52.07:591][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage1/train_level_sm_trainroof.train_level_sm_trainroof
+[2020.02.28-15.52.07:592][999]LogStaticMesh: Building static mesh train_level_sm_trainmiddle...
+[2020.02.28-15.52.07:594][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage1/train_level_sm_trainmiddle.train_level_sm_trainmiddle
+[2020.02.28-15.52.07:595][999]LogStaticMesh: Building static mesh train_level_sm_trainbackground1...
+[2020.02.28-15.52.07:597][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage1/train_level_sm_trainbackground1.train_level_sm_trainbackground1
+[2020.02.28-15.52.07:598][999]LogStaticMesh: Building static mesh train_level_sm_lamp...
+[2020.02.28-15.52.07:602][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage1/train_level_sm_lamp.train_level_sm_lamp
+[2020.02.28-15.52.07:603][999]LogStaticMesh: Building static mesh train_level_sm_debris3...
+[2020.02.28-15.52.07:604][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage1/train_level_sm_debris3.train_level_sm_debris3
+[2020.02.28-15.52.07:605][999]LogStaticMesh: Building static mesh train_level_sm_debris2...
+[2020.02.28-15.52.07:606][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage1/train_level_sm_debris2.train_level_sm_debris2
+[2020.02.28-15.52.07:607][999]LogStaticMesh: Building static mesh train_level_sm_storageshelf...
+[2020.02.28-15.52.07:608][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage1/train_level_sm_storageshelf.train_level_sm_storageshelf
+[2020.02.28-15.52.07:613][999]LogStaticMesh: Building static mesh train_level_sm_enemy...
+[2020.02.28-15.52.07:625][999]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/carriage1/train_level_sm_enemy.train_level_sm_enemy
+[2020.02.28-15.52.07:627][999]LogStaticMesh: Building static mesh carriage2_sm_muntionbox14...
+[2020.02.28-15.52.07:629][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_muntionbox14.carriage2_sm_muntionbox14
+[2020.02.28-15.52.07:630][999]LogStaticMesh: Building static mesh carriage2_sm_muntionbox...
+[2020.02.28-15.52.07:631][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_muntionbox.carriage2_sm_muntionbox
+[2020.02.28-15.52.07:632][999]LogStaticMesh: Building static mesh carriage2_sm_machine_gun...
+[2020.02.28-15.52.07:633][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_machine_gun.carriage2_sm_machine_gun
+[2020.02.28-15.52.07:634][999]LogStaticMesh: Building static mesh carriage2_sm_debris7...
+[2020.02.28-15.52.07:634][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_debris7.carriage2_sm_debris7
+[2020.02.28-15.52.07:636][999]LogStaticMesh: Building static mesh carriage2_sm_debris6...
+[2020.02.28-15.52.07:636][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_debris6.carriage2_sm_debris6
+[2020.02.28-15.52.07:638][999]LogStaticMesh: Building static mesh carriage2_sm_debris5...
+[2020.02.28-15.52.07:638][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_debris5.carriage2_sm_debris5
+[2020.02.28-15.52.07:640][999]LogStaticMesh: Building static mesh carriage2_sm_debris4...
+[2020.02.28-15.52.07:640][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_debris4.carriage2_sm_debris4
+[2020.02.28-15.52.07:642][999]LogStaticMesh: Building static mesh carriage2_sm_bipod...
+[2020.02.28-15.52.07:643][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_bipod.carriage2_sm_bipod
+[2020.02.28-15.52.07:644][999]LogStaticMesh: Building static mesh carriage2_sm__c2_trainroof1...
+[2020.02.28-15.52.07:648][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm__c2_trainroof1.carriage2_sm__c2_trainroof1
+[2020.02.28-15.52.07:650][999]LogStaticMesh: Building static mesh carriage2_sm__c2_trainmiddle1...
+[2020.02.28-15.52.07:651][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm__c2_trainmiddle1.carriage2_sm__c2_trainmiddle1
+[2020.02.28-15.52.07:653][999]LogStaticMesh: Building static mesh carriage2_sm__c2_trainbottom1...
+[2020.02.28-15.52.07:653][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm__c2_trainbottom1.carriage2_sm__c2_trainbottom1
+[2020.02.28-15.52.07:654][999]LogStaticMesh: Building static mesh train_level_sm_trainback...
+[2020.02.28-15.52.07:655][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage1/train_level_sm_trainback.train_level_sm_trainback
+[2020.02.28-15.52.07:657][999]LogStaticMesh: Building static mesh train_level_sm_trainback1...
+[2020.02.28-15.52.07:658][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage1/train_level_sm_trainback1.train_level_sm_trainback1
+[2020.02.28-15.52.07:659][999]LogStaticMesh: Building static mesh train_level_sm_storageshelf1...
+[2020.02.28-15.52.07:660][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage1/train_level_sm_storageshelf1.train_level_sm_storageshelf1
+[2020.02.28-15.52.07:662][999]LogStaticMesh: Building static mesh train_level_sm_trainbackground...
+[2020.02.28-15.52.07:664][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage1/train_level_sm_trainbackground.train_level_sm_trainbackground
+[2020.02.28-15.52.07:681][999]LogStaticMesh: Building static mesh carriage2_sm_muntionbox15...
+[2020.02.28-15.52.07:682][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_muntionbox15.carriage2_sm_muntionbox15
+[2020.02.28-15.52.07:684][999]LogStaticMesh: Building static mesh carriage2_sm_muntionbox16...
+[2020.02.28-15.52.07:685][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_muntionbox16.carriage2_sm_muntionbox16
+[2020.02.28-15.52.07:686][999]LogStaticMesh: Building static mesh carriage2_sm_muntionbox3...
+[2020.02.28-15.52.07:687][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_muntionbox3.carriage2_sm_muntionbox3
+[2020.02.28-15.52.07:688][999]LogStaticMesh: Building static mesh carriage2_sm_muntionbox4...
+[2020.02.28-15.52.07:688][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_muntionbox4.carriage2_sm_muntionbox4
+[2020.02.28-15.52.07:689][999]LogStaticMesh: Building static mesh carriage2_sm_muntionbox5...
+[2020.02.28-15.52.07:690][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_muntionbox5.carriage2_sm_muntionbox5
+[2020.02.28-15.52.07:691][999]LogStaticMesh: Building static mesh carriage2_sm_muntionbox6...
+[2020.02.28-15.52.07:692][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_muntionbox6.carriage2_sm_muntionbox6
+[2020.02.28-15.52.07:693][999]LogStaticMesh: Building static mesh carriage2_sm_shelf1...
+[2020.02.28-15.52.07:694][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_shelf1.carriage2_sm_shelf1
+[2020.02.28-15.52.07:695][999]LogStaticMesh: Building static mesh carriage2_sm_shelf2...
+[2020.02.28-15.52.07:696][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_shelf2.carriage2_sm_shelf2
+[2020.02.28-15.52.07:697][999]LogStaticMesh: Building static mesh carriage2_sm_shelf...
+[2020.02.28-15.52.07:698][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_shelf.carriage2_sm_shelf
+[2020.02.28-15.52.07:699][999]LogStaticMesh: Building static mesh carriage2_sm_shelf_leg1...
+[2020.02.28-15.52.07:700][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_shelf_leg1.carriage2_sm_shelf_leg1
+[2020.02.28-15.52.07:701][999]LogStaticMesh: Building static mesh carriage2_sm_shelf_leg...
+[2020.02.28-15.52.07:702][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage2/carriage2_sm_shelf_leg.carriage2_sm_shelf_leg
+[2020.02.28-15.52.07:704][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg3_4...
+[2020.02.28-15.52.07:705][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg3_4.carriage4_sm_seatleg3_4
+[2020.02.28-15.52.07:706][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg3_5...
+[2020.02.28-15.52.07:707][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg3_5.carriage4_sm_seatleg3_5
+[2020.02.28-15.52.07:708][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg3_6...
+[2020.02.28-15.52.07:709][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg3_6.carriage4_sm_seatleg3_6
+[2020.02.28-15.52.07:710][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg3_7...
+[2020.02.28-15.52.07:711][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg3_7.carriage4_sm_seatleg3_7
+[2020.02.28-15.52.07:712][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg3_8...
+[2020.02.28-15.52.07:713][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg3_8.carriage4_sm_seatleg3_8
+[2020.02.28-15.52.07:714][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg_1...
+[2020.02.28-15.52.07:715][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg_1.carriage4_sm_seatleg_1
+[2020.02.28-15.52.07:716][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg_2...
+[2020.02.28-15.52.07:717][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg_2.carriage4_sm_seatleg_2
+[2020.02.28-15.52.07:718][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg_3...
+[2020.02.28-15.52.07:719][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg_3.carriage4_sm_seatleg_3
+[2020.02.28-15.52.07:720][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg_4...
+[2020.02.28-15.52.07:721][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg_4.carriage4_sm_seatleg_4
+[2020.02.28-15.52.07:722][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg_5...
+[2020.02.28-15.52.07:723][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg_5.carriage4_sm_seatleg_5
+[2020.02.28-15.52.07:724][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg_6...
+[2020.02.28-15.52.07:725][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg_6.carriage4_sm_seatleg_6
+[2020.02.28-15.52.07:726][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg_7...
+[2020.02.28-15.52.07:727][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg_7.carriage4_sm_seatleg_7
+[2020.02.28-15.52.07:728][999]LogStaticMesh: Building static mesh carriage4_sm_seatleg_8...
+[2020.02.28-15.52.07:729][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_seatleg_8.carriage4_sm_seatleg_8
+[2020.02.28-15.52.07:730][999]LogStaticMesh: Building static mesh carriage4_sm_sink...
+[2020.02.28-15.52.07:731][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_sink.carriage4_sm_sink
+[2020.02.28-15.52.07:732][999]LogStaticMesh: Building static mesh carriage4_sm_table1...
+[2020.02.28-15.52.07:737][999]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/carriage4/carriage4_sm_table1.carriage4_sm_table1
+[2020.02.28-15.52.07:739][999]LogStaticMesh: Building static mesh carriage4_sm_table2...
+[2020.02.28-15.52.07:744][999]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/carriage4/carriage4_sm_table2.carriage4_sm_table2
+[2020.02.28-15.52.07:747][999]LogStaticMesh: Building static mesh carriage4_sm_table...
+[2020.02.28-15.52.07:752][999]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/carriage4/carriage4_sm_table.carriage4_sm_table
+[2020.02.28-15.52.07:754][999]LogStaticMesh: Building static mesh carriage4_sm_tapbottom1...
+[2020.02.28-15.52.07:759][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_tapbottom1.carriage4_sm_tapbottom1
+[2020.02.28-15.52.07:761][999]LogStaticMesh: Building static mesh carriage4_sm_tapbottom...
+[2020.02.28-15.52.07:767][999]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/carriage4/carriage4_sm_tapbottom.carriage4_sm_tapbottom
+[2020.02.28-15.52.07:769][999]LogStaticMesh: Building static mesh carriage4_sm_taptop1...
+[2020.02.28-15.52.07:772][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_taptop1.carriage4_sm_taptop1
+[2020.02.28-15.52.07:776][999]LogStaticMesh: Building static mesh carriage4_sm_taptop...
+[2020.02.28-15.52.07:779][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_taptop.carriage4_sm_taptop
+[2020.02.28-15.52.07:782][999]LogStaticMesh: Building static mesh carriage4_sm_trainback4...
+[2020.02.28-15.52.07:784][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_trainback4.carriage4_sm_trainback4
+[2020.02.28-15.52.07:785][999]LogStaticMesh: Building static mesh carriage4_sm_trainback5...
+[2020.02.28-15.52.07:788][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_trainback5.carriage4_sm_trainback5
+[2020.02.28-15.52.07:789][999]LogStaticMesh: Building static mesh carriage4_sm_trainbackground4...
+[2020.02.28-15.52.07:791][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_trainbackground4.carriage4_sm_trainbackground4
+[2020.02.28-15.52.07:792][999]LogStaticMesh: Building static mesh carriage4_sm_trainbackground5...
+[2020.02.28-15.52.07:794][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_trainbackground5.carriage4_sm_trainbackground5
+[2020.02.28-15.52.07:795][999]LogStaticMesh: Building static mesh carriage4_sm_trainbottom2...
+[2020.02.28-15.52.07:796][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_trainbottom2.carriage4_sm_trainbottom2
+[2020.02.28-15.52.07:797][999]LogStaticMesh: Building static mesh carriage4_sm_trainmiddle2...
+[2020.02.28-15.52.07:799][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_trainmiddle2.carriage4_sm_trainmiddle2
+[2020.02.28-15.52.07:801][999]LogStaticMesh: Building static mesh carriage4_sm_trainmiddle3...
+[2020.02.28-15.52.07:803][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage4/carriage4_sm_trainmiddle3.carriage4_sm_trainmiddle3
+[2020.02.28-15.52.07:805][999]LogStaticMesh: Building static mesh carriage4_sm_trainroof2...
+[2020.02.28-15.52.07:810][999]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/carriage4/carriage4_sm_trainroof2.carriage4_sm_trainroof2
+[2020.02.28-15.52.07:811][999]LogStaticMesh: Building static mesh train_level_sm_debris1...
+[2020.02.28-15.52.07:812][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage1/train_level_sm_debris1.train_level_sm_debris1
+[2020.02.28-15.52.07:813][999]LogStaticMesh: Building static mesh train_level_sm_debris...
+[2020.02.28-15.52.07:815][999]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/carriage1/train_level_sm_debris.train_level_sm_debris
+[2020.02.28-15.52.07:821][999]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.02.28-15.52.07:844][999]LogAIModule: Creating AISystem for world Train
+[2020.02.28-15.52.07:870][999]LogAssetEditorManager: Opening Asset editor for World /Game/LevelFolder/Level2/Train.Train
+[2020.02.28-15.52.07:932][999]Cmd: MAP LOAD FILE="D:/mb/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level2/Train.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.28-15.52.07:932][999]LightingResults: New page: Lighting Build
+[2020.02.28-15.52.07:933][999]LoadErrors: New page: Loading map: Train.umap
+[2020.02.28-15.52.07:934][999]MapCheck: New page: Map Check
+[2020.02.28-15.52.07:934][999]LightingResults: New page: Lighting Build
+[2020.02.28-15.52.07:992][999]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.28-15.52.08:061][999]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.28-15.52.08:062][999]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.168ms to complete.
+[2020.02.28-15.52.08:062][999]LogFileHelpers: Loading map 'Train' took 0.131
+[2020.02.28-15.52.08:523][ 33]LogShaderCompilers: Display: Shaders left to compile 68
+[2020.02.28-15.52.08:767][ 56]LogShaderCompilers: Display: Shaders left to compile 58
+[2020.02.28-15.52.09:911][156]LogShaderCompilers: Display: Shaders left to compile 48
+[2020.02.28-15.52.09:939][159]LogShaderCompilers: Display: Shaders left to compile 38
+[2020.02.28-15.52.10:174][180]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.02.28-15.52.10:267][189]LogShaderCompilers: Display: Shaders left to compile 18
+[2020.02.28-15.52.11:539][307]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.02.28-15.52.43:535][534]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-15.52.45:995][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.52.46:135][818]LogSlate: Window 'Alien1916MASTER - Unreal Editor' being destroyed
+[2020.02.28-15.52.46:136][818]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.28-15.52.46:357][819]Cmd: QUIT_EDITOR
+[2020.02.28-15.52.46:457][819]LogExit: Preparing to exit.
+[2020.02.28-15.52.47:437][819]LogExit: Editor shut down
+[2020.02.28-15.52.47:438][819]LogExit: Transaction tracking system shut down
+[2020.02.28-15.52.47:629][819]LogExit: Object subsystem successfully closed.
+[2020.02.28-15.52.47:655][819]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.28-15.52.47:661][819]LogD3D11RHI: Shutdown
+[2020.02.28-15.52.47:661][819]LogD3D11RHI: CleanupD3DDevice
+[2020.02.28-15.52.47:665][819]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.28-15.52.47:701][819]LogModuleManager: Shutting down and abandoning module MeshBuilder (628)
+[2020.02.28-15.52.47:701][819]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (626)
+[2020.02.28-15.52.47:701][819]LogModuleManager: Shutting down and abandoning module SceneOutliner (624)
+[2020.02.28-15.52.47:701][819]LogModuleManager: Shutting down and abandoning module AddContentDialog (622)
+[2020.02.28-15.52.47:701][819]LogModuleManager: Shutting down and abandoning module WidgetCarousel (621)
+[2020.02.28-15.52.47:701][819]LogModuleManager: Shutting down and abandoning module EditorWidgets (618)
+[2020.02.28-15.52.47:701][819]LogModuleManager: Shutting down and abandoning module CollectionManager (616)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module StatsViewer (614)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module FoliageEdit (612)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module LandscapeEditor (610)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module MeshPaintMode (608)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (606)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module ActorPickerMode (604)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module GeometryMode (602)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module TextureAlignMode (600)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module BspMode (598)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (596)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (594)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module AutomationWorker (592)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (590)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (588)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (586)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module PlacementMode (585)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module MaterialEditor (584)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (580)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (578)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (576)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (574)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module WebMMedia (572)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (570)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (568)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module SequenceRecorder (567)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (564)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (562)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (560)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (558)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (556)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (554)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (552)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (550)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (548)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (546)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module CharacterAI (544)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module SmartSnapping (542)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module SessionServices (540)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module ViewportSnapping (538)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module ViewportInteraction (536)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module ClothPainter (534)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (533)
+[2020.02.28-15.52.47:702][819]LogModuleManager: Shutting down and abandoning module LogVisualizer (530)
+[2020.02.28-15.52.47:703][819]LogModuleManager: Shutting down and abandoning module IntroTutorials (528)
+[2020.02.28-15.52.47:703][819]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (527)
+[2020.02.28-15.52.47:703][819]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (524)
+[2020.02.28-15.52.47:703][819]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (522)
+[2020.02.28-15.52.47:703][819]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (520)
+[2020.02.28-15.52.47:703][819]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (518)
+[2020.02.28-15.52.47:703][819]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (517)
+[2020.02.28-15.52.48:546][819]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (514)
+[2020.02.28-15.52.48:546][819]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (512)
+[2020.02.28-15.52.48:546][819]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (510)
+[2020.02.28-15.52.48:546][819]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (508)
+[2020.02.28-15.52.48:546][819]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (506)
+[2020.02.28-15.52.48:546][819]LogModuleManager: Shutting down and abandoning module InputBindingEditor (504)
+[2020.02.28-15.52.48:546][819]LogModuleManager: Shutting down and abandoning module MergeActors (502)
+[2020.02.28-15.52.48:546][819]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (500)
+[2020.02.28-15.52.48:546][819]LogModuleManager: Shutting down and abandoning module LocalizationService (499)
+[2020.02.28-15.52.48:546][819]LogModuleManager: Shutting down and abandoning module HardwareTargeting (496)
+[2020.02.28-15.52.48:546][819]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (494)
+[2020.02.28-15.52.48:546][819]LogModuleManager: Shutting down and abandoning module UndoHistory (492)
+[2020.02.28-15.52.48:547][819]LogModuleManager: Shutting down and abandoning module XmlParser (490)
+[2020.02.28-15.52.48:547][819]LogModuleManager: Shutting down and abandoning module Blutility (488)
+[2020.02.28-15.52.48:547][819]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (486)
+[2020.02.28-15.52.48:547][819]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (485)
+[2020.02.28-15.52.48:547][819]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (482)
+[2020.02.28-15.52.48:547][819]LogModuleManager: Shutting down and abandoning module SettingsEditor (480)
+[2020.02.28-15.52.48:547][819]LogModuleManager: Shutting down and abandoning module ProjectLauncher (478)
+[2020.02.28-15.52.48:547][819]LogModuleManager: Shutting down and abandoning module SessionFrontend (476)
+[2020.02.28-15.52.48:547][819]LogModuleManager: Shutting down and abandoning module ProfilerClient (474)
+[2020.02.28-15.52.48:547][819]LogModuleManager: Shutting down and abandoning module DeviceManager (472)
+[2020.02.28-15.52.48:547][819]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (471)
+[2020.02.28-15.52.48:623][819]LogModuleManager: Shutting down and abandoning module AutomationController (468)
+[2020.02.28-15.52.48:623][819]LogModuleManager: Shutting down and abandoning module AutomationWindow (466)
+[2020.02.28-15.52.48:623][819]LogModuleManager: Shutting down and abandoning module Layers (464)
+[2020.02.28-15.52.48:623][819]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (462)
+[2020.02.28-15.52.48:623][819]LogModuleManager: Shutting down and abandoning module DetailCustomizations (460)
+[2020.02.28-15.52.48:623][819]LogModuleManager: Shutting down and abandoning module PackagesDialog (458)
+[2020.02.28-15.52.48:623][819]LogModuleManager: Shutting down and abandoning module Persona (456)
+[2020.02.28-15.52.48:623][819]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (455)
+[2020.02.28-15.52.48:623][819]LogModuleManager: Shutting down and abandoning module AnimGraph (453)
+[2020.02.28-15.52.48:623][819]LogModuleManager: Shutting down and abandoning module Kismet (450)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module GraphEditor (448)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module ClassViewer (446)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module Toolbox (444)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module ModuleUI (442)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module MovieSceneTools (440)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module OutputLog (438)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module GammaUI (436)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module Documentation (434)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (432)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module MovieScene (430)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (428)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module LauncherPlatform (426)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module AnalyticsET (424)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module PortalServices (422)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module PortalRpc (420)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module MessagingRpc (418)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module AIModule (416)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module GameplayDebugger (415)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module AITestSuite (413)
+[2020.02.28-15.52.48:624][819]LogModuleManager: Shutting down and abandoning module NavigationSystem (411)
+[2020.02.28-15.52.48:625][819]LogModuleManager: Shutting down and abandoning module DesktopPlatform (408)
+[2020.02.28-15.52.48:625][819]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (406)
+[2020.02.28-15.52.48:628][819]LogModuleManager: Shutting down and abandoning module ProfilerService (404)
+[2020.02.28-15.52.48:630][819]LogModuleManager: Shutting down and abandoning module TaskGraph (402)
+[2020.02.28-15.52.48:630][819]LogModuleManager: Shutting down and abandoning module SteamVRController (400)
+[2020.02.28-15.52.48:630][819]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (398)
+[2020.02.28-15.52.48:630][819]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (396)
+[2020.02.28-15.52.48:630][819]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.02.28-15.52.48:630][819]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.02.28-15.52.48:630][819]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.02.28-15.52.48:630][819]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.02.28-15.52.48:630][819]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.02.28-15.52.48:630][819]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.02.28-15.52.48:630][819]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.02.28-15.52.48:630][819]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.02.28-15.52.48:630][819]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.02.28-15.52.48:631][819]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.02.28-15.52.48:631][819]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.02.28-15.52.48:631][819]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.02.28-15.52.48:631][819]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module HTML5Networking (368)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (366)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (364)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module BackChannel (362)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module AppleVision (360)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (358)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module AppleImageUtils (356)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module AlembicImporter (354)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module AlembicLibrary (353)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module GeometryCache (352)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (351)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module VariantManagerContent (346)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (342)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module PluginBrowser (340)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (338)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module PolygonModeling (336)
+[2020.02.28-15.52.48:635][819]LogModuleManager: Shutting down and abandoning module MeshEditor (334)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (312)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (310)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (288)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module ApexDestruction (286)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.02.28-15.52.48:636][819]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.02.28-15.52.48:738][819]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.02.28-15.52.48:838][819]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.02.28-15.52.48:838][819]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.02.28-15.52.48:838][819]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.02.28-15.52.48:838][819]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.02.28-15.52.48:838][819]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.02.28-15.52.48:838][819]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.02.28-15.52.48:838][819]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.02.28-15.52.48:839][819]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.02.28-15.52.48:839][819]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.02.28-15.52.48:840][819]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.02.28-15.52.48:840][819]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.02.28-15.52.48:840][819]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.02.28-15.52.48:842][819]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.02.28-15.52.48:842][819]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.02.28-15.52.48:842][819]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.02.28-15.52.48:842][819]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.02.28-15.52.48:842][819]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.02.28-15.52.48:842][819]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.02.28-15.52.48:842][819]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2020.02.28-15.52.48:844][819]LogModuleManager: Shutting down and abandoning module Media (241)
+[2020.02.28-15.52.48:850][819]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2020.02.28-15.52.48:850][819]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2020.02.28-15.52.48:850][819]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2020.02.28-15.52.48:850][819]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2020.02.28-15.52.48:850][819]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2020.02.28-15.52.48:850][819]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2020.02.28-15.52.48:850][819]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2020.02.28-15.52.48:850][819]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2020.02.28-15.52.48:851][819]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2020.02.28-15.52.48:851][819]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2020.02.28-15.52.48:851][819]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2020.02.28-15.52.48:851][819]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2020.02.28-15.52.48:851][819]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2020.02.28-15.52.48:851][819]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2020.02.28-15.52.48:851][819]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2020.02.28-15.52.48:851][819]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2020.02.28-15.52.48:851][819]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2020.02.28-15.52.48:851][819]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2020.02.28-15.52.48:851][819]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2020.02.28-15.52.48:851][819]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2020.02.28-15.52.48:855][819]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2020.02.28-15.52.49:249][819]LogDerivedDataCache: Shutdown
+[2020.02.28-15.52.49:249][819]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2020.02.28-15.52.49:250][819]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2020.02.28-15.52.49:250][819]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2020.02.28-15.52.49:250][819]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2020.02.28-15.52.49:250][819]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2020.02.28-15.52.49:250][819]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2020.02.28-15.52.49:250][819]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2020.02.28-15.52.49:250][819]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2020.02.28-15.52.49:250][819]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2020.02.28-15.52.49:250][819]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2020.02.28-15.52.49:250][819]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2020.02.28-15.52.49:250][819]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2020.02.28-15.52.49:250][819]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2020.02.28-15.52.49:250][819]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2020.02.28-15.52.49:250][819]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2020.02.28-15.52.49:250][819]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2020.02.28-15.52.49:250][819]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2020.02.28-15.52.49:251][819]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2020.02.28-15.52.49:252][819]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.02.28-15.52.49:252][819]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.02.28-15.52.49:252][819]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.02.28-15.52.49:252][819]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2020.02.28-15.52.49:252][819]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2020.02.28-15.52.49:253][819]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2020.02.28-15.52.49:253][819]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2020.02.28-15.52.49:254][819]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2020.02.28-15.52.49:254][819]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2020.02.28-15.52.49:264][819]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2020.02.28-15.52.49:264][819]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2020.02.28-15.52.49:264][819]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2020.02.28-15.52.49:264][819]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2020.02.28-15.52.49:264][819]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2020.02.28-15.52.49:264][819]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2020.02.28-15.52.49:264][819]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2020.02.28-15.52.49:264][819]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2020.02.28-15.52.49:264][819]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2020.02.28-15.52.49:264][819]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2020.02.28-15.52.49:264][819]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2020.02.28-15.52.49:264][819]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.02.28-15.52.49:264][819]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.02.28-15.52.49:264][819]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.28-15.52.49:264][819]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.02.28-15.52.49:265][819]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.02.28-15.52.49:265][819]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.02.28-15.52.49:265][819]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.02.28-15.52.49:265][819]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.02.28-15.52.49:266][819]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.02.28-15.52.49:266][819]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.02.28-15.52.49:273][819]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.02.28-15.52.49:274][819]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.28-15.52.49:274][819]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F62A87B-4C45-3940-F2B7-3C911EB1CBF0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=a0b61fa347bd7b9f17b3f0bc767d7bc3%7C%7C8a743f5c-7b89-47ce-be97-3f8a5a1a2604&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.28-15.52.49:304][819]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.02.28-15.52.49:306][819]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.02.28-15.52.49:306][819]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.02.28-15.52.49:306][819]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.02.28-15.52.49:306][819]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.02.28-15.52.49:306][819]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.02.28-15.52.49:306][819]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.02.28-15.52.49:306][819]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.02.28-15.52.49:307][819]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.28-15.52.49:307][819]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.02.28-15.52.49:307][819]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.02.28-15.52.49:307][819]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.02.28-15.52.49:308][819]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.02.28-15.52.49:308][819]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.02.28-15.52.49:308][819]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.02.28-15.52.49:308][819]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.02.28-15.52.49:308][819]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.02.28-15.52.49:308][819]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.02.28-15.52.49:309][819]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.02.28-15.52.49:309][819]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.02.28-15.52.49:309][819]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.02.28-15.52.49:309][819]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.02.28-15.52.49:309][819]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.02.28-15.52.49:309][819]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.02.28-15.52.49:309][819]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.02.28-15.52.49:309][819]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.02.28-15.52.49:309][819]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.02.28-15.52.49:309][819]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.02.28-15.52.49:309][819]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.02.28-15.52.49:335][819]LogExit: Exiting.
+[2020.02.28-15.52.49:363][819]Log file closed, 02/28/20 15:52:49
