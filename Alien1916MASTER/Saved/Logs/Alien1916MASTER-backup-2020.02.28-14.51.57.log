@@ -1,0 +1,896 @@
+﻿Log file open, 02/28/20 13:57:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Alien1916MASTER
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.445231
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.155s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7800X CPU @ 3.50GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.02.28-13.57.30:565][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.28-13.57.30:565][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.02.28-13.57.30:565][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.02.28-13.57.30:581][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.28-13.57.30:581][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.28-13.57.30:581][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.28-13.57.30:581][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.28-13.57.30:612][  0]LogHAL: Display: Platform has ~ 32 GB [34063945728 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.02.28-13.57.30:612][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.28-13.57.30:612][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.28-13.57.30:612][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.28-13.57.30:628][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.28-13.57.30:628][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.02.28-13.57.30:628][  0]LogInit: Computer: TU39429
+[2020.02.28-13.57.30:628][  0]LogInit: User: v8027550
+[2020.02.28-13.57.30:628][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.02.28-13.57.30:628][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.28-13.57.30:628][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2020.02.28-13.57.30:628][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.28-13.57.30:628][  0]LogMemory: Process Physical Memory: 105.54 MB used, 105.54 MB peak
+[2020.02.28-13.57.30:628][  0]LogMemory: Process Virtual Memory: 94.55 MB used, 94.55 MB peak
+[2020.02.28-13.57.30:629][  0]LogMemory: Physical Memory: 5944.68 MB used,  26541.23 MB free, 32485.91 MB total
+[2020.02.28-13.57.30:629][  0]LogMemory: Virtual Memory: 4672.01 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.02.28-13.57.30:679][  0]LogInit: Using OS detected language (en-GB).
+[2020.02.28-13.57.30:679][  0]LogInit: Using OS detected locale (en-GB).
+[2020.02.28-13.57.30:682][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.02.28-13.57.31:027][  0]LogStreaming: Display: Took  0.348s to InitEngineTextLocalization.
+[2020.02.28-13.57.31:027][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.28-13.57.31:096][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.28-13.57.31:096][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.28-13.57.31:347][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.28-13.57.31:347][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.28-13.57.31:445][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2020.02.28-13.57.31:446][  0]LogD3D11RHI:       8010/0/16242 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.28-13.57.31:448][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.28-13.57.31:448][  0]LogD3D11RHI:       0/0/16242 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.28-13.57.31:448][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.28-13.57.31:454][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.28-13.57.31:454][  0]LogD3D11RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.28-13.57.31:454][  0]LogWindows: EnumDisplayDevices:
+[2020.02.28-13.57.31:454][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2020.02.28-13.57.31:455][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2020.02.28-13.57.31:455][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.02.28-13.57.31:456][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.02.28-13.57.31:456][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.28-13.57.31:456][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2020.02.28-13.57.31:456][  0]LogD3D11RHI:   Driver Version: 431.70 (internal:26.21.14.3170, unified:431.70)
+[2020.02.28-13.57.31:456][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.02.28-13.57.31:456][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2020.02.28-13.57.31:509][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.28-13.57.31:519][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.28-13.57.32:099][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.02.28-13.57.32:118][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.02.28-13.57.32:130][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.02.28-13.57.32:142][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.02.28-13.57.32:155][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.02.28-13.57.32:166][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.02.28-13.57.32:178][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.02.28-13.57.32:190][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.02.28-13.57.32:200][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:277][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.28-13.57.32:279][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.02.28-13.57.32:358][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.02.28-13.57.32:358][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.02.28-13.57.32:398][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.02.28-13.57.32:398][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.02.28-13.57.32:410][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.02.28-13.57.32:437][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.02.28-13.57.32:470][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.02.28-13.57.32:484][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.02.28-13.57.32:527][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.02.28-13.57.32:527][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.02.28-13.57.32:527][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.28-13.57.32:604][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Intermediate/Shaders/WorkingDirectory/3764/).
+[2020.02.28-13.57.32:604][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/v8027550/AppData/Local/Temp/UnrealShaderWorkingDir/CC1BD28D4E69A1F1D6713FB550A32273/'.
+[2020.02.28-13.57.32:607][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.28-13.57.32:607][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.28-13.57.32:607][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.28-13.57.33:093][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.28-13.57.33:173][  0]LogDerivedDataCache: Loaded boot cache 0.08s 86MB C:/Users/v8027550/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.02.28-13.57.33:173][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/v8027550/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.02.28-13.57.33:173][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.28-13.57.33:173][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.28-13.57.33:173][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.28-13.57.33:173][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.28-13.57.33:186][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.28-13.57.33:186][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.28-13.57.33:186][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.28-13.57.33:199][  0]LogDerivedDataCache: Using Local data cache path C:/Users/v8027550/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.28-13.57.33:199][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.28-13.57.33:199][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.28-13.57.33:221][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.28-13.57.33:222][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.28-13.57.33:223][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.28-13.57.33:307][  0]LogAssetRegistry: FAssetRegistry took 0.0333 seconds to start up
+[2020.02.28-13.57.33:668][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.28-13.57.33:886][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.02.28-13.57.33:890][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.02.28-13.57.33:890][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.28-13.57.33:890][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.28-13.57.33:890][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.02.28-13.57.33:907][  0]LogNetVersion: Alien1916MASTER 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 709990158)
+[2020.02.28-13.57.34:597][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.113803 seconds
+[2020.02.28-13.57.34:604][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.02.28-13.57.34:604][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.02.28-13.57.34:604][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.28-13.57.35:507][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.28-13.57.35:522][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.28-13.57.36:286][  0]SourceControl: Source control is disabled
+[2020.02.28-13.57.36:286][  0]SourceControl: Source control is disabled
+[2020.02.28-13.57.36:289][  0]SourceControl: Source control is disabled
+[2020.02.28-13.57.36:292][  0]SourceControl: Source control is disabled
+[2020.02.28-13.57.36:528][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.28-13.57.36:666][  0]LogOcInput: OculusInput pre-init called
+[2020.02.28-13.57.36:844][  0]LogEngine: Initializing Engine...
+[2020.02.28-13.57.36:844][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.28-13.57.36:846][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.02.28-13.57.36:846][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.02.28-13.57.36:846][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.02.28-13.57.36:846][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.02.28-13.57.37:184][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.28-13.57.37:208][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.28-13.57.37:229][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-13.57.37:323][  0]LogInit: FAudioDevice initialized.
+[2020.02.28-13.57.37:324][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.28-13.57.37:432][  0]LogDerivedDataCache: Saved boot cache 0.11s 86MB C:/Users/v8027550/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.02.28-13.57.37:462][  0]LogInit: Texture streaming: Enabled
+[2020.02.28-13.57.37:488][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.28-13.57.37:505][  0]LogInit: Transaction tracking system initialized
+[2020.02.28-13.57.37:535][  0]BlueprintLog: New page: Editor Load
+[2020.02.28-13.57.37:618][  0]LocalizationService: Localization service is disabled
+[2020.02.28-13.57.38:333][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.28-13.57.38:333][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.28-13.57.38:333][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.02.28-13.57.38:333][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.02.28-13.57.38:333][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.02.28-13.57.38:334][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.02.28-13.57.38:334][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.02.28-13.57.38:550][  0]LogFileCache: Scanning file cache for directory 'C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/' took 0.04s
+[2020.02.28-13.57.38:550][  0]SourceControl: Source control is disabled
+[2020.02.28-13.57.38:551][  0]LightingResults: New page: Lighting Build
+[2020.02.28-13.57.38:558][  0]MapCheck: New page: Map Check
+[2020.02.28-13.57.38:558][  0]LightingResults: New page: Lighting Build
+[2020.02.28-13.57.39:105][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.02.28-13.57.39:114][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.28-13.57.39:158][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.28-13.57.39:158][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.203ms to complete.
+[2020.02.28-13.57.39:158][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.609
+[2020.02.28-13.57.39:286][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.57.39:293][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.57.39:299][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.57.39:305][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.57.39:313][  0]LogCollectionManager: Loaded 0 collections in 0.002206 seconds
+[2020.02.28-13.57.39:332][  0]LogFileCache: Scanning file cache for directory 'C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Collections/' took 0.01s
+[2020.02.28-13.57.39:332][  0]LogFileCache: Scanning file cache for directory 'C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Developers/v8027550/Collections/' took 0.00s
+[2020.02.28-13.57.39:332][  0]LogFileCache: Scanning file cache for directory 'C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Collections/' took 0.00s
+[2020.02.28-13.57.39:332][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.28-13.57.39:341][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2660 classes and 625 folders.
+[2020.02.28-13.57.39:347][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.28-13.57.39:354][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:402][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:410][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:419][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:424][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:431][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:451][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:495][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:501][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:511][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:541][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:557][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:564][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:569][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:574][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.28-13.57.39:658][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.28-13.57.39:664][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.02.28-13.57.39:696][  0]LogSlate: Took 0.000376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.28-13.57.39:702][  0]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.28-13.57.39:725][  0]LogSlate: Took 0.007946 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.28-13.57.39:836][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2020.02.28-13.57.39:986][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.28-13.57.40:011][  0]LogSlate: Window 'Tutorials' being destroyed
+[2020.02.28-13.57.40:044][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.28-13.57.40:044][  0]LogLoad: (Engine Initialization) Total time: 12.16 seconds
+[2020.02.28-13.57.40:044][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.28-13.57.40:134][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.28-13.57.40:187][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/' took 0.12s
+[2020.02.28-13.57.40:279][  2]LogAssetRegistry: Asset discovery search completed in 6.9958 seconds
+[2020.02.28-13.57.40:283][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.02.28-13.57.40:284][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000145 seconds (updated 0 objects)
+[2020.02.28-14.03.14:997][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-14.03.16:114][605]LogSlate: Took 0.005057 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.28-14.24.01:717][696]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-14.24.56:399][521]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.28-14.25.11:713][521]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.28-14.25.25:212][105]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/LevelFolder/Menu/MC_MainMenuHUD_BP.MC_MainMenuHUD_BP
+[2020.02.28-14.25.25:677][105]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 117 classes and 0 folders.
+[2020.02.28-14.25.28:223][237]LogRenderer: Reallocating scene render targets to support 1208x1020 Format 10 NumSamples 1 (Frame:127).
+[2020.02.28-14.25.29:016][316]LogSlate: Took 0.012633 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.28-14.25.45:017][816]LogSlate: Took 0.009048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.28-14.26.24:116][292]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/LevelFolder/Menu/MC_MainMenuWidget_Widget.MC_MainMenuWidget_Widget
+[2020.02.28-14.27.05:242][852]BlueprintLog: New page: Compile MC_MainMenuWidget_Widget
+[2020.02.28-14.27.44:496][629]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.28-14.28.03:241][643]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/LevelFolder/Menu/MC_MenuMode_GamemodeBP.MC_MenuMode_GamemodeBP
+[2020.02.28-14.28.32:615][839]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.28-14.29.15:789][868]LogMetaData: Removing '/Game/LevelFolder/Menu/MC_Menu_Gamemode.SKEL_MC_Menu_Gamemode_C' ref from Metadata '/Game/LevelFolder/Menu/SideScrollerGameMode.PackageMetaData'
+[2020.02.28-14.29.15:789][868]LogMetaData: Removing '/Game/LevelFolder/Menu/MC_Menu_Gamemode.MC_Menu_Gamemode_C' ref from Metadata '/Game/LevelFolder/Menu/SideScrollerGameMode.PackageMetaData'
+[2020.02.28-14.29.15:817][868]LogSavePackage: Moving '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/MC_Menu_Gamemode5F23E3CA4F42F9D1250284A7125B9236.tmp' to '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Menu/MC_Menu_Gamemode.uasset'
+[2020.02.28-14.29.28:389][305]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/LevelFolder/Menu/MC_Menu_Gamemode.MC_Menu_Gamemode
+[2020.02.28-14.29.46:864][913]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.28-14.29.52:574][489]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-14.29.52:615][489]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.02.28-14.29.52:615][489]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.28-14.29.52:617][489]LogPlayLevel: [PlayLevel] Compiling MC_MainMenuHUD_BP before play...
+[2020.02.28-14.29.52:620][489]LogBlueprint: Error: [Compiler MC_MainMenuHUD_BP] Spawn node  Create Widget  must have a class specified.
+[2020.02.28-14.29.52:621][489]LogBlueprint: Warning: [Compiler MC_MainMenuHUD_BP] [1944.74] Compile of MC_MainMenuHUD_BP failed. 1 Fatal Issue(s) 0 Warning(s) [in 3 ms] (/Game/LevelFolder/Menu/MC_MainMenuHUD_BP.MC_MainMenuHUD_BP)
+[2020.02.28-14.29.52:760][489]LogPlayLevel: [PlayLevel] Compiling MC_MainMenuWidget_Widget before play...
+[2020.02.28-14.29.53:032][489]LogPlayLevel: PlayLevel: Blueprint regeneration took 416 ms (2 blueprints)
+[2020.02.28-14.29.53:032][489]BlueprintLog: Blueprint MC_MainMenuHUD_BP failed to compile
+[2020.02.28-14.29.55:482][489]LogSlate: Window 'Message' being destroyed
+[2020.02.28-14.29.55:489][489]PIE: New page: PIE session: SideScrollerExampleMap (28 Feb 2020 14:29:55)
+[2020.02.28-14.29.55:504][489]LogPlayLevel: Creating play world package: /Game/DefaultContent/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2020.02.28-14.29.55:550][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045869s)
+[2020.02.28-14.29.55:554][489]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.02.28-14.29.55:555][489]LogPlayLevel: PIE: World Init took: (0.004505s)
+[2020.02.28-14.29.55:555][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/DefaultContent/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.051319s)
+[2020.02.28-14.29.55:632][489]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-14.29.55:670][489]LogInit: FAudioDevice initialized.
+[2020.02.28-14.29.55:719][489]LogLoad: Game class is 'GameMode'
+[2020.02.28-14.29.55:729][489]LogWorld: Bringing World /Game/DefaultContent/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2020.02.28-14.29.55
+[2020.02.28-14.29.55:731][489]LogWorld: Bringing up level for play took: 0.009843
+[2020.02.28-14.29.55:773][489]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.02.28-14.29.55:773][489]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-14.29.55:773][489]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-14.29.55:774][489]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-14.29.55:774][489]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-14.29.55:774][489]PIE: Play in editor start time for /Game/DefaultContent/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 3.472
+[2020.02.28-14.29.55:775][489]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.02.28-14.29.57:645][535]LogBlueprintUserMessages: [SideScrollerExampleMap_C_5] 990.0
+[2020.02.28-14.29.59:657][541]LogBlueprintUserMessages: [SideScrollerExampleMap_C_5] 980.0
+[2020.02.28-14.30.00:009][544]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.02.28-14.30.00:009][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.30.00:046][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-14.30.00:047][544]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.02.28-14.30.00:108][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.30.00:139][545]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.02.28-14.30.15:429][808]BlueprintLog: New page: Compile MC_MainMenuHUD_BP
+[2020.02.28-14.30.15:433][808]LogBlueprint: Error: [Compiler MC_MainMenuHUD_BP] Spawn node  Create Widget  must have a class specified.
+[2020.02.28-14.30.15:618][808]LogBlueprint: Warning: [Compiler MC_MainMenuHUD_BP] [1967.74] Compile of MC_MainMenuHUD_BP failed. 1 Fatal Issue(s) 0 Warning(s) [in 188 ms] (/Game/LevelFolder/Menu/MC_MainMenuHUD_BP.MC_MainMenuHUD_BP)
+[2020.02.28-14.30.20:635][245]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.28-14.30.23:114][470]BlueprintLog: New page: Compile MC_MainMenuHUD_BP
+[2020.02.28-14.30.25:762][725]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-14.30.25:800][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.02.28-14.30.25:800][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-14.30.25:800][725]PIE: New page: PIE session: SideScrollerExampleMap (28 Feb 2020 14:30:25)
+[2020.02.28-14.30.25:800][725]LogPlayLevel: Creating play world package: /Game/DefaultContent/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2020.02.28-14.30.25:812][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011542s)
+[2020.02.28-14.30.25:812][725]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.02.28-14.30.25:812][725]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2020.02.28-14.30.25:812][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/DefaultContent/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012399s)
+[2020.02.28-14.30.25:876][725]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-14.30.25:911][725]LogInit: FAudioDevice initialized.
+[2020.02.28-14.30.25:948][725]LogLoad: Game class is 'GameMode'
+[2020.02.28-14.30.25:952][725]LogWorld: Bringing World /Game/DefaultContent/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2020.02.28-14.30.25
+[2020.02.28-14.30.25:953][725]LogWorld: Bringing up level for play took: 0.003812
+[2020.02.28-14.30.25:967][725]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-14.30.25:968][725]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-14.30.25:968][725]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-14.30.25:968][725]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-14.30.25:968][725]PIE: Play in editor start time for /Game/DefaultContent/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.334
+[2020.02.28-14.30.25:969][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.02.28-14.30.27:760][932]LogBlueprintUserMessages: [SideScrollerExampleMap_C_5] 990.0
+[2020.02.28-14.30.29:763][170]LogBlueprintUserMessages: [SideScrollerExampleMap_C_5] 980.0
+[2020.02.28-14.30.31:770][409]LogBlueprintUserMessages: [SideScrollerExampleMap_C_5] 970.0
+[2020.02.28-14.30.33:772][647]LogBlueprintUserMessages: [SideScrollerExampleMap_C_5] 960.0
+[2020.02.28-14.30.35:779][885]LogBlueprintUserMessages: [SideScrollerExampleMap_C_5] 950.0
+[2020.02.28-14.30.37:785][124]LogBlueprintUserMessages: [SideScrollerExampleMap_C_5] 940.0
+[2020.02.28-14.30.38:170][170]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.02.28-14.30.38:171][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.30.38:211][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-14.30.38:211][170]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.02.28-14.30.38:271][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.30.38:288][171]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.02.28-14.30.39:512][311]LogEditorViewport: Clicking on Actor (LMB): MC_VentGrate_BP_C (MC_VentGrate_BP)
+[2020.02.28-14.31.01:534][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-14.31.43:480][373]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.28-14.32.02:727][343]BlueprintLog: New page: Compile MC_MainMenuWidget_Widget
+[2020.02.28-14.32.07:847][683]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-14.32.07:886][683]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.02.28-14.32.07:886][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-14.32.07:886][683]PIE: New page: PIE session: SideScrollerExampleMap (28 Feb 2020 14:32:07)
+[2020.02.28-14.32.07:886][683]LogPlayLevel: Creating play world package: /Game/DefaultContent/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2020.02.28-14.32.07:899][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012339s)
+[2020.02.28-14.32.07:900][683]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2020.02.28-14.32.07:900][683]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2020.02.28-14.32.07:900][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/DefaultContent/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013411s)
+[2020.02.28-14.32.07:962][683]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-14.32.07:987][683]LogInit: FAudioDevice initialized.
+[2020.02.28-14.32.08:020][683]LogLoad: Game class is 'GameMode'
+[2020.02.28-14.32.08:023][683]LogWorld: Bringing World /Game/DefaultContent/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2020.02.28-14.32.08
+[2020.02.28-14.32.08:023][683]LogWorld: Bringing up level for play took: 0.002043
+[2020.02.28-14.32.08:037][683]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-14.32.08:037][683]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-14.32.08:037][683]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-14.32.08:038][683]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-14.32.08:038][683]PIE: Play in editor start time for /Game/DefaultContent/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.265
+[2020.02.28-14.32.08:038][683]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.02.28-14.32.09:839][893]LogBlueprintUserMessages: [SideScrollerExampleMap_C_5] 990.0
+[2020.02.28-14.32.11:842][132]LogBlueprintUserMessages: [SideScrollerExampleMap_C_5] 980.0
+[2020.02.28-14.32.13:103][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.02.28-14.32.13:104][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.32.13:140][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-14.32.13:140][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/DefaultContent/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2020.02.28-14.32.13:196][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.32.13:214][282]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.02.28-14.33.40:976][631]LogMetaData: Removing '/Game/LevelFolder/Menu/MC_MainMenu_Level.SKEL_MC_MainMenu_Level_C' ref from Metadata '/Game/LevelFolder/Menu/MainMenu.PackageMetaData'
+[2020.02.28-14.33.40:976][631]LogMetaData: Removing '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level_C' ref from Metadata '/Game/LevelFolder/Menu/MainMenu.PackageMetaData'
+[2020.02.28-14.33.40:976][631]LogMetaData: Removing '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level.EventGraph.K2Node_Event_0' ref from Metadata '/Game/LevelFolder/Menu/MainMenu.PackageMetaData'
+[2020.02.28-14.33.40:976][631]LogMetaData: Removing '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level.EventGraph.K2Node_Event_1' ref from Metadata '/Game/LevelFolder/Menu/MainMenu.PackageMetaData'
+[2020.02.28-14.33.41:153][631]LogSavePackage: Moving '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/MC_MainMenu_Level907FDC2441C18A7B8546B18CAFF5572F.tmp' to '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Menu/MC_MainMenu_Level.umap'
+[2020.02.28-14.33.41:159][631]LogFileHelpers: Saving map 'MC_MainMenu_Level' took 0.168
+[2020.02.28-14.34.01:861][791]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.28-14.34.02:086][791]LogSlate: Window 'MC_Menu_Gamemode*' being destroyed
+[2020.02.28-14.34.02:090][791]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.28-14.34.04:840][856]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.28-14.34.06:960][930]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.28-14.34.30:991][607]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/LevelFolder/Menu/MC_MainMenu_widget_2.MC_MainMenu_widget_2
+[2020.02.28-14.34.32:739][719]LogSlate: Window 'MC_MainMenu_widget_2*' being destroyed
+[2020.02.28-14.34.32:744][719]LogSlate: Window 'MC_MainMenu_widget_2*' being destroyed
+[2020.02.28-14.34.42:083][739]LogMetaData: Removing '/Game/LevelFolder/Menu/MC_Options_widget.SKEL_MC_Options_widget_C' ref from Metadata '/Game/LevelFolder/Menu/MC_MainMenu_widget_2.PackageMetaData'
+[2020.02.28-14.34.42:083][739]LogMetaData: Removing '/Game/LevelFolder/Menu/MC_Options_widget.MC_Options_widget_C' ref from Metadata '/Game/LevelFolder/Menu/MC_MainMenu_widget_2.PackageMetaData'
+[2020.02.28-14.34.42:110][739]LogSavePackage: Moving '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/MC_Options_widgetBC450B614058DF1B44EFD7A7A197A847.tmp' to '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Menu/MC_Options_widget.uasset'
+[2020.02.28-14.34.48:919][ 76]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget
+[2020.02.28-14.35.16:573][568]LogSlate: Took 0.023261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.02.28-14.35.35:736][296]Cmd: TRANSACTION UNDO
+[2020.02.28-14.35.35:736][296]LogEditorTransaction: Undo Edit Value
+[2020.02.28-14.36.18:990][560]LogEditorTransaction: Undo Add Widget
+[2020.02.28-14.38.53:182][602]LogEditorTransaction: Undo Animatable Property Changed
+[2020.02.28-14.38.53:711][625]LogEditorTransaction: Undo Animatable Property Changed
+[2020.02.28-14.38.54:121][646]LogEditorTransaction: Undo Animatable Property Changed
+[2020.02.28-14.38.54:491][663]LogEditorTransaction: Undo Animatable Property Changed
+[2020.02.28-14.38.54:718][674]LogEditorTransaction: Undo Move Widget
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/LevelFolder/Menu/MC_Options_widget.MC_Options_widget:WidgetTree.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_4.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_5.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_6.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_1.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_0.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/LevelFolder/Menu/MC_Options_widget.MC_Options_widget_C:WidgetTree.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_2.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_3.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_7.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_8.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_9.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_10.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_11.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_12.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_13.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_14.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_15.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_16.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_17.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_18.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_19.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:583][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_20.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:584][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_21.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:584][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_22.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:584][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_23.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:584][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_24.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:584][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_25.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:584][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_26.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:584][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_27.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:584][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_28.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:584][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_29.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:584][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_30.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:584][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_31.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:584][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_32.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:584][570]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_33.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.39:584][570]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_6) from referencer (Button /Engine/UMG/Editor/Transient.Button_35).  Import failed...
+[2020.02.28-14.39.39:584][570]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_6"''
+[2020.02.28-14.39.50:165][570]LogSlate: Window 'Message' being destroyed
+[2020.02.28-14.39.51:630][671]BlueprintLog: New page: Compile MC_MainMenu_widget
+[2020.02.28-14.39.52:512][734]LogSavePackage: Moving '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/MC_MainMenu_widget8EF233984A763B52E05926BFAA38DB58.tmp' to '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Menu/MC_MainMenu_widget.uasset'
+[2020.02.28-14.39.55:509][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/LevelFolder/Menu/MC_Options_widget.MC_Options_widget:WidgetTree.CanvasPanel_0
+[2020.02.28-14.39.55:509][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_4.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:509][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_5.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:509][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_35.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:509][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_34.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:509][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/LevelFolder/Menu/MC_Options_widget.MC_Options_widget_C:WidgetTree.CanvasPanel_0
+[2020.02.28-14.39.55:509][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_3.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:509][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_8.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:509][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_9.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:509][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_10.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:509][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_12.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:509][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_13.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:510][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_14.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:510][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_15.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:510][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_16.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:510][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_17.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:510][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_18.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:510][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_19.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:510][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_20.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:510][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_21.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:510][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_22.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:510][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_27.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:510][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_29.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:510][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_31.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:510][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_32.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:510][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_33.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.39.55:510][902]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget_C:WidgetTree.CanvasPanel_0
+[2020.02.28-14.39.55:510][902]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_6) from referencer (Button /Engine/UMG/Editor/Transient.Button_35).  Import failed...
+[2020.02.28-14.39.55:510][902]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_6"''
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/LevelFolder/Menu/MC_Options_widget.MC_Options_widget:WidgetTree.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_4.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_5.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_36.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_35.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_34.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/LevelFolder/Menu/MC_Options_widget.MC_Options_widget_C:WidgetTree.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_3.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_8.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_9.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_10.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_12.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_13.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_14.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_15.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_16.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_17.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_18.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_19.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_20.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_21.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_22.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_27.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_29.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_31.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_32.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MC_MainMenu_widget_C_33.WidgetTree_0.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget_C:WidgetTree.CanvasPanel_0
+[2020.02.28-14.40.02:277][193]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/LevelFolder/Menu/MC_MainMenu_widget.MC_MainMenu_widget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7) from referencer (Button /Engine/UMG/Editor/Transient.Button_35).  Import failed...
+[2020.02.28-14.40.02:277][193]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_7"''
+[2020.02.28-14.40.40:069][950]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (49.883 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.28-14.40.59:016][399]BlueprintLog: New page: Compile MC_MainMenu_widget
+[2020.02.28-14.40.59:890][430]LogSavePackage: Moving '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/MC_MainMenu_widget14072C9E4F20E2103B87C68EBEF3BDF7.tmp' to '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Menu/MC_MainMenu_widget.uasset'
+[2020.02.28-14.41.02:588][631]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/LevelFolder/Menu/MC_Options_widget.MC_Options_widget
+[2020.02.28-14.41.47:961][970]BlueprintLog: New page: Compile MC_Options_widget
+[2020.02.28-14.41.51:691][169]LogAssetEditorManager: Opening Asset editor for World /Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level
+[2020.02.28-14.41.53:085][169]LogSlate: Window 'Save Content' being destroyed
+[2020.02.28-14.41.53:125][169]LogSavePackage: Moving '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/MC_Options_widget3FD50132464552C48BEAFDAABF114E79.tmp' to '../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Menu/MC_Options_widget.uasset'
+[2020.02.28-14.41.53:133][169]Cmd: MAP LOAD FILE="../../../../../../Users/v8027550/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Menu/MC_MainMenu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.28-14.41.53:133][169]LightingResults: New page: Lighting Build
+[2020.02.28-14.41.53:135][169]LoadErrors: New page: Loading map: MC_MainMenu_Level.umap
+[2020.02.28-14.41.53:137][169]MapCheck: New page: Map Check
+[2020.02.28-14.41.53:137][169]LightingResults: New page: Lighting Build
+[2020.02.28-14.41.53:199][169]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.28-14.41.53:199][169]LogAIModule: Creating AISystem for world MC_MainMenu_Level
+[2020.02.28-14.41.53:275][169]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.28-14.41.53:276][169]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.412ms to complete.
+[2020.02.28-14.41.53:278][169]LogFileHelpers: Loading map 'MC_MainMenu_Level' took 0.147
+[2020.02.28-14.41.59:755][451]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level
+[2020.02.28-14.42.15:842][764]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.28-14.42.32:724][202]BlueprintLog: New page: Compile MC_MainMenu_Level
+[2020.02.28-14.42.44:433][848]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-14.42.44:463][848]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level' with GeneratedClass '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level_C' with ClassGeneratedBy '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level'
+[2020.02.28-14.42.44:464][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-14.42.44:464][848]PIE: New page: PIE session: MC_MainMenu_Level (28 Feb 2020 14:42:44)
+[2020.02.28-14.42.44:464][848]LogPlayLevel: Creating play world package: /Game/LevelFolder/Menu/UEDPIE_0_MC_MainMenu_Level
+[2020.02.28-14.42.44:465][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000977s)
+[2020.02.28-14.42.44:466][848]LogAIModule: Creating AISystem for world MC_MainMenu_Level
+[2020.02.28-14.42.44:466][848]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2020.02.28-14.42.44:466][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level to /Game/LevelFolder/Menu/UEDPIE_0_MC_MainMenu_Level.MC_MainMenu_Level (0.002041s)
+[2020.02.28-14.42.44:535][848]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-14.42.44:561][848]LogInit: FAudioDevice initialized.
+[2020.02.28-14.42.44:599][848]LogLoad: Game class is 'GameMode'
+[2020.02.28-14.42.44:601][848]LogWorld: Bringing World /Game/LevelFolder/Menu/UEDPIE_0_MC_MainMenu_Level.MC_MainMenu_Level up for play (max tick rate 0) at 2020.02.28-14.42.44
+[2020.02.28-14.42.44:602][848]LogWorld: Bringing up level for play took: 0.000808
+[2020.02.28-14.42.44:616][848]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-14.42.44:616][848]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-14.42.44:616][848]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-14.42.44:620][848]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-14.42.44:621][848]PIE: Play in editor start time for /Game/LevelFolder/Menu/UEDPIE_0_MC_MainMenu_Level 0.32
+[2020.02.28-14.42.44:621][848]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level' with GeneratedClass '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level_C' with ClassGeneratedBy '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level'
+[2020.02.28-14.42.46:610][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level' with GeneratedClass '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level_C' with ClassGeneratedBy '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level'
+[2020.02.28-14.42.46:610][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.42.46:648][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-14.42.46:648][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level' with GeneratedClass '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level_C' with ClassGeneratedBy '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level'
+[2020.02.28-14.42.46:694][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.42.46:744][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.02.28-14.43.15:408][546]BlueprintLog: New page: Compile MC_MainMenu_Level
+[2020.02.28-14.43.34:273][329]BlueprintLog: New page: Compile MC_MainMenu_Level
+[2020.02.28-14.43.40:418][964]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-14.43.40:442][964]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level' with GeneratedClass '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level_C' with ClassGeneratedBy '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level'
+[2020.02.28-14.43.40:442][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-14.43.40:442][964]PIE: New page: PIE session: MC_MainMenu_Level (28 Feb 2020 14:43:40)
+[2020.02.28-14.43.40:442][964]LogPlayLevel: Creating play world package: /Game/LevelFolder/Menu/UEDPIE_0_MC_MainMenu_Level
+[2020.02.28-14.43.40:443][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001110s)
+[2020.02.28-14.43.40:444][964]LogAIModule: Creating AISystem for world MC_MainMenu_Level
+[2020.02.28-14.43.40:444][964]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2020.02.28-14.43.40:444][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level to /Game/LevelFolder/Menu/UEDPIE_0_MC_MainMenu_Level.MC_MainMenu_Level (0.001954s)
+[2020.02.28-14.43.40:512][964]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.28-14.43.40:544][964]LogInit: FAudioDevice initialized.
+[2020.02.28-14.43.40:586][964]LogLoad: Game class is 'GameMode'
+[2020.02.28-14.43.40:588][964]LogWorld: Bringing World /Game/LevelFolder/Menu/UEDPIE_0_MC_MainMenu_Level.MC_MainMenu_Level up for play (max tick rate 0) at 2020.02.28-14.43.40
+[2020.02.28-14.43.40:588][964]LogWorld: Bringing up level for play took: 0.000799
+[2020.02.28-14.43.40:603][964]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-14.43.40:603][964]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.28-14.43.40:603][964]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-14.43.40:606][964]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.28-14.43.40:606][964]PIE: Play in editor start time for /Game/LevelFolder/Menu/UEDPIE_0_MC_MainMenu_Level 0.307
+[2020.02.28-14.43.40:607][964]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level' with GeneratedClass '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level_C' with ClassGeneratedBy '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level'
+[2020.02.28-14.43.42:428][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-14.43.42:497][175]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level' with GeneratedClass '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level_C' with ClassGeneratedBy '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level'
+[2020.02.28-14.43.42:498][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.43.42:535][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-14.43.42:536][175]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level' with GeneratedClass '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level_C' with ClassGeneratedBy '/Game/LevelFolder/Menu/MC_MainMenu_Level.MC_MainMenu_Level:PersistentLevel.MC_MainMenu_Level'
+[2020.02.28-14.43.42:581][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.43.42:605][176]LogPlayLevel: Display: Destroying online subsystem :Context_20
