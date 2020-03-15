@@ -4543,3 +4543,1565 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.15-18.46.11:711][336]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
 [2020.03.15-18.46.12:213][337]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
 [2020.03.15-18.46.12:752][338]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.03.15-19.16.13:689][403]LogSlate: Took 0.196218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.15-19.18.27:441][484]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Assets/UI/MC_UI_Widget.MC_UI_Widget
+[2020.03.15-19.18.33:647][484]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0909 seconds. Added 117 classes and 0 folders.
+[2020.03.15-19.18.39:667][484]LogSlate: Took 0.066066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.15-19.18.44:553][518]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelFolder/Level1/Backups/FullLevelBackup' took 0.779
+[2020.03.15-19.18.44:635][518]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/UI/MC_UI_Widget] ([1] browsable assets)...
+[2020.03.15-19.18.44:635][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/UI/MC_UI_Widget]
+[2020.03.15-19.18.44:862][518]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/MC_UI_Widget_Auto1C04073534E4B90BAAA51F7B0F08632E1.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/Assets/UI/MC_UI_Widget_Auto1.uasset'
+[2020.03.15-19.18.44:949][518]LogFileHelpers: Auto-saving content packages took 0.394
+[2020.03.15-19.19.04:798][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/MC_UI_Widget" FILE="C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/UI/MC_UI_Widget.uasset" SILENT=true
+[2020.03.15-19.19.04:838][ 50]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/MC_UI_WidgetA04A1B7944373B889723CAB0F5D065AE.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/UI/MC_UI_Widget.uasset'
+[2020.03.15-19.19.24:991][533]LogRenderer: Reallocating scene render targets to support 964x488 Format 10 NumSamples 1 (Frame:1).
+[2020.03.15-19.19.25:303][534]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup
+[2020.03.15-19.19.34:447][733]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.987 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.03.15-19.20.05:631][721]LogSlate: Took 0.026681 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.15-19.20.09:502][876]BlueprintLog: New page: Compile FullLevelBackup
+[2020.03.15-19.20.46:958][920]LogSlate: Took 0.078530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.15-19.23.19:966][728]BlueprintLog: New page: Compile FullLevelBackup
+[2020.03.15-19.26.16:443][757]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.15-19.26.32:990][657]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/UI/MC_UIDirector_BP.MC_UIDirector_BP
+[2020.03.15-19.26.36:036][657]LogRenderer: Reallocating scene render targets to support 1024x540 Format 10 NumSamples 1 (Frame:1).
+[2020.03.15-19.26.43:833][905]BlueprintLog: New page: Compile FullLevelBackup
+[2020.03.15-19.26.59:518][434]BlueprintLog: New page: Compile MC_UIDirector_BP
+[2020.03.15-19.27.41:005][897]BlueprintLog: New page: Compile MC_UIDirector_BP
+[2020.03.15-19.27.47:073][138]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-19.27.47:266][138]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.27.47:319][138]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.15-19.27.47:325][138]LogPlayLevel: [PlayLevel] Compiling MC_UI_Widget before play...
+[2020.03.15-19.27.47:367][138]LogBlueprint: Warning: [Compiler MC_UI_Widget] 'Level Blueprint Editor Overview' does not inherit from 'Game Mode Base' ( Cast To LevelBlueprintEditorOverview  would always fail).
+[2020.03.15-19.27.47:397][138]LogBlueprint: Warning: [Compiler MC_UI_Widget] [3573.89] Compile of MC_UI_Widget successful, but with 1 Warning(s) [in 75 ms] (/Game/Assets/UI/MC_UI_Widget.MC_UI_Widget)
+[2020.03.15-19.27.47:641][138]LogPlayLevel: PlayLevel: Blueprint regeneration took 322 ms (1 blueprints)
+[2020.03.15-19.27.47:740][138]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 19:27:47)
+[2020.03.15-19.27.47:784][138]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-19.27.48:240][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.456575s)
+[2020.03.15-19.27.48:386][138]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-19.27.48:522][138]LogPlayLevel: PIE: World Init took: (0.281237s)
+[2020.03.15-19.27.48:523][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.739261s)
+[2020.03.15-19.27.48:755][138]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-19.27.48:815][138]LogInit: FAudioDevice initialized.
+[2020.03.15-19.27.49:098][138]LogLoad: Game class is 'GameMode'
+[2020.03.15-19.27.49:560][138]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-19.27.49
+[2020.03.15-19.27.49:642][138]LogWorld: Bringing up level for play took: 0.538851
+[2020.03.15-19.27.49:989][138]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.27.49:989][138]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.27.49:989][138]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.27.50:075][138]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.27.50:107][138]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup 3.009
+[2020.03.15-19.27.50:178][138]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.27.58:416][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.27.58:449][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.27.58:932][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-19.27.58:933][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.27.59:080][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.27.59:477][499]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.03.15-19.28.22:866][466]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DefaultContent/SideScrollerBP/Blueprints/SideScrollerGameMode.SideScrollerGameMode
+[2020.03.15-19.28.26:375][551]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DefaultContent/SideScrollerBP/Blueprints/SideScrollerGameMode.SideScrollerGameMode
+[2020.03.15-19.28.52:348][477]BlueprintLog: New page: Compile MC_UIDirector_BP
+[2020.03.15-19.29.06:419][977]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.15-19.29.29:104][ 28]BlueprintLog: New page: Compile SideScrollerGameMode
+[2020.03.15-19.30.41:562][246]BlueprintLog: New page: Compile MC_UI_Widget
+[2020.03.15-19.30.44:094][272]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-19.30.44:114][272]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.30.44:114][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-19.30.44:114][272]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 19:30:44)
+[2020.03.15-19.30.44:114][272]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-19.30.44:233][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119440s)
+[2020.03.15-19.30.44:233][272]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-19.30.44:234][272]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2020.03.15-19.30.44:234][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.120690s)
+[2020.03.15-19.30.44:280][272]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-19.30.44:304][272]LogInit: FAudioDevice initialized.
+[2020.03.15-19.30.44:356][272]LogLoad: Game class is 'GameMode'
+[2020.03.15-19.30.44:400][272]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-19.30.44
+[2020.03.15-19.30.44:402][272]LogWorld: Bringing up level for play took: 0.045649
+[2020.03.15-19.30.44:416][272]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.30.44:416][272]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.30.44:416][272]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.30.44:418][272]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.30.44:418][272]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup -0.648
+[2020.03.15-19.30.44:420][272]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.30.52:774][659]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.30.52:775][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.30.52:849][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-19.30.52:850][659]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.30.52:889][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.30.52:921][660]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.03.15-19.30.53:637][687]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-19.30.53:674][687]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.30.53:674][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-19.30.53:674][687]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 19:30:53)
+[2020.03.15-19.30.53:674][687]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-19.30.53:809][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.134494s)
+[2020.03.15-19.30.53:810][687]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-19.30.53:810][687]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2020.03.15-19.30.53:810][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.135995s)
+[2020.03.15-19.30.53:861][687]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-19.30.53:889][687]LogInit: FAudioDevice initialized.
+[2020.03.15-19.30.53:928][687]LogLoad: Game class is 'GameMode'
+[2020.03.15-19.30.53:973][687]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-19.30.53
+[2020.03.15-19.30.53:975][687]LogWorld: Bringing up level for play took: 0.046761
+[2020.03.15-19.30.53:989][687]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.30.53:989][687]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.30.53:989][687]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.30.53:991][687]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.30.53:991][687]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup 0.924
+[2020.03.15-19.30.53:991][687]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.31.00:712][  6]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.31.00:712][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.31.00:795][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-19.31.00:795][  6]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.31.00:841][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.31.00:890][  7]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.03.15-19.31.05:686][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-19.31.40:638][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/FullLevelBackup_Auto2D5D023D74C983CA2DF7627AEF3CE5AEA.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/LevelFolder/Level1/Backups/FullLevelBackup_Auto2.umap'
+[2020.03.15-19.31.40:646][621]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelFolder/Level1/Backups/FullLevelBackup' took 2.273
+[2020.03.15-19.31.40:646][621]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.273
+[2020.03.15-19.31.40:649][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/UI/MC_UI_Widget] ([1] browsable assets)...
+[2020.03.15-19.31.40:649][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/UI/MC_UI_Widget]
+[2020.03.15-19.31.40:720][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/MC_UI_Widget_Auto290DF7D4C4973206384D08DAEE9E553EE.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/Assets/UI/MC_UI_Widget_Auto2.uasset'
+[2020.03.15-19.31.40:723][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DefaultContent/SideScrollerBP/Blueprints/SideScrollerGameMode] ([1] browsable assets)...
+[2020.03.15-19.31.40:723][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/DefaultContent/SideScrollerBP/Blueprints/SideScrollerGameMode]
+[2020.03.15-19.31.40:763][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/SideScrollerGameMode_Auto22664B2DD41EE07D17E9CC08546A3DE86.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/DefaultContent/SideScrollerBP/Blueprints/SideScrollerGameMode_Auto2.uasset'
+[2020.03.15-19.31.40:765][621]LogFileHelpers: Auto-saving content packages took 0.117
+[2020.03.15-19.32.06:861][314]BlueprintLog: New page: Compile MC_UI_Widget
+[2020.03.15-19.32.10:593][477]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-19.32.10:638][477]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.32.10:638][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-19.32.10:638][477]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 19:32:10)
+[2020.03.15-19.32.10:638][477]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-19.32.10:812][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.174310s)
+[2020.03.15-19.32.10:813][477]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-19.32.10:814][477]LogPlayLevel: PIE: World Init took: (0.001720s)
+[2020.03.15-19.32.10:815][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.177226s)
+[2020.03.15-19.32.10:872][477]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-19.32.10:903][477]LogInit: FAudioDevice initialized.
+[2020.03.15-19.32.10:936][477]LogLoad: Game class is 'GameMode'
+[2020.03.15-19.32.10:987][477]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-19.32.10
+[2020.03.15-19.32.10:989][477]LogWorld: Bringing up level for play took: 0.052173
+[2020.03.15-19.32.11:004][477]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.32.11:004][477]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.32.11:004][477]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.32.11:006][477]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.32.11:006][477]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup -0.061
+[2020.03.15-19.32.11:006][477]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.32.13:542][598]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.32.13:542][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.32.13:616][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-19.32.13:616][598]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.32.13:665][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.32.13:694][599]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.03.15-19.32.30:882][ 77]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.15-19.32.32:128][113]BlueprintLog: New page: Compile MC_UI_Widget
+[2020.03.15-19.32.55:751][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-19.32.55:806][ 98]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.32.55:807][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-19.32.55:807][ 98]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 19:32:55)
+[2020.03.15-19.32.55:807][ 98]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-19.32.55:951][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144367s)
+[2020.03.15-19.32.55:952][ 98]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-19.32.55:952][ 98]LogPlayLevel: PIE: World Init took: (0.001499s)
+[2020.03.15-19.32.55:953][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.146545s)
+[2020.03.15-19.32.56:006][ 98]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-19.32.56:035][ 98]LogInit: FAudioDevice initialized.
+[2020.03.15-19.32.56:067][ 98]LogLoad: Game class is 'GameMode'
+[2020.03.15-19.32.56:117][ 98]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-19.32.56
+[2020.03.15-19.32.56:119][ 98]LogWorld: Bringing up level for play took: 0.050901
+[2020.03.15-19.32.56:132][ 98]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.32.56:132][ 98]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.32.56:132][ 98]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.32.56:151][ 98]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.32.56:151][ 98]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup 1.085
+[2020.03.15-19.32.56:152][ 98]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.33.02:419][403]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.33.02:419][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.33.02:495][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-19.33.02:496][403]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.33.02:546][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.33.02:577][404]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.03.15-19.33.03:633][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2x7)
+[2020.03.15-19.33.05:291][468]LogEditorViewport: Clicking on Actor (LMB): BP_PhyCharTest_MJB_C (BP_PhyCharTest_MJB)
+[2020.03.15-19.33.12:162][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-19.33.24:662][397]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Characters/Xenomorph/Blueprints/BP_PhyCharTest_MJB.BP_PhyCharTest_MJB
+[2020.03.15-19.36.35:284][357]BlueprintLog: New page: Compile BP_PhyCharTest_MJB
+[2020.03.15-19.36.39:020][446]BlueprintLog: New page: Compile SideScrollerGameMode
+[2020.03.15-19.36.41:411][513]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/SideScrollerGameMode8C7C213A4260313A300E9AA9DA5E788B.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/DefaultContent/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset'
+[2020.03.15-19.36.48:196][720]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-19.36.48:317][720]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.36.48:317][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-19.36.48:317][720]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 19:36:48)
+[2020.03.15-19.36.48:317][720]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-19.36.48:463][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.145700s)
+[2020.03.15-19.36.48:464][720]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-19.36.48:465][720]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2020.03.15-19.36.48:465][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.147528s)
+[2020.03.15-19.36.48:546][720]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-19.36.48:573][720]LogInit: FAudioDevice initialized.
+[2020.03.15-19.36.48:608][720]LogLoad: Game class is 'GameMode'
+[2020.03.15-19.36.48:654][720]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-19.36.48
+[2020.03.15-19.36.48:656][720]LogWorld: Bringing up level for play took: 0.047239
+[2020.03.15-19.36.48:669][720]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.36.48:670][720]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.36.48:670][720]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.36.48:731][720]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.36.48:731][720]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup -0.336
+[2020.03.15-19.36.48:731][720]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.36.48:790][720]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.48:866][721]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.48:874][722]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.48:890][723]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.48:908][724]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.48:933][725]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.48:951][726]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.48:970][727]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.48:991][728]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:017][729]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:035][730]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:056][731]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:084][732]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:119][733]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:156][734]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:166][735]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:187][736]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:203][737]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:221][738]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:234][739]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:253][740]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:275][741]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:297][742]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:315][743]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:335][744]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:353][745]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:373][746]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:396][747]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:418][748]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:434][749]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:453][750]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:472][751]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:494][752]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:517][753]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:532][754]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:553][755]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:572][756]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:597][757]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:617][758]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:633][759]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:654][760]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:673][761]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:698][762]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:717][763]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:735][764]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:755][765]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:775][766]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:799][767]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:816][768]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:837][769]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:856][770]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:880][771]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:900][772]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:915][773]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:935][774]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:955][775]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.49:981][776]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:000][777]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:016][778]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:036][779]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:056][780]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:079][781]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:100][782]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:116][783]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:136][784]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:156][785]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:179][786]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:201][787]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:216][788]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:236][789]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:257][790]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:278][791]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:301][792]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:316][793]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:336][794]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:356][795]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:380][796]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:401][797]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:418][798]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:436][799]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:456][800]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:475][801]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:499][802]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:516][803]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:536][804]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:555][805]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:575][806]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:600][807]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:616][808]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:637][809]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:655][810]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:679][811]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:700][812]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:715][813]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:736][814]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:756][815]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:779][816]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:800][817]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:816][818]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:837][819]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:857][820]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:880][821]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:899][822]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:918][823]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:936][824]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:955][825]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:980][826]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.50:999][827]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:016][828]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:035][829]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:055][830]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:080][831]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:100][832]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:116][833]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:136][834]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:156][835]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:178][836]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:200][837]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:215][838]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:236][839]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:256][840]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:279][841]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:300][842]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:316][843]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:336][844]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:355][845]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:375][846]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:401][847]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:416][848]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:436][849]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:455][850]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:475][851]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:500][852]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:516][853]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:536][854]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:556][855]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:579][856]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:600][857]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:616][858]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:636][859]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:656][860]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:681][861]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:700][862]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:715][863]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:736][864]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:755][865]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:775][866]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:799][867]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:815][868]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:835][869]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:855][870]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:876][871]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:900][872]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:916][873]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:935][874]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:955][875]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.51:981][876]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:000][877]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:016][878]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:036][879]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:057][880]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:078][881]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:101][882]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:116][883]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:136][884]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:155][885]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:176][886]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:199][887]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:218][888]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:236][889]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:255][890]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:278][891]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:300][892]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:315][893]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:336][894]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:354][895]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:374][896]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:402][897]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:416][898]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:436][899]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:457][900]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:482][901]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:501][902]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:518][903]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:536][904]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:556][905]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:580][906]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:600][907]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:617][908]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:637][909]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:658][910]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:681][911]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:699][912]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:717][913]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:736][914]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:756][915]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:780][916]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:800][917]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:816][918]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:836][919]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:856][920]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:875][921]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:899][922]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:915][923]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:936][924]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:956][925]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.52:981][926]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:000][927]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:015][928]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:035][929]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:056][930]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:081][931]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:099][932]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:116][933]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:136][934]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:155][935]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:178][936]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:201][937]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:216][938]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:236][939]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:257][940]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:276][941]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:300][942]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:315][943]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:336][944]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:358][945]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:379][946]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:399][947]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:416][948]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:436][949]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:455][950]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:475][951]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:499][952]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:515][953]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:535][954]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:555][955]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:580][956]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:600][957]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:616][958]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:636][959]LogBlueprintUserMessages: [MC_UI_Widget_C_0] Hello
+[2020.03.15-19.36.53:654][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.36.53:655][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.36.53:741][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-19.36.53:742][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.36.53:789][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.36.53:817][961]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.03.15-19.38.18:491][788]BlueprintLog: New page: Compile MC_UI_Widget
+[2020.03.15-19.38.18:636][788]LogBlueprint: Warning: [Compiler MC_UI_Widget] 'BP Phy Char Test MJB' does not inherit from 'Character' ( Cast To BP_PhyCharTest_MJB  would always fail).
+[2020.03.15-19.38.18:732][788]LogBlueprint: Warning: [Compiler MC_UI_Widget] [4205.23] Compile of MC_UI_Widget successful, but with 1 Warning(s) [in 240 ms] (/Game/Assets/UI/MC_UI_Widget.MC_UI_Widget)
+[2020.03.15-19.38.46:668][739]BlueprintLog: New page: Compile MC_UI_Widget
+[2020.03.15-19.38.46:692][739]LogBlueprint: Warning: [Compiler MC_UI_Widget] 'BP Phy Char Test MJB' does not inherit from 'Character' ( Cast To BP_PhyCharTest_MJB  would always fail).
+[2020.03.15-19.38.46:884][739]LogBlueprint: Warning: [Compiler MC_UI_Widget] [4233.38] Compile of MC_UI_Widget successful, but with 1 Warning(s) [in 215 ms] (/Game/Assets/UI/MC_UI_Widget.MC_UI_Widget)
+[2020.03.15-19.39.15:368][749]BlueprintLog: New page: Compile MC_UI_Widget
+[2020.03.15-19.39.20:076][937]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-19.39.20:103][937]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.39.20:104][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-19.39.20:104][937]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 19:39:20)
+[2020.03.15-19.39.20:104][937]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-19.39.20:260][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155678s)
+[2020.03.15-19.39.20:261][937]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-19.39.20:261][937]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2020.03.15-19.39.20:261][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.157391s)
+[2020.03.15-19.39.20:318][937]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-19.39.20:347][937]LogInit: FAudioDevice initialized.
+[2020.03.15-19.39.20:382][937]LogLoad: Game class is 'GameMode'
+[2020.03.15-19.39.20:431][937]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-19.39.20
+[2020.03.15-19.39.20:434][937]LogWorld: Bringing up level for play took: 0.052196
+[2020.03.15-19.39.20:448][937]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.39.20:448][937]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.39.20:448][937]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.39.20:450][937]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.39.20:450][937]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup -0.616
+[2020.03.15-19.39.20:451][937]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.39.42:827][934]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.39.42:828][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.39.42:915][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-19.39.42:916][934]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.39.42:963][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.39.42:991][935]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.03.15-19.41.12:701][250]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-19.41.50:282][815]BlueprintLog: New page: Compile MC_UI_Widget
+[2020.03.15-19.42.41:295][790]BlueprintLog: New page: Compile MC_UI_Widget
+[2020.03.15-19.44.10:373][899]BlueprintLog: New page: Compile BP_PhyCharTest_MJB
+[2020.03.15-19.44.20:002][ 89]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-19.44.20:303][ 89]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.44.20:366][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-19.44.20:501][ 89]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 19:44:20)
+[2020.03.15-19.44.20:572][ 89]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-19.44.20:969][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.396703s)
+[2020.03.15-19.44.21:211][ 89]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-19.44.21:369][ 89]LogPlayLevel: PIE: World Init took: (0.379789s)
+[2020.03.15-19.44.21:370][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.798147s)
+[2020.03.15-19.44.21:490][ 89]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-19.44.21:537][ 89]LogInit: FAudioDevice initialized.
+[2020.03.15-19.44.22:004][ 89]LogLoad: Game class is 'GameMode'
+[2020.03.15-19.44.22:101][ 89]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-19.44.22
+[2020.03.15-19.44.22:124][ 89]LogWorld: Bringing up level for play took: 0.119232
+[2020.03.15-19.44.22:464][ 89]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.44.22:464][ 89]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.44.22:464][ 89]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.44.22:571][ 89]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.44.22:616][ 89]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup 1.526
+[2020.03.15-19.44.22:645][ 89]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.44.27:460][285]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.44.28:455][329]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-19.44.30:907][434]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.44.31:896][476]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-19.44.35:051][609]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.44.36:027][650]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-19.44.36:826][684]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.44.37:823][726]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-19.44.39:144][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.44.39:145][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.44.39:540][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-19.44.39:541][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.44.39:581][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.44.39:685][778]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.03.15-19.44.45:276][  9]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-19.44.54:231][234]BlueprintLog: New page: Compile BP_PhyCharTest_MJB
+[2020.03.15-19.45.49:449][  2]BlueprintLog: New page: Compile MC_UI_Widget
+[2020.03.15-19.45.56:843][269]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-19.45.56:891][269]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.45.56:891][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-19.45.56:892][269]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 19:45:56)
+[2020.03.15-19.45.56:892][269]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-19.45.57:048][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.156753s)
+[2020.03.15-19.45.57:049][269]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-19.45.57:049][269]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2020.03.15-19.45.57:050][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.158829s)
+[2020.03.15-19.45.57:109][269]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-19.45.57:139][269]LogInit: FAudioDevice initialized.
+[2020.03.15-19.45.57:179][269]LogLoad: Game class is 'GameMode'
+[2020.03.15-19.45.57:229][269]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-19.45.57
+[2020.03.15-19.45.57:232][269]LogWorld: Bringing up level for play took: 0.051678
+[2020.03.15-19.45.57:245][269]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.45.57:245][269]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.45.57:245][269]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.45.57:248][269]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.45.57:248][269]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup 0.182
+[2020.03.15-19.45.57:249][269]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.46.00:620][421]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-19.46.02:455][500]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-19.46.04:274][577]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-19.46.04:699][595]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.46.04:700][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.46.04:790][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-19.46.04:791][595]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.46.04:844][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.46.04:871][596]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.03.15-19.46.05:630][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-19.46.46:791][738]BlueprintLog: New page: Compile MC_UI_Widget
+[2020.03.15-19.47.22:166][875]LogEditorTransaction: Undo Add Node
+[2020.03.15-19.48.08:623][126]BlueprintLog: New page: Compile BP_PhyCharTest_MJB
+[2020.03.15-19.48.11:946][218]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-19.48.12:116][218]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.48.12:116][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-19.48.12:117][218]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 19:48:12)
+[2020.03.15-19.48.12:117][218]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-19.48.12:271][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153561s)
+[2020.03.15-19.48.12:272][218]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-19.48.12:272][218]LogPlayLevel: PIE: World Init took: (0.001289s)
+[2020.03.15-19.48.12:273][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.155642s)
+[2020.03.15-19.48.12:337][218]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-19.48.12:368][218]LogInit: FAudioDevice initialized.
+[2020.03.15-19.48.12:406][218]LogLoad: Game class is 'GameMode'
+[2020.03.15-19.48.12:459][218]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-19.48.12
+[2020.03.15-19.48.12:462][218]LogWorld: Bringing up level for play took: 0.055302
+[2020.03.15-19.48.12:476][218]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.48.12:476][218]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.48.12:476][218]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.48.12:478][218]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.48.12:478][218]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup 1.412
+[2020.03.15-19.48.12:479][218]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.48.12:479][218]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:698][219]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:711][220]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:727][221]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:745][222]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:764][223]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:785][224]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:797][225]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:814][226]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:833][227]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:857][228]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:875][229]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:893][230]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:914][231]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:942][232]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:959][233]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:979][234]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.12:998][235]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:025][236]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:042][237]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:058][238]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:077][239]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:096][240]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:117][241]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:138][242]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:157][243]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:178][244]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:198][245]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:222][246]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:238][247]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:258][248]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:277][249]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:298][250]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:320][251]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:338][252]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:358][253]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:378][254]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:398][255]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:423][256]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:439][257]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:460][258]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:478][259]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:497][260]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:522][261]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:538][262]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:558][263]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:577][264]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:598][265]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:620][266]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:638][267]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:658][268]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:677][269]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:698][270]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:721][271]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:738][272]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:758][273]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:777][274]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:799][275]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:823][276]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:838][277]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:858][278]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:878][279]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:899][280]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:923][281]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:939][282]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:959][283]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:978][284]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.13:999][285]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:023][286]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:038][287]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:058][288]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:078][289]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:097][290]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:122][291]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:137][292]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:158][293]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:178][294]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:198][295]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:221][296]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:240][297]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:259][298]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:279][299]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:299][300]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:322][301]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:338][302]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:358][303]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:378][304]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:408][305]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:424][306]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:441][307]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:458][308]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:478][309]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:499][310]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:523][311]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:539][312]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:559][313]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:578][314]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:598][315]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:622][316]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:638][317]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:659][318]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:678][319]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:698][320]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:717][321]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:738][322]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:759][323]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:778][324]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:799][325]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:822][326]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:839][327]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:859][328]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:878][329]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:898][330]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.14:924][331]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:058][332]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:066][333]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:083][334]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:133][335]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:155][336]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:177][337]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:196][338]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:217][339]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:239][340]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:259][341]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:280][342]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:301][343]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:321][344]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:341][345]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:361][346]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:383][347]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:406][348]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:423][349]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:445][350]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:468][351]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:489][352]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:506][353]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:526][354]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:546][355]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:566][356]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:589][357]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:607][358]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:627][359]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:647][360]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:667][361]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:687][362]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:707][363]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:727][364]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:747][365]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:769][366]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:788][367]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:808][368]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:827][369]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:848][370]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:873][371]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:889][372]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:908][373]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:928][374]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:948][375]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:949][375]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-19.48.15:971][376]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.15:989][377]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:010][378]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:031][379]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:056][380]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:072][381]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:093][382]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:112][383]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:132][384]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:155][385]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:172][386]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:193][387]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:212][388]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:233][389]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:256][390]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:273][391]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:293][392]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:313][393]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:332][394]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:355][395]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:373][396]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:393][397]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:413][398]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:438][399]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:455][400]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:475][401]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:494][402]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:515][403]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:539][404]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:557][405]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:575][406]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:595][407]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:616][408]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:639][409]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:657][410]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:677][411]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:697][412]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:721][413]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:737][414]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:757][415]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:777][416]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:797][417]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:822][418]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:837][419]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:858][420]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:877][421]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:898][422]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:923][423]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:938][424]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:959][425]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:979][426]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.16:999][427]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:023][428]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:040][429]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:061][430]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:080][431]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:105][432]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:122][433]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:141][434]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:161][435]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:182][436]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:206][437]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:222][438]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:242][439]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:262][440]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:283][441]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:308][442]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:324][443]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:344][444]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:364][445]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:390][446]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:405][447]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:426][448]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:446][449]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:464][450]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:489][451]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:505][452]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:525][453]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:544][454]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:565][455]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:588][456]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:606][457]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:626][458]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:646][459]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:667][460]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:689][461]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:707][462]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:729][463]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:748][464]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:772][465]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:788][466]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:810][467]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:827][468]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:848][469]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:872][470]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:889][471]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:909][472]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:930][473]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:951][474]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:972][475]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.17:990][476]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:010][477]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:031][478]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:054][479]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:072][480]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:094][481]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:113][482]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:134][483]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:155][484]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:175][485]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:194][486]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:215][487]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:238][488]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:258][489]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:279][490]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:305][491]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:324][492]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:346][493]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:372][494]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:393][495]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:416][496]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:439][497]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:462][498]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:486][499]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:508][500]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:530][501]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:555][502]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:575][503]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:597][504]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:621][505]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:643][506]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:666][507]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:689][508]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:711][509]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:737][510]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:759][511]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:779][512]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:805][513]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:826][514]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:848][515]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:873][516]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:894][517]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:917][518]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:941][519]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:962][520]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.18:989][521]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:007][522]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:030][523]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:055][524]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:076][525]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:099][526]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:121][527]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:144][528]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:167][529]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:167][529]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-19.48.19:190][530]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:212][531]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:238][532]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:259][533]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:280][534]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:304][535]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:325][536]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:348][537]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:373][538]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:394][539]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:417][540]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:441][541]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:462][542]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:488][543]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:509][544]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:530][545]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:555][546]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:576][547]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:598][548]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:622][549]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:643][550]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:666][551]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:690][552]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:711][553]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:736][554]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:757][555]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:780][556]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:806][557]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:826][558]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:848][559]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:872][560]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:894][561]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:916][562]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:940][563]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:962][564]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.19:986][565]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:007][566]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:029][567]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:054][568]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:076][569]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:097][570]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:122][571]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:143][572]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:166][573]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:190][574]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:211][575]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:234][576]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:257][577]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:279][578]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:305][579]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:325][580]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:347][581]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:372][582]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:392][583]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:416][584]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:438][585]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:460][586]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:483][587]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:507][588]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:528][589]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:555][590]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:575][591]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:597][592]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:621][593]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:644][594]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:665][595]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:689][596]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:711][597]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:734][598]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:757][599]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:778][600]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:803][601]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:825][602]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:845][603]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:871][604]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:892][605]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:914][606]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:939][607]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:960][608]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.20:983][609]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:006][610]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:028][611]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:052][612]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:074][613]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:096][614]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:122][615]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:143][616]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:165][617]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:188][618]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:209][619]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:232][620]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:256][621]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:277][622]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:301][623]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:325][624]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:345][625]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:371][626]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:392][627]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:413][628]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:438][629]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:459][630]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:482][631]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:505][632]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:528][633]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:553][634]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:575][635]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:596][636]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:622][637]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:642][638]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:664][639]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:689][640]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:709][641]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:732][642]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:756][643]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:777][644]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:800][645]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:823][646]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:845][647]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:871][648]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:893][649]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:914][650]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:938][651]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:959][652]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.21:982][653]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:005][654]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:027][655]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:050][656]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:073][657]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:095][658]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:120][659]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:142][660]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:163][661]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:188][662]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:209][663]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:231][664]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:256][665]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:277][666]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:298][667]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:321][668]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:344][669]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:367][670]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:389][671]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:412][672]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:438][673]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:458][674]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:481][675]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:505][676]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:527][677]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:549][678]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:574][679]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:595][680]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:619][681]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:643][682]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:662][683]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:688][684]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:709][685]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:730][686]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:755][687]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:776][688]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:799][689]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:824][690]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:844][691]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:867][692]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:890][693]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:912][694]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:938][695]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:958][696]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.22:980][697]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.23:004][698]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.23:026][699]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.23:049][700]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.23:052][700]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.48.23:055][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.48.23:136][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-19.48.23:137][700]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.48.23:264][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.48.23:292][701]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.03.15-19.48.27:393][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-19.48.36:030][ 60]LogEditorTransaction: Undo Delete current selection
+[2020.03.15-19.48.55:884][790]BlueprintLog: New page: Compile MC_UI_Widget
+[2020.03.15-19.48.58:746][887]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-19.48.58:777][887]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.48.58:777][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-19.48.58:778][887]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 19:48:58)
+[2020.03.15-19.48.58:778][887]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-19.48.58:928][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.150081s)
+[2020.03.15-19.48.58:929][887]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-19.48.58:929][887]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2020.03.15-19.48.58:930][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.151595s)
+[2020.03.15-19.48.58:994][887]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-19.48.59:026][887]LogInit: FAudioDevice initialized.
+[2020.03.15-19.48.59:060][887]LogLoad: Game class is 'GameMode'
+[2020.03.15-19.48.59:107][887]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-19.48.59
+[2020.03.15-19.48.59:110][887]LogWorld: Bringing up level for play took: 0.049618
+[2020.03.15-19.48.59:123][887]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.48.59:123][887]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-19.48.59:123][887]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.48.59:125][887]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-19.48.59:125][887]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup 0.059
+[2020.03.15-19.48.59:126][887]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.48.59:126][887]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:147][888]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:271][889]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:296][890]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:318][891]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:336][892]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:357][893]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:378][894]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:402][895]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:422][896]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:442][897]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:463][898]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:486][899]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:504][900]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:524][901]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:545][902]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:569][903]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:587][904]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:605][905]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:625][906]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:645][907]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:669][908]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:686][909]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:705][910]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:724][911]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:744][912]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:769][913]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:787][914]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:828][915]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:861][916]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:874][917]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:891][918]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:909][919]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:924][920]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:940][921]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:957][922]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:974][923]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.48.59:993][924]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:017][925]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:035][926]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:054][927]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:074][928]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:093][929]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:113][930]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:135][931]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:154][932]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:175][933]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:198][934]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:229][935]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:246][936]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:263][937]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:280][938]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:303][939]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:320][940]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:341][941]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:361][942]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:383][943]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:401][944]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:421][945]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:442][946]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:461][947]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:485][948]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:503][949]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:522][950]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:541][951]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:562][952]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:586][953]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:602][954]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:626][955]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:643][956]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:671][957]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:688][958]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:705][959]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:725][960]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:744][961]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:763][962]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:893][968]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 1.0
+[2020.03.15-19.49.00:895][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.49.00:895][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.49.00:974][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-19.49.00:975][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-19.49.01:022][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-19.49.01:050][969]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.03.15-19.49.56:265][711]LogEditorTransaction: Undo Move Node
+[2020.03.15-19.51.01:891][380]BlueprintLog: New page: Compile BP_PhyCharTest_MJB
+[2020.03.15-19.51.37:078][338]BlueprintLog: New page: Compile BP_PhyCharTest_MJB
+[2020.03.15-19.52.24:621][721]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/FullLevelBackup_Auto3692B642C4659A1EE9C927D8401640E49.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/LevelFolder/Level1/Backups/FullLevelBackup_Auto3.umap'
+[2020.03.15-19.52.24:709][721]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelFolder/Level1/Backups/FullLevelBackup' took 2.533
+[2020.03.15-19.52.24:709][721]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.533
+[2020.03.15-19.52.24:734][721]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Characters/Xenomorph/Blueprints/BP_PhyCharTest_MJB] ([1] browsable assets)...
+[2020.03.15-19.52.24:795][721]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Characters/Xenomorph/Blueprints/BP_PhyCharTest_MJB.BP_PhyCharTest_MJB]
+[2020.03.15-19.52.24:795][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/Xenomorph/Blueprints/BP_PhyCharTest_MJB]
+[2020.03.15-19.52.25:164][721]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/BP_PhyCharTest_MJB_Auto30A3BA23E4E2A277DAB6B8CABDE562478.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/Assets/Characters/Xenomorph/Blueprints/BP_PhyCharTest_MJB_Auto3.uasset'
+[2020.03.15-19.52.25:168][721]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/UI/MC_UI_Widget] ([1] browsable assets)...
+[2020.03.15-19.52.25:168][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/UI/MC_UI_Widget]
+[2020.03.15-19.52.25:213][721]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/MC_UI_Widget_Auto3E55EDCE94577C75D8DBF47A68806B42C.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/Assets/UI/MC_UI_Widget_Auto3.uasset'
+[2020.03.15-19.52.25:214][721]LogFileHelpers: Auto-saving content packages took 0.503
+[2020.03.15-19.59.35:114][582]BlueprintLog: New page: Compile BP_PhyCharTest_MJB
+[2020.03.15-20.00.04:236][514]BlueprintLog: New page: Compile MC_UI_Widget
+[2020.03.15-20.00.08:137][635]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-20.00.08:287][635]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.00.08:289][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-20.00.08:289][635]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 20:00:08)
+[2020.03.15-20.00.08:289][635]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-20.00.08:432][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.142709s)
+[2020.03.15-20.00.08:432][635]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-20.00.08:433][635]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2020.03.15-20.00.08:433][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.144322s)
+[2020.03.15-20.00.08:489][635]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-20.00.08:518][635]LogInit: FAudioDevice initialized.
+[2020.03.15-20.00.08:555][635]LogLoad: Game class is 'GameMode'
+[2020.03.15-20.00.08:602][635]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-20.00.08
+[2020.03.15-20.00.08:604][635]LogWorld: Bringing up level for play took: 0.047878
+[2020.03.15-20.00.08:617][635]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-20.00.08:617][635]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-20.00.08:617][635]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-20.00.08:620][635]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-20.00.08:620][635]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup -0.447
+[2020.03.15-20.00.08:620][635]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.00.12:652][831]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.00.14:833][925]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.00.17:423][ 36]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.00.19:497][129]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.00.20:962][197]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.00.21:964][241]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.00.21:965][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-20.00.22:053][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-20.00.22:054][241]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.00.22:111][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-20.00.22:139][242]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.03.15-20.00.27:377][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-20.00.48:985][990]BlueprintLog: New page: Compile BP_PhyCharTest_MJB
+[2020.03.15-20.00.52:913][ 84]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-20.00.53:094][ 84]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.00.53:094][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-20.00.53:094][ 84]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 20:00:53)
+[2020.03.15-20.00.53:094][ 84]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-20.00.53:250][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.156550s)
+[2020.03.15-20.00.53:252][ 84]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-20.00.53:252][ 84]LogPlayLevel: PIE: World Init took: (0.001863s)
+[2020.03.15-20.00.53:253][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.159205s)
+[2020.03.15-20.00.53:327][ 84]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-20.00.53:359][ 84]LogInit: FAudioDevice initialized.
+[2020.03.15-20.00.53:394][ 84]LogLoad: Game class is 'GameMode'
+[2020.03.15-20.00.53:464][ 84]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-20.00.53
+[2020.03.15-20.00.53:467][ 84]LogWorld: Bringing up level for play took: 0.071641
+[2020.03.15-20.00.53:481][ 84]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-20.00.53:481][ 84]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-20.00.53:481][ 84]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-20.00.53:484][ 84]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-20.00.53:484][ 84]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup 0.417
+[2020.03.15-20.00.53:485][ 84]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.00.55:179][162]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Hello
+[2020.03.15-20.00.56:176][211]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.00.57:967][299]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Hello
+[2020.03.15-20.00.58:967][344]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.01.05:577][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-20.01.05:659][638]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.01.05:659][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-20.01.05:749][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-20.01.05:750][638]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.01.05:813][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-20.01.05:847][639]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.03.15-20.01.55:671][995]BlueprintLog: New page: Compile BP_PhyCharTest_MJB
+[2020.03.15-20.01.58:848][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-20.01.59:005][ 86]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.01.59:005][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-20.01.59:005][ 86]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 20:01:59)
+[2020.03.15-20.01.59:005][ 86]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-20.01.59:147][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.142024s)
+[2020.03.15-20.01.59:149][ 86]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-20.01.59:149][ 86]LogPlayLevel: PIE: World Init took: (0.001505s)
+[2020.03.15-20.01.59:150][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.144332s)
+[2020.03.15-20.01.59:208][ 86]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-20.01.59:238][ 86]LogInit: FAudioDevice initialized.
+[2020.03.15-20.01.59:272][ 86]LogLoad: Game class is 'GameMode'
+[2020.03.15-20.01.59:322][ 86]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-20.01.59
+[2020.03.15-20.01.59:324][ 86]LogWorld: Bringing up level for play took: 0.050947
+[2020.03.15-20.01.59:338][ 86]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-20.01.59:338][ 86]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-20.01.59:338][ 86]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-20.01.59:341][ 86]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-20.01.59:341][ 86]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup 0.274
+[2020.03.15-20.01.59:342][ 86]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.02.03:030][269]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.02.03:031][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-20.02.03:123][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-20.02.03:123][269]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.02.03:175][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-20.02.03:202][270]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.03.15-20.02.04:262][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-20.02.04:348][324]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-20.02.04:379][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.02.04:379][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-20.02.04:379][324]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 20:02:04)
+[2020.03.15-20.02.04:380][324]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-20.02.04:525][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.145322s)
+[2020.03.15-20.02.04:527][324]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-20.02.04:527][324]LogPlayLevel: PIE: World Init took: (0.001353s)
+[2020.03.15-20.02.04:528][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.147691s)
+[2020.03.15-20.02.04:581][324]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-20.02.04:609][324]LogInit: FAudioDevice initialized.
+[2020.03.15-20.02.04:646][324]LogLoad: Game class is 'GameMode'
+[2020.03.15-20.02.04:693][324]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-20.02.04
+[2020.03.15-20.02.04:696][324]LogWorld: Bringing up level for play took: 0.048804
+[2020.03.15-20.02.04:710][324]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-20.02.04:710][324]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-20.02.04:710][324]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-20.02.04:713][324]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-20.02.04:713][324]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup -0.353
+[2020.03.15-20.02.04:714][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.02.08:392][500]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.9
+[2020.03.15-20.02.09:388][544]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.02.11:441][634]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.02.11:442][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-20.02.11:531][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-20.02.11:532][634]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.02.11:577][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-20.02.11:606][635]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.03.15-20.02.21:830][132]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-20.02.36:252][463]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.03.15-20.02.36:263][463]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2020.03.15-20.02.36:285][463]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.03.15-20.02.36:408][463]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.03.15-20.02.36:408][463]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.03.15-20.02.36:408][463]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2020.03.15-20.02.36:421][463]LogUObjectGlobals: Warning: Failed to find object 'Blueprint Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial'
+[2020.03.15-20.02.49:985][808]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/BP_PhyCharTest_MJB671C3ECA427861A6D93923A56F8EF3B4.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/Characters/Xenomorph/Blueprints/BP_PhyCharTest_MJB.uasset'
+[2020.03.15-20.02.52:234][843]BlueprintLog: New page: Compile BP_PhyCharTest_MJB
+[2020.03.15-20.02.55:255][931]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-20.02.55:478][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.02.55:478][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-20.02.55:479][931]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 20:02:55)
+[2020.03.15-20.02.55:479][931]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-20.02.55:687][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.208939s)
+[2020.03.15-20.02.55:689][931]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-20.02.55:689][931]LogPlayLevel: PIE: World Init took: (0.001773s)
+[2020.03.15-20.02.55:690][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.212036s)
+[2020.03.15-20.02.55:764][931]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-20.02.55:802][931]LogInit: FAudioDevice initialized.
+[2020.03.15-20.02.55:841][931]LogLoad: Game class is 'GameMode'
+[2020.03.15-20.02.55:917][931]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-20.02.55
+[2020.03.15-20.02.55:921][931]LogWorld: Bringing up level for play took: 0.078772
+[2020.03.15-20.02.55:935][931]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-20.02.55:935][931]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-20.02.55:935][931]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-20.02.55:938][931]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-20.02.55:938][931]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup 0.871
+[2020.03.15-20.02.55:939][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.02.57:828][ 14]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.9
+[2020.03.15-20.02.57:908][ 18]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] done
+[2020.03.15-20.02.58:821][ 59]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.03.00:305][125]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.03.00:305][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-20.03.00:390][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-20.03.00:391][125]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.03.00:439][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-20.03.00:467][126]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.03.15-20.03.01:757][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-20.03.08:537][345]BlueprintLog: New page: Compile BP_PhyCharTest_MJB
+[2020.03.15-20.03.16:542][580]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-20.03.16:703][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.03.16:703][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-20.03.16:703][580]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 20:03:16)
+[2020.03.15-20.03.16:703][580]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-20.03.16:835][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130939s)
+[2020.03.15-20.03.16:835][580]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-20.03.16:836][580]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2020.03.15-20.03.16:836][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.132549s)
+[2020.03.15-20.03.16:899][580]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-20.03.16:926][580]LogInit: FAudioDevice initialized.
+[2020.03.15-20.03.16:961][580]LogLoad: Game class is 'GameMode'
+[2020.03.15-20.03.17:011][580]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-20.03.17
+[2020.03.15-20.03.17:013][580]LogWorld: Bringing up level for play took: 0.050950
+[2020.03.15-20.03.17:028][580]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-20.03.17:028][580]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-20.03.17:028][580]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-20.03.17:031][580]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-20.03.17:031][580]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup -0.036
+[2020.03.15-20.03.17:032][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.03.18:357][637]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.9
+[2020.03.15-20.03.18:438][641]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.8
+[2020.03.15-20.03.18:538][646]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.7
+[2020.03.15-20.03.18:642][651]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.6
+[2020.03.15-20.03.18:750][656]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.5
+[2020.03.15-20.03.18:852][661]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.4
+[2020.03.15-20.03.18:961][666]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.3
+[2020.03.15-20.03.19:069][671]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.2
+[2020.03.15-20.03.19:171][676]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.1
+[2020.03.15-20.03.19:278][681]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] -0.0
+[2020.03.15-20.03.19:342][684]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.03.20:823][754]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.9
+[2020.03.15-20.03.20:909][758]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.8
+[2020.03.15-20.03.21:022][763]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.7
+[2020.03.15-20.03.21:138][768]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.6
+[2020.03.15-20.03.21:252][773]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.5
+[2020.03.15-20.03.21:366][778]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.4
+[2020.03.15-20.03.21:478][783]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.3
+[2020.03.15-20.03.21:592][788]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.2
+[2020.03.15-20.03.21:706][793]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.1
+[2020.03.15-20.03.21:821][798]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] -0.0
+[2020.03.15-20.03.21:822][798]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.03.23:669][879]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.9
+[2020.03.15-20.03.23:759][883]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.8
+[2020.03.15-20.03.23:876][888]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.7
+[2020.03.15-20.03.23:994][893]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.6
+[2020.03.15-20.03.24:113][898]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.5
+[2020.03.15-20.03.24:234][903]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.4
+[2020.03.15-20.03.24:351][908]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.3
+[2020.03.15-20.03.24:470][913]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.2
+[2020.03.15-20.03.24:584][916]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.1
+[2020.03.15-20.03.24:652][920]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.03.24:692][922]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] -0.0
+[2020.03.15-20.03.26:036][979]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.9
+[2020.03.15-20.03.26:134][983]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.8
+[2020.03.15-20.03.26:250][988]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.7
+[2020.03.15-20.03.26:366][993]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.6
+[2020.03.15-20.03.26:484][998]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.5
+[2020.03.15-20.03.26:601][  3]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.4
+[2020.03.15-20.03.26:720][  8]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.3
+[2020.03.15-20.03.26:838][ 13]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.2
+[2020.03.15-20.03.26:951][ 18]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.1
+[2020.03.15-20.03.27:020][ 21]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.03.27:067][ 23]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] -0.0
+[2020.03.15-20.03.29:173][114]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.9
+[2020.03.15-20.03.29:270][118]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.8
+[2020.03.15-20.03.29:387][123]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.7
+[2020.03.15-20.03.29:508][128]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.6
+[2020.03.15-20.03.29:624][133]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.5
+[2020.03.15-20.03.29:747][138]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.4
+[2020.03.15-20.03.29:867][143]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.3
+[2020.03.15-20.03.29:984][148]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.2
+[2020.03.15-20.03.30:101][153]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.1
+[2020.03.15-20.03.30:169][156]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.03.30:217][158]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] -0.0
+[2020.03.15-20.03.32:839][269]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.9
+[2020.03.15-20.03.32:935][273]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.8
+[2020.03.15-20.03.33:054][278]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.7
+[2020.03.15-20.03.33:170][283]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.6
+[2020.03.15-20.03.33:287][288]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.5
+[2020.03.15-20.03.33:405][293]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.4
+[2020.03.15-20.03.33:522][298]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.3
+[2020.03.15-20.03.33:639][303]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.2
+[2020.03.15-20.03.33:756][308]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.1
+[2020.03.15-20.03.33:822][311]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.03.33:870][313]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] -0.0
+[2020.03.15-20.03.34:708][349]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.9
+[2020.03.15-20.03.34:799][353]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.8
+[2020.03.15-20.03.34:911][358]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.7
+[2020.03.15-20.03.35:016][363]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.6
+[2020.03.15-20.03.35:135][369]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.5
+[2020.03.15-20.03.35:235][374]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.4
+[2020.03.15-20.03.35:355][380]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.3
+[2020.03.15-20.03.35:475][386]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.2
+[2020.03.15-20.03.35:576][391]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.1
+[2020.03.15-20.03.35:677][396]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] -0.0
+[2020.03.15-20.03.35:701][397]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.03.36:524][438]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.9
+[2020.03.15-20.03.36:605][442]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.8
+[2020.03.15-20.03.36:716][447]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.7
+[2020.03.15-20.03.36:829][452]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.6
+[2020.03.15-20.03.36:942][457]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.5
+[2020.03.15-20.03.37:057][462]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.4
+[2020.03.15-20.03.37:170][467]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.3
+[2020.03.15-20.03.37:286][472]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.2
+[2020.03.15-20.03.37:401][477]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.1
+[2020.03.15-20.03.37:516][482]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] -0.0
+[2020.03.15-20.03.37:516][482]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.03.38:550][527]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.9
+[2020.03.15-20.03.38:642][531]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.8
+[2020.03.15-20.03.38:761][536]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.7
+[2020.03.15-20.03.38:883][541]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.6
+[2020.03.15-20.03.39:004][546]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.5
+[2020.03.15-20.03.39:123][551]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.4
+[2020.03.15-20.03.39:238][556]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.3
+[2020.03.15-20.03.39:357][561]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.2
+[2020.03.15-20.03.39:477][566]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.1
+[2020.03.15-20.03.39:550][569]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.03.39:598][571]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] -0.0
+[2020.03.15-20.03.40:238][598]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.9
+[2020.03.15-20.03.40:333][602]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.8
+[2020.03.15-20.03.40:452][607]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.7
+[2020.03.15-20.03.40:569][612]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.6
+[2020.03.15-20.03.40:679][617]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.5
+[2020.03.15-20.03.40:785][622]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.4
+[2020.03.15-20.03.40:892][627]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.3
+[2020.03.15-20.03.41:000][632]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.2
+[2020.03.15-20.03.41:106][637]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.1
+[2020.03.15-20.03.41:217][642]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.03.41:217][642]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] -0.0
+[2020.03.15-20.03.41:275][645]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.9
+[2020.03.15-20.03.41:317][647]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.8
+[2020.03.15-20.03.41:419][652]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.7
+[2020.03.15-20.03.41:521][657]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.6
+[2020.03.15-20.03.41:620][662]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.5
+[2020.03.15-20.03.41:722][667]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.4
+[2020.03.15-20.03.41:841][673]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.3
+[2020.03.15-20.03.41:942][678]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.2
+[2020.03.15-20.03.42:041][683]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.1
+[2020.03.15-20.03.42:162][689]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] -0.0
+[2020.03.15-20.03.42:261][694]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.03.42:281][695]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.9
+[2020.03.15-20.03.42:282][695]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.8
+[2020.03.15-20.03.42:382][700]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.7
+[2020.03.15-20.03.42:501][706]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.6
+[2020.03.15-20.03.42:621][712]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.5
+[2020.03.15-20.03.42:738][718]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.4
+[2020.03.15-20.03.42:858][724]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.3
+[2020.03.15-20.03.42:983][730]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] 0.2
+[2020.03.15-20.03.43:085][735]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.03.43:086][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-20.03.43:173][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-20.03.43:173][735]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.03.43:233][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-20.03.43:354][736]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.03.15-20.03.44:063][762]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-20.04.17:895][690]BlueprintLog: New page: Compile BP_PhyCharTest_MJB
+[2020.03.15-20.04.28:287][925]BlueprintLog: New page: Compile BP_PhyCharTest_MJB
+[2020.03.15-20.04.44:576][420]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.15-20.04.44:746][420]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.04.44:746][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-20.04.44:746][420]PIE: New page: PIE session: FullLevelBackup (15 Mar 2020 20:04:44)
+[2020.03.15-20.04.44:746][420]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup
+[2020.03.15-20.04.44:880][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.133340s)
+[2020.03.15-20.04.44:881][420]LogAIModule: Creating AISystem for world FullLevelBackup
+[2020.03.15-20.04.44:881][420]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2020.03.15-20.04.44:882][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup to /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup (0.135154s)
+[2020.03.15-20.04.44:935][420]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.15-20.04.44:964][420]LogInit: FAudioDevice initialized.
+[2020.03.15-20.04.45:007][420]LogLoad: Game class is 'GameMode'
+[2020.03.15-20.04.45:053][420]LogWorld: Bringing World /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup.FullLevelBackup up for play (max tick rate 60) at 2020.03.15-20.04.45
+[2020.03.15-20.04.45:056][420]LogWorld: Bringing up level for play took: 0.047364
+[2020.03.15-20.04.45:069][420]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-20.04.45:069][420]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.03.15-20.04.45:069][420]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-20.04.45:072][420]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.03.15-20.04.45:072][420]PIE: Play in editor start time for /Game/LevelFolder/Level1/Backups/UEDPIE_0_FullLevelBackup 0.006
+[2020.03.15-20.04.45:073][420]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.04.47:309][521]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.04.48:737][582]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.04.50:617][661]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.04.51:913][721]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.04.53:357][788]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.04.54:685][847]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.04.56:656][940]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.04.59:137][ 58]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.05.02:427][216]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.05.04:582][325]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_2] Jump timer done!
+[2020.03.15-20.05.05:763][375]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.15-20.05.09:664][460]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.05.09:665][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-20.05.09:745][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-20.05.09:746][460]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup' with GeneratedClass '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Backups/FullLevelBackup.FullLevelBackup:PersistentLevel.FullLevelBackup'
+[2020.03.15-20.05.09:806][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-20.05.09:844][461]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.03.15-20.05.43:803][847]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/FullLevelBackup_Auto444C587224FF59802A63BF9A8DA47C459.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/LevelFolder/Level1/Backups/FullLevelBackup_Auto4.umap'
+[2020.03.15-20.05.43:810][847]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelFolder/Level1/Backups/FullLevelBackup' took 1.674
+[2020.03.15-20.05.43:810][847]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.674
+[2020.03.15-20.05.43:873][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Characters/Xenomorph/Blueprints/BP_PhyCharTest_MJB] ([1] browsable assets)...
+[2020.03.15-20.05.43:922][847]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Characters/Xenomorph/Blueprints/BP_PhyCharTest_MJB.BP_PhyCharTest_MJB]
+[2020.03.15-20.05.43:922][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/Xenomorph/Blueprints/BP_PhyCharTest_MJB]
+[2020.03.15-20.05.44:194][847]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/BP_PhyCharTest_MJB_Auto4DF7AD621402F9F9065E71C8E42E3AD32.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/Assets/Characters/Xenomorph/Blueprints/BP_PhyCharTest_MJB_Auto4.uasset'
+[2020.03.15-20.05.44:197][847]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/UI/MC_UI_Widget] ([1] browsable assets)...
+[2020.03.15-20.05.44:197][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/UI/MC_UI_Widget]
+[2020.03.15-20.05.44:215][847]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/MC_UI_Widget_Auto4CD20A0604EBA2C39701089ABD6BF702C.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/Assets/UI/MC_UI_Widget_Auto4.uasset'
+[2020.03.15-20.05.44:217][847]LogFileHelpers: Auto-saving content packages took 0.381
+[2020.03.15-20.08.05:477][244]BlueprintLog: New page: Compile BP_PhyCharTest_MJB
+[2020.03.15-20.08.07:629][258]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/BP_PhyCharTest_MJBB66AD782470662342D4681AA69F8DD09.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/Characters/Xenomorph/Blueprints/BP_PhyCharTest_MJB.uasset'
+[2020.03.15-20.08.09:820][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/MC_UI_Widget" FILE="C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/UI/MC_UI_Widget.uasset" SILENT=true
+[2020.03.15-20.08.09:851][312]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/MC_UI_WidgetF750D8014C5FCBC97C33CCB2247245FE.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/UI/MC_UI_Widget.uasset'
