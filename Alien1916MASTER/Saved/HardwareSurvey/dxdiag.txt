@@ -1,18 +1,18 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 2/28/2020, 13:56:53
-             Machine name: TU39429
-               Machine Id: {0D86294F-4DC0-4A42-8B4F-A9FC3AA9B7DC}
+      Time of this report: 3/16/2020, 09:50:58
+             Machine name: TU45335
+               Machine Id: {04C8D9E1-CC64-492F-85F7-ECBC985FA45C}
          Operating System: Windows 10 Enterprise 64-bit (10.0, Build 17763) (17763.rs5_release.180914-1434)
                  Language: English (Regional Setting: English)
-      System Manufacturer: HP
-             System Model: HP Z4 G4 Workstation
-                     BIOS: P62 v01.73 (type: UEFI)
-                Processor: Intel(R) Core(TM) i7-7800X CPU @ 3.50GHz (12 CPUs), ~3.5GHz
+      System Manufacturer: Hewlett-Packard
+             System Model: HP Z640 Workstation
+                     BIOS: M60 v02.14 (type: UEFI)
+                Processor: Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz (12 CPUs), ~3.5GHz
                    Memory: 32768MB RAM
-      Available OS Memory: 32486MB RAM
-                Page File: 8926MB used, 28423MB available
+      Available OS Memory: 32684MB RAM
+                Page File: 7048MB used, 30499MB available
               Windows Dir: C:\WINDOWS
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -45,59 +45,59 @@ DirectShow:  0/6 (retail)
 ---------------
 Display Devices
 ---------------
-           Card name: NVIDIA GeForce RTX 2080
+           Card name: NVIDIA GeForce GTX 980 Ti
         Manufacturer: NVIDIA
-           Chip type: GeForce RTX 2080
+           Chip type: GeForce GTX 980 Ti
             DAC type: Integrated RAMDAC
          Device Type: Full Device (POST)
-          Device Key: Enum\PCI\VEN_10DE&DEV_1E82&SUBSYS_37C11458&REV_A1
+          Device Key: Enum\PCI\VEN_10DE&DEV_17C8&SUBSYS_139619DA&REV_A1
        Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
  Device Problem Code: No Problem
  Driver Problem Code: Unknown
-      Display Memory: 24252 MB
-    Dedicated Memory: 8010 MB
-       Shared Memory: 16242 MB
+      Display Memory: 22439 MB
+    Dedicated Memory: 6097 MB
+       Shared Memory: 16342 MB
         Current Mode: 1920 x 1200 (32 bit) (59Hz)
          HDR Support: Not Supported
     Display Topology: Extend
  Display Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709
-     Color Primaries: Red(0.661133,0.329102), Green(0.297852,0.618164), Blue(0.142578,0.051758), White Point(0.313477,0.329102)
+     Color Primaries: Red(0.644531,0.335938), Green(0.328125,0.615234), Blue(0.146484,0.054688), White Point(0.313477,0.329102)
    Display Luminance: Min Luminance = 0.500000, Max Luminance = 270.000000, MaxFullFrameLuminance = 270.000000
         Monitor Name: Generic PnP Monitor
-       Monitor Model: HP E243i
-          Monitor Id: HPN3462
+       Monitor Model: HP E242
+          Monitor Id: HWP326E
          Native Mode: 1920 x 1200(p) (59.950Hz)
          Output Type: Displayport External
 Monitor Capabilities: HDR Not Supported
 Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
       Advanced Color: Not Supported
-         Driver Name: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvldumdx.dll
- Driver File Version: 26.21.0014.3170 (English)
-      Driver Version: 26.21.14.3170
+         Driver Name: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumdx.dll
+ Driver File Version: 23.21.0013.9135 (English)
+      Driver Version: 23.21.13.9135
          DDI Version: 12
       Feature Levels: 12_1,12_0,11_1,11_0,10_1,10_0,9_3,9_2,9_1
-        Driver Model: WDDM 2.5
- Graphics Preemption: Pixel
-  Compute Preemption: Dispatch
+        Driver Model: WDDM 2.3
+ Graphics Preemption: DMA
+  Compute Preemption: DMA
             Miracast: Not Supported
  Hybrid Graphics GPU: Not Supported
       Power P-states: Not Supported
-      Virtualization: Paravirtualization 
+      Virtualization: Not Supported
           Block List: No Blocks
   Catalog Attributes: Universal:False Declarative:False 
    Driver Attributes: Final Retail
-    Driver Date/Size: 24/07/2019 00:00:00, 959336 bytes
+    Driver Date/Size: 23/03/2018 00:00:00, 949016 bytes
          WHQL Logo'd: Yes
      WHQL Date Stamp: Unknown
-   Device Identifier: {D7B71E3E-5DC2-11CF-8A7B-CF171BC2D735}
+   Device Identifier: {D7B71E3E-5488-11CF-C559-9B331BC2DA35}
            Vendor ID: 0x10DE
-           Device ID: 0x1E82
-           SubSys ID: 0x37C11458
+           Device ID: 0x17C8
+           SubSys ID: 0x139619DA
          Revision ID: 0x00A1
-  Driver Strong Name: oem64.inf:0f066de3ed1bdd3f:Section002:26.21.14.3170:pci\ven_10de&dev_1e82
+  Driver Strong Name: oem71.inf:0f066de3672d1ed2:Section096:23.21.13.9135:pci\ven_10de&dev_17c8
       Rank Of Driver: 00D12001
          Video Accel: 
-         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeHEVC_VLD_Main10  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  DXVA2_ModeVP9_VLD_Profile0  DXVA2_ModeVP9_VLD_10bit_Profile2  
+         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
    Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
                      {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
                      {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
@@ -151,59 +151,59 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
     PanelFitter Caps: Not Supported
  PanelFitter Stretch: Not Supported
 
-           Card name: NVIDIA GeForce RTX 2080
+           Card name: NVIDIA GeForce GTX 980 Ti
         Manufacturer: NVIDIA
-           Chip type: GeForce RTX 2080
+           Chip type: GeForce GTX 980 Ti
             DAC type: Integrated RAMDAC
          Device Type: Full Device (POST)
-          Device Key: Enum\PCI\VEN_10DE&DEV_1E82&SUBSYS_37C11458&REV_A1
+          Device Key: Enum\PCI\VEN_10DE&DEV_17C8&SUBSYS_139619DA&REV_A1
        Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
  Device Problem Code: No Problem
  Driver Problem Code: Unknown
-      Display Memory: 24252 MB
-    Dedicated Memory: 8010 MB
-       Shared Memory: 16242 MB
+      Display Memory: 22439 MB
+    Dedicated Memory: 6097 MB
+       Shared Memory: 16342 MB
         Current Mode: 1920 x 1200 (32 bit) (59Hz)
          HDR Support: Not Supported
     Display Topology: Extend
  Display Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709
-     Color Primaries: Red(0.661133,0.329102), Green(0.297852,0.618164), Blue(0.142578,0.051758), White Point(0.313477,0.329102)
+     Color Primaries: Red(0.644531,0.335938), Green(0.328125,0.615234), Blue(0.146484,0.054688), White Point(0.313477,0.329102)
    Display Luminance: Min Luminance = 0.500000, Max Luminance = 270.000000, MaxFullFrameLuminance = 270.000000
         Monitor Name: Generic PnP Monitor
-       Monitor Model: HP E243i
-          Monitor Id: HPN3462
+       Monitor Model: HP E242
+          Monitor Id: HWP326E
          Native Mode: 1920 x 1200(p) (59.950Hz)
          Output Type: Displayport External
 Monitor Capabilities: HDR Not Supported
 Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
       Advanced Color: Not Supported
-         Driver Name: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvldumdx.dll
- Driver File Version: 26.21.0014.3170 (English)
-      Driver Version: 26.21.14.3170
+         Driver Name: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumdx.dll
+ Driver File Version: 23.21.0013.9135 (English)
+      Driver Version: 23.21.13.9135
          DDI Version: 12
       Feature Levels: 12_1,12_0,11_1,11_0,10_1,10_0,9_3,9_2,9_1
-        Driver Model: WDDM 2.5
- Graphics Preemption: Pixel
-  Compute Preemption: Dispatch
+        Driver Model: WDDM 2.3
+ Graphics Preemption: DMA
+  Compute Preemption: DMA
             Miracast: Not Supported
  Hybrid Graphics GPU: Not Supported
       Power P-states: Not Supported
-      Virtualization: Paravirtualization 
+      Virtualization: Not Supported
           Block List: No Blocks
   Catalog Attributes: Universal:False Declarative:False 
    Driver Attributes: Final Retail
-    Driver Date/Size: 24/07/2019 00:00:00, 959336 bytes
+    Driver Date/Size: 23/03/2018 00:00:00, 949016 bytes
          WHQL Logo'd: Yes
      WHQL Date Stamp: Unknown
-   Device Identifier: {D7B71E3E-5DC2-11CF-8A7B-CF171BC2D735}
+   Device Identifier: {D7B71E3E-5488-11CF-C559-9B331BC2DA35}
            Vendor ID: 0x10DE
-           Device ID: 0x1E82
-           SubSys ID: 0x37C11458
+           Device ID: 0x17C8
+           SubSys ID: 0x139619DA
          Revision ID: 0x00A1
-  Driver Strong Name: oem64.inf:0f066de3ed1bdd3f:Section002:26.21.14.3170:pci\ven_10de&dev_1e82
+  Driver Strong Name: oem71.inf:0f066de3672d1ed2:Section096:23.21.13.9135:pci\ven_10de&dev_17c8
       Rank Of Driver: 00D12001
          Video Accel: 
-         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeHEVC_VLD_Main10  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  DXVA2_ModeVP9_VLD_Profile0  DXVA2_ModeVP9_VLD_10bit_Profile2  
+         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
    Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
                      {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
                      {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
@@ -263,7 +263,7 @@ Sound Devices
             Description: Speakers (Realtek High Definition Audio)
  Default Sound Playback: Yes
  Default Voice Playback: Yes
-            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0221&SUBSYS_103C81C5&REV_1001
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0221&SUBSYS_103C212A&REV_1000
         Manufacturer ID: 1
              Product ID: 100
                    Type: WDM
@@ -307,22 +307,16 @@ Vendor/Product ID: n/a
 Vendor/Product ID: n/a
         FF Driver: n/a
 
-      Device Name: HP USB Slim Keyboard
+      Device Name: HP Elite USB Keyboard
          Attached: 1
     Controller ID: 0x0
-Vendor/Product ID: 0x03F0, 0x354A
+Vendor/Product ID: 0x03F0, 0x034A
         FF Driver: n/a
 
-      Device Name: HP USB Slim Keyboard
+      Device Name: HP Elite USB Keyboard
          Attached: 1
     Controller ID: 0x0
-Vendor/Product ID: 0x03F0, 0x354A
-        FF Driver: n/a
-
-      Device Name: Wacom Tablet
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x056A, 0x0303
+Vendor/Product ID: 0x03F0, 0x034A
         FF Driver: n/a
 
       Device Name: Wacom Tablet
@@ -337,10 +331,16 @@ Vendor/Product ID: 0x056A, 0x0303
 Vendor/Product ID: 0x056A, 0x0303
         FF Driver: n/a
 
-      Device Name: HP USB Slim Keyboard
+      Device Name: Wacom Tablet
          Attached: 1
     Controller ID: 0x0
-Vendor/Product ID: 0x03F0, 0x354A
+Vendor/Product ID: 0x056A, 0x0303
+        FF Driver: n/a
+
+      Device Name: Controller (XBOX 360 For Windows)
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x045E, 0x028E
         FF Driver: n/a
 
 Poll w/ Interrupt: No
@@ -349,14 +349,14 @@ Poll w/ Interrupt: No
 USB Devices
 -----------
 + USB Root Hub (USB 3.0)
-| Vendor/Product ID: 0x8086, 0xA2AF
+| Vendor/Product ID: 0x8086, 0x8D31
 | Matching Device ID: USB\ROOT_HUB30
 | Service: USBHUB3
 | Driver: USBHUB3.SYS, 9/15/2018 07:28:19, 586552 bytes
 | 
 +-+ Wacom Tablet
 | | Vendor/Product ID: 0x056A, 0x0303
-| | Location: Port_#0003.Hub_#0001
+| | Location: Port_#0003.Hub_#0003
 | | Matching Device ID: USB\VID_056A&PID_0303
 | | Upper Filters: mshidkmdf
 | | Service: WacHidRouterPro
@@ -374,23 +374,23 @@ USB Devices
 | | | Driver: wdfcoinstaller01009.dll, 5/10/2019 21:26:55, 1721576 bytes
 | | 
 +-+ USB Composite Device
-| | Vendor/Product ID: 0x03F0, 0x354A
-| | Location: Port_#0011.Hub_#0001
+| | Vendor/Product ID: 0x03F0, 0x034A
+| | Location: Port_#0011.Hub_#0003
 | | Matching Device ID: USB\COMPOSITE
 | | Service: usbccgp
 | | Driver: usbccgp.sys, 9/15/2018 07:28:19, 179000 bytes
 | | 
 | +-+ USB Input Device
-| | | Vendor/Product ID: 0x03F0, 0x354A
+| | | Vendor/Product ID: 0x03F0, 0x034A
 | | | Location: 0000.0014.0000.011.000.000.000.000.000
 | | | Matching Device ID: USB\Class_03&SubClass_01
 | | | Service: HidUsb
 | | | Driver: hidusb.sys, 9/15/2018 07:28:19, 43520 bytes
-| | | Driver: hidclass.sys, 9/1/2019 02:01:43, 209920 bytes
+| | | Driver: hidclass.sys, 9/25/2019 07:35:52, 209920 bytes
 | | | Driver: hidparse.sys, 5/13/2019 09:35:51, 46080 bytes
 | | | 
 | | +-+ HID Keyboard Device
-| | | | Vendor/Product ID: 0x03F0, 0x354A
+| | | | Vendor/Product ID: 0x03F0, 0x034A
 | | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
 | | | | Service: kbdhid
 | | | | Driver: kbdhid.sys, 3/12/2019 08:29:46, 44544 bytes
@@ -398,11 +398,11 @@ USB Devices
 | | 
 +-+ USB Input Device
 | | Vendor/Product ID: 0x03F0, 0x094A
-| | Location: Port_#0013.Hub_#0001
+| | Location: Port_#0012.Hub_#0003
 | | Matching Device ID: USB\Class_03&SubClass_01
 | | Service: HidUsb
 | | Driver: hidusb.sys, 9/15/2018 07:28:19, 43520 bytes
-| | Driver: hidclass.sys, 9/1/2019 02:01:43, 209920 bytes
+| | Driver: hidclass.sys, 9/25/2019 07:35:52, 209920 bytes
 | | Driver: hidparse.sys, 5/13/2019 09:35:51, 46080 bytes
 | | 
 | +-+ HID-compliant mouse
@@ -424,609 +424,431 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 168.8 GB
+ Free Space: 136.1 GB
 Total Space: 487.4 GB
 File System: NTFS
-      Model: MTFDDAK512TBN-1AR1ZABHA
+      Model: MTFDDAK512MBF-1AN1ZABHA
 
       Drive: D:
- Free Space: 1872.5 GB
+ Free Space: 1869.2 GB
 Total Space: 1907.7 GB
 File System: NTFS
-      Model: TOSHIBA DT01ACA200
+      Model: ST2000DM001-1ER164
 
       Drive: E:
-      Model: hp HLDS DVDRW  GUD1N
+      Model: hp BDRW   UJ272
      Driver: c:\windows\system32\drivers\cdrom.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:17, 165888 bytes
 
 --------------
 System Devices
 --------------
-     Name: Intel(R) Xeon(R) processor P family/Core i7 PCU Registers - 2081
-Device ID: PCI\VEN_8086&DEV_2081&SUBSYS_00008086&REV_04\3&2411E6FE&0&F1
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Address Map VTd_Misc System Management - 2F28
+Device ID: PCI\VEN_8086&DEV_2F28&SUBSYS_00000000&REV_02\3&11583659&0&28
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 IOxAPIC Configuration Registers - 2036
-Device ID: PCI\VEN_8086&DEV_2036&SUBSYS_00008086&REV_04\3&36CB97A3&0&2C
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel Target Address Decoder - 2FAC
+Device ID: PCI\VEN_8086&DEV_2FAC&SUBSYS_2FAC8086&REV_02\3&103A9D54&0&9C
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&51
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 VCU - 2F8A
+Device ID: PCI\VEN_8086&DEV_2F8A&SUBSYS_00000000&REV_02\3&103A9D54&0&FA
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&50
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel Target Address Decoder - 2FAA
+Device ID: PCI\VEN_8086&DEV_2FAA&SUBSYS_2FAA8086&REV_02\3&103A9D54&0&9A
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&4F
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Power Control Unit - 2F98
+Device ID: PCI\VEN_8086&DEV_2F98&SUBSYS_2F988086&REV_02\3&103A9D54&0&F0
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&4E
+     Name: Standard SATA AHCI Controller
+Device ID: PCI\VEN_8086&DEV_8D02&SUBSYS_212A103C&REV_05\3&11583659&0&FA
+   Driver: C:\WINDOWS\system32\DRIVERS\storahci.sys, 10.00.17763.0168 (English), 1/3/2019 11:16:14, 164344 bytes
+
+     Name: Intel(R) C610 series/X99 chipset PCI Express Root Port #2 - 8D12
+Device ID: PCI\VEN_8086&DEV_8D12&SUBSYS_212A103C&REV_D5\3&11583659&0&E1
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:30:59, 422712 bytes
+
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DMI2 - 2F00
+Device ID: PCI\VEN_8086&DEV_2F00&SUBSYS_212A103C&REV_02\3&11583659&0&00
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&4D
+     Name: Intel(R) C610 series/X99 chipset LPC Controller - 8D44
+Device ID: PCI\VEN_8086&DEV_8D44&SUBSYS_212A103C&REV_05\3&11583659&0&F8
+   Driver: C:\WINDOWS\system32\DRIVERS\msisadrv.sys, 10.00.17763.0771 (English), 10/23/2019 07:37:49, 18744 bytes
+
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 R3 QPI Link 0 & 1 Monitoring - 2F36
+Device ID: PCI\VEN_8086&DEV_2F36&SUBSYS_2F368086&REV_02\3&103A9D54&0&59
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&4C
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 PCIe Ring Interface - 2F34
+Device ID: PCI\VEN_8086&DEV_2F34&SUBSYS_2F348086&REV_02\3&103A9D54&0&81
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&4B
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DDRIO Global Broadcast - 2FAF
+Device ID: PCI\VEN_8086&DEV_2FAF&SUBSYS_00000000&REV_02\3&103A9D54&0&9F
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&4A
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Home Agent 0 - 2F30
+Device ID: PCI\VEN_8086&DEV_2F30&SUBSYS_2F308086&REV_02\3&103A9D54&0&91
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&49
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 PCI Express Root Port 1 - 2F02
+Device ID: PCI\VEN_8086&DEV_2F02&SUBSYS_00008086&REV_02\3&11583659&0&08
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:30:59, 422712 bytes
+
+     Name: Intel(R) C610 series/X99 chipset SMBus Controller - 8D22
+Device ID: PCI\VEN_8086&DEV_8D22&SUBSYS_212A103C&REV_05\3&11583659&0&FB
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&48
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 R3 QPI Link 0 & 1 Monitoring - 2F81
+Device ID: PCI\VEN_8086&DEV_2F81&SUBSYS_2F818086&REV_02\3&103A9D54&0&58
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&47
+     Name: Intel(R) C610 series/X99 chipset PCI Express Root Port #5 - 8D18
+Device ID: PCI\VEN_8086&DEV_8D18&SUBSYS_212A103C&REV_D5\3&11583659&0&E4
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:30:59, 422712 bytes
+
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 System Address Decoder & Broadcast Registers - 2FFE
+Device ID: PCI\VEN_8086&DEV_2FFE&SUBSYS_2FE08086&REV_02\3&103A9D54&0&7E
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&46
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DDRIO (VMSE) 2 & 3 - 2FBB
+Device ID: PCI\VEN_8086&DEV_2FBB&SUBSYS_00000000&REV_02\3&103A9D54&0&BF
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&45
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Power Control Unit - 2FC0
+Device ID: PCI\VEN_8086&DEV_2FC0&SUBSYS_2FC08086&REV_02\3&103A9D54&0&F3
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&44
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Buffered Ring Agent - 2FF9
+Device ID: PCI\VEN_8086&DEV_2FF9&SUBSYS_00000000&REV_02\3&103A9D54&0&79
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&43
+     Name: Intel(R) C610 series/X99 chipset PCI Express Root Port #1 - 8D10
+Device ID: PCI\VEN_8086&DEV_8D10&SUBSYS_212A103C&REV_D5\3&11583659&0&E0
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:30:59, 422712 bytes
+
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 RAS Control Status and Global Errors - 2F2A
+Device ID: PCI\VEN_8086&DEV_2F2A&SUBSYS_00000000&REV_02\3&11583659&0&2A
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&42
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DDRIO Channel 2/3 Broadcast - 2F6E
+Device ID: PCI\VEN_8086&DEV_2F6E&SUBSYS_00000000&REV_02\3&103A9D54&0&B6
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&41
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Scratchpad & Semaphore Registers - 2F7D
+Device ID: PCI\VEN_8086&DEV_2F7D&SUBSYS_2F7D8086&REV_02\3&103A9D54&0&86
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208D
-Device ID: PCI\VEN_8086&DEV_208D&SUBSYS_00008086&REV_04\3&2411E6FE&0&40
+     Name: Intel(R) Management Engine Interface 
+Device ID: PCI\VEN_8086&DEV_8D3A&SUBSYS_212A103C&REV_05\3&11583659&0&B0
+   Driver: C:\WINDOWS\system32\DRIVERS\TeeDriverW8x64.sys, 11.07.0000.1057 (English), 11/28/2017 04:27:38, 206488 bytes
+
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Hot Plug - 2F29
+Device ID: PCI\VEN_8086&DEV_2F29&SUBSYS_00000000&REV_02\3&11583659&0&29
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 LMDP Channel 2 - 204B
-Device ID: PCI\VEN_8086&DEV_204B&SUBSYS_00008086&REV_04\3&36CB97A3&0&6B
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DDRIO (VMSE) 0 & 1 - 2FBE
+Device ID: PCI\VEN_8086&DEV_2FBE&SUBSYS_00000000&REV_02\3&103A9D54&0&A6
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 LMDP Channel 2 - 204B
-Device ID: PCI\VEN_8086&DEV_204B&SUBSYS_00008086&REV_04\3&36CB97A3&0&5B
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Unicast Registers - 2FE5
+Device ID: PCI\VEN_8086&DEV_2FE5&SUBSYS_2FE58086&REV_02\3&103A9D54&0&65
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 RAS Configuration Registers - 2035
-Device ID: PCI\VEN_8086&DEV_2035&SUBSYS_00000000&REV_04\3&36CB97A3&0&2A
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Unicast Registers - 2FE3
+Device ID: PCI\VEN_8086&DEV_2FE3&SUBSYS_2FE38086&REV_02\3&103A9D54&0&63
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 M2PCI Registers - 2018
-Device ID: PCI\VEN_8086&DEV_2018&SUBSYS_00008086&REV_04\3&3AA59A3&0&B4
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Unicast Registers - 2FE1
+Device ID: PCI\VEN_8086&DEV_2FE1&SUBSYS_2FE18086&REV_02\3&103A9D54&0&61
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 M2PCI Registers - 2018
-Device ID: PCI\VEN_8086&DEV_2018&SUBSYS_00008086&REV_04\3&3AA59A3&0&B0
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Scratchpad & Semaphore Registers - 2F1F
+Device ID: PCI\VEN_8086&DEV_2F1F&SUBSYS_2F1F8086&REV_02\3&103A9D54&0&87
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 M2PCI Registers - 2018
-Device ID: PCI\VEN_8086&DEV_2018&SUBSYS_00008086&REV_04\3&3AA59A3&0&A8
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 PCI Express Root Port 3 - 2F08
+Device ID: PCI\VEN_8086&DEV_2F08&SUBSYS_00008086&REV_02\3&11583659&0&18
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:30:59, 422712 bytes
+
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel 3 ERROR Registers - 2FB7
+Device ID: PCI\VEN_8086&DEV_2FB7&SUBSYS_2FB78086&REV_02\3&103A9D54&0&AB
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 DMI3 Port - 2020
-Device ID: PCI\VEN_8086&DEV_2020&SUBSYS_0000103C&REV_04\3&11583659&0&00
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 PCIe Ring Interface - 2F1D
+Device ID: PCI\VEN_8086&DEV_2F1D&SUBSYS_2F1D8086&REV_02\3&103A9D54&0&80
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CBDMA Registers - 2021
-Device ID: PCI\VEN_8086&DEV_2021&SUBSYS_00008086&REV_04\3&11583659&0&27
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel 3 Thermal Control - 2FB5
+Device ID: PCI\VEN_8086&DEV_2FB5&SUBSYS_2FB58086&REV_02\3&103A9D54&0&A9
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CBDMA Registers - 2021
-Device ID: PCI\VEN_8086&DEV_2021&SUBSYS_00008086&REV_04\3&11583659&0&26
-   Driver: n/a
+     Name: Intel(R) USB 3.0 eXtensible Host Controller - 1.0 (Microsoft)
+Device ID: PCI\VEN_8086&DEV_8D31&SUBSYS_212A103C&REV_05\3&11583659&0&A0
+   Driver: C:\WINDOWS\system32\DRIVERS\USBXHCI.SYS, 10.00.17763.0592 (English), 7/16/2019 13:28:00, 467984 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\UMDF\UsbXhciCompanion.dll, 10.00.17763.0001 (English), 9/15/2018 07:28:19, 130720 bytes
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CBDMA Registers - 2021
-Device ID: PCI\VEN_8086&DEV_2021&SUBSYS_00008086&REV_04\3&11583659&0&25
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CBDMA Registers - 2021
-Device ID: PCI\VEN_8086&DEV_2021&SUBSYS_00008086&REV_04\3&11583659&0&24
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CBDMA Registers - 2021
-Device ID: PCI\VEN_8086&DEV_2021&SUBSYS_00008086&REV_04\3&11583659&0&23
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CBDMA Registers - 2021
-Device ID: PCI\VEN_8086&DEV_2021&SUBSYS_00008086&REV_04\3&11583659&0&22
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CBDMA Registers - 2021
-Device ID: PCI\VEN_8086&DEV_2021&SUBSYS_00008086&REV_04\3&11583659&0&21
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CBDMA Registers - 2021
-Device ID: PCI\VEN_8086&DEV_2021&SUBSYS_00008086&REV_04\3&11583659&0&20
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel 1 ERROR Registers - 2FB3
+Device ID: PCI\VEN_8086&DEV_2FB3&SUBSYS_2FB38086&REV_02\3&103A9D54&0&A3
    Driver: n/a
 
      Name: PCI-to-PCI Bridge
-Device ID: PCI\VEN_8086&DEV_A294&SUBSYS_81C5103C&REV_F0\3&11583659&0&E0
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:27:45, 422712 bytes
+Device ID: PCI\VEN_1283&DEV_8893&SUBSYS_212A103C&REV_52\4&2D64E983&0&00E3
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:30:59, 422712 bytes
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 2056
-Device ID: PCI\VEN_8086&DEV_2056&SUBSYS_00008086&REV_04\3&2411E6FE&0&EA
+     Name: Intel(R) C610 series/X99 chipset SPSR - 8D7C
+Device ID: PCI\VEN_8086&DEV_8D7C&SUBSYS_212A103C&REV_05\3&11583659&0&88
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 PCU Registers - 2084
-Device ID: PCI\VEN_8086&DEV_2084&SUBSYS_00008086&REV_04\3&2411E6FE&0&F4
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel 1 Thermal Control - 2FB1
+Device ID: PCI\VEN_8086&DEV_2FB1&SUBSYS_2FB18086&REV_02\3&103A9D54&0&A1
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Integrated Memory Controller - 2042
-Device ID: PCI\VEN_8086&DEV_2042&SUBSYS_00008086&REV_04\3&36CB97A3&0&62
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Integrated Memory Controller - 2042
-Device ID: PCI\VEN_8086&DEV_2042&SUBSYS_00008086&REV_04\3&36CB97A3&0&52
+     Name: Intel(R) Active Management Technology - SOL (COM3)
+Device ID: PCI\VEN_8086&DEV_8D3D&SUBSYS_212A103C&REV_05\3&11583659&0&B3
    Driver: n/a
 
      Name: High Definition Audio Controller
-Device ID: PCI\VEN_10DE&DEV_10F8&SUBSYS_37C11458&REV_A1\4&1F221E6C&0&0100
+Device ID: PCI\VEN_8086&DEV_8D20&SUBSYS_212A103C&REV_05\3&11583659&0&D8
    Driver: C:\WINDOWS\system32\DRIVERS\hdaudbus.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:15, 104960 bytes
    Driver: C:\WINDOWS\system32\DRIVERS\drmk.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:15, 98304 bytes
    Driver: C:\WINDOWS\system32\DRIVERS\portcls.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:15, 381440 bytes
 
-     Name: Intel(R) PMC - A2A1
-Device ID: PCI\VEN_8086&DEV_A2A1&SUBSYS_81C5103C&REV_00\3&11583659&0&FA
+     Name: Intel RSTe Device - 2F9C
+Device ID: PCI\VEN_8086&DEV_2F9C&SUBSYS_2F9C8086&REV_02\3&103A9D54&0&F4
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 LM Channel 1 - 2045
-Device ID: PCI\VEN_8086&DEV_2045&SUBSYS_00008086&REV_04\3&36CB97A3&0&65
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Power Control Unit - 2F9A
+Device ID: PCI\VEN_8086&DEV_2F9A&SUBSYS_2F9A8086&REV_02\3&103A9D54&0&F2
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 LM Channel 1 - 2045
-Device ID: PCI\VEN_8086&DEV_2045&SUBSYS_00008086&REV_04\3&36CB97A3&0&55
+     Name: NVIDIA GeForce GTX 980 Ti
+Device ID: PCI\VEN_10DE&DEV_17C8&SUBSYS_139619DA&REV_A1\4&2A43D483&0&0010
+   Driver: C:\WINDOWS\system32\DRIVERS\NVIDIA Corporation\Drs\dbInstaller.exe, 23.21.0013.9135 (English), 3/25/2018 16:12:56, 473960 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\NVIDIA Corporation\Drs\nvdrsdb.bin, 3/24/2018 01:19:20, 1479692 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\NvContainerSetup.exe, 1.00.0007.0000 (English), 3/25/2018 16:14:08, 4198984 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\NvCplSetupInt.exe, 1.00.0007.0000 (English), 3/25/2018 16:14:10, 101317560 bytes
+   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\detoured.dll, 2.01.0000.0224 (English), 3/25/2018 16:14:28, 28760 bytes
+   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\nvd3d9wrap.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:32, 230608 bytes
+   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\nvdxgiwrap.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:02, 154520 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\detoured.dll, 2.01.0000.0224 (English), 3/25/2018 16:14:30, 29032 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\nvd3d9wrapx.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:36, 273704 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\nvdxgiwrapx.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:04, 182080 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\license.txt, 3/24/2018 01:19:20, 27203 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\MCU.exe, 1.01.5204.20580 (English), 3/25/2018 16:13:22, 858200 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvdebugdump.exe, 6.14.0013.9135 (English), 3/25/2018 16:14:20, 428288 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.1.pdf, 3/24/2018 01:19:20, 78094 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.exe, 8.17.0013.9135 (English), 3/25/2018 16:15:02, 519016 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvml.dll, 8.17.0013.9135 (English), 3/25/2018 16:15:52, 928696 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\OpenCL\OpenCL.dll, 2.00.0004.0000 (English), 3/25/2018 16:17:46, 447576 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\OpenCL\OpenCL64.dll, 2.00.0004.0000 (English), 3/25/2018 16:17:48, 541784 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvlddmkm.sys, 23.21.0013.9135 (English), 3/25/2018 16:15:46, 17544792 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nv-vk64.json, 3/24/2018 01:19:20, 669 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvd3dumx.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:44, 19144016 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvd3dumx_cfg.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:50, 19537424 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvinitx.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:32, 209128 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumdx.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:38, 949016 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvoglshim64.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:46, 184320 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvoglv64.dll, 23.21.0013.9135 (English), 3/25/2018 16:16:08, 35672992 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvumdshimx.dll, 23.21.0013.9135 (English), 3/25/2018 16:10:14, 591024 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvwgf2umx.dll, 23.21.0013.9135 (English), 3/25/2018 16:10:24, 29320768 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvwgf2umx_cfg.dll, 23.21.0013.9135 (English), 3/25/2018 16:10:32, 30160792 bytes
+   Driver: C:\WINDOWS\system32\NvFBC64.dll, 6.14.0013.9135 (English), 3/25/2018 16:14:42, 1138720 bytes
+   Driver: C:\WINDOWS\system32\NvIFR64.dll, 6.14.0013.9135 (English), 3/25/2018 16:15:30, 998424 bytes
+   Driver: C:\WINDOWS\system32\NvIFROpenGL.dll, 23.21.0013.9135 (English), 3/25/2018 16:15:34, 625504 bytes
+   Driver: C:\WINDOWS\system32\nvDecMFTMjpeg.dll, 23.21.0013.9135 (English), 3/25/2018 16:14:24, 749312 bytes
+   Driver: C:\WINDOWS\system32\nvEncMFTH264.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:10, 1346128 bytes
+   Driver: C:\WINDOWS\system32\nvEncMFThevc.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:16, 1355216 bytes
+   Driver: C:\WINDOWS\system32\nvEncodeAPI64.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:22, 811808 bytes
+   Driver: C:\WINDOWS\system32\nvapi64.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:20, 4633920 bytes
+   Driver: C:\WINDOWS\system32\nvcompiler.dll, 23.21.0013.9135 (English), 3/25/2018 16:13:58, 40278608 bytes
+   Driver: C:\WINDOWS\system32\nvcuda.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:28, 12967056 bytes
+   Driver: C:\WINDOWS\system32\nvcuvid.dll, 7.17.0013.9135 (English), 3/25/2018 16:14:16, 4318112 bytes
+   Driver: C:\WINDOWS\system32\nvfatbinaryLoader.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:28, 1153744 bytes
+   Driver: C:\WINDOWS\system32\nvinfo.pb, 3/24/2018 01:19:20, 48407 bytes
+   Driver: C:\WINDOWS\system32\nvmcumd.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:40, 633040 bytes
+   Driver: C:\WINDOWS\system32\nvopencl.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:54, 19855144 bytes
+   Driver: C:\WINDOWS\system32\nvptxJitCompiler.dll, 23.21.0013.9135 (English), 3/25/2018 16:10:06, 13571520 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nv-vk32.json, 3/24/2018 01:19:20, 669 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvd3dum.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:38, 15736160 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvd3dum_cfg.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:56, 16060264 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvinit.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:30, 182592 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumd.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:36, 790760 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvoglshim32.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:44, 156056 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvoglv32.dll, 23.21.0013.9135 (English), 3/25/2018 16:16:00, 28241768 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvumdshim.dll, 23.21.0013.9135 (English), 3/25/2018 16:10:10, 507904 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvwgf2um.dll, 23.21.0013.9135 (English), 3/25/2018 16:10:16, 24841952 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvwgf2um_cfg.dll, 23.21.0013.9135 (English), 3/25/2018 16:10:40, 25753144 bytes
+   Driver: C:\WINDOWS\SysWow64\NvFBC.dll, 6.14.0013.9135 (English), 3/25/2018 16:14:38, 1065888 bytes
+   Driver: C:\WINDOWS\SysWow64\NvIFR.dll, 6.14.0013.9135 (English), 3/25/2018 16:15:26, 950016 bytes
+   Driver: C:\WINDOWS\SysWow64\NvIFROpenGL.dll, 23.21.0013.9135 (English), 3/25/2018 16:15:32, 516024 bytes
+   Driver: C:\WINDOWS\SysWow64\nvDecMFTMjpeg.dll, 23.21.0013.9135 (English), 3/25/2018 16:14:22, 608344 bytes
+   Driver: C:\WINDOWS\SysWow64\nvEncMFTH264.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:08, 1061352 bytes
+   Driver: C:\WINDOWS\SysWow64\nvEncMFThevc.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:14, 1067560 bytes
+   Driver: C:\WINDOWS\SysWow64\nvEncodeAPI.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:18, 650232 bytes
+   Driver: C:\WINDOWS\SysWow64\nvapi.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:16, 3939624 bytes
+   Driver: C:\WINDOWS\SysWow64\nvcompiler.dll, 23.21.0013.9135 (English), 3/25/2018 16:13:50, 35188992 bytes
+   Driver: C:\WINDOWS\SysWow64\nvcuda.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:24, 11001504 bytes
+   Driver: C:\WINDOWS\SysWow64\nvcuvid.dll, 7.17.0013.9135 (English), 3/25/2018 16:14:14, 3719096 bytes
+   Driver: C:\WINDOWS\SysWow64\nvfatbinaryLoader.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:24, 902096 bytes
+   Driver: C:\WINDOWS\SysWow64\nvopencl.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:48, 16496776 bytes
+   Driver: C:\WINDOWS\SysWow64\nvptxJitCompiler.dll, 23.21.0013.9135 (English), 3/25/2018 16:10:00, 11132384 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\VulkanRT-Installer.exe, 1.00.0065.0001 (English), 3/25/2018 16:18:08, 989576 bytes
+   Driver: C:\WINDOWS\system32\nvdispco6439135.dll, 2.00.0049.0004 (English), 3/25/2018 16:14:34, 1985112 bytes
+   Driver: C:\WINDOWS\system32\nvdispgenco6439135.dll, 2.00.0026.0002 (English), 3/25/2018 16:14:36, 1683712 bytes
+
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel Target Address Decoder - 2FAD
+Device ID: PCI\VEN_8086&DEV_2FAD&SUBSYS_2FAD8086&REV_02\3&103A9D54&0&9D
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Ubox Registers - 2016
-Device ID: PCI\VEN_8086&DEV_2016&SUBSYS_00008086&REV_04\3&11583659&0&42
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 1 Target Address / Thermal / RAS Registers - 2F68
+Device ID: PCI\VEN_8086&DEV_2F68&SUBSYS_00000000&REV_02\3&103A9D54&0&B0
    Driver: n/a
 
-     Name: PCI standard ISA bridge
-Device ID: PCI\VEN_8086&DEV_A2D2&SUBSYS_81C5103C&REV_00\3&11583659&0&F8
-   Driver: C:\WINDOWS\system32\DRIVERS\msisadrv.sys, 10.00.17763.0771 (English), 10/23/2019 07:36:14, 18744 bytes
+     Name: Intel(R) C610 series/X99 chipset PCI Express Root Port #4 - 8D16
+Device ID: PCI\VEN_8086&DEV_8D16&SUBSYS_212A103C&REV_D5\3&11583659&0&E3
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:30:59, 422712 bytes
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 2054
-Device ID: PCI\VEN_8086&DEV_2054&SUBSYS_00008086&REV_04\3&2411E6FE&0&E8
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 System Address Decoder & Broadcast Registers - 2FFC
+Device ID: PCI\VEN_8086&DEV_2FFC&SUBSYS_2FE08086&REV_02\3&103A9D54&0&7C
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 DECS Channel 2 - 2048
-Device ID: PCI\VEN_8086&DEV_2048&SUBSYS_00008086&REV_04\3&36CB97A3&0&68
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel Target Address Decoder - 2FAB
+Device ID: PCI\VEN_8086&DEV_2FAB&SUBSYS_2FAB8086&REV_02\3&103A9D54&0&9B
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 DECS Channel 2 - 2048
-Device ID: PCI\VEN_8086&DEV_2048&SUBSYS_00008086&REV_04\3&36CB97A3&0&58
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Power Control Unit - 2F99
+Device ID: PCI\VEN_8086&DEV_2F99&SUBSYS_2F998086&REV_02\3&103A9D54&0&F1
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 PCU Registers - 2082
-Device ID: PCI\VEN_8086&DEV_2082&SUBSYS_00008086&REV_04\3&2411E6FE&0&F2
+     Name: Standard SATA AHCI Controller
+Device ID: PCI\VEN_8086&DEV_8D62&SUBSYS_212A103C&REV_05\3&11583659&0&8C
+   Driver: C:\WINDOWS\system32\DRIVERS\storahci.sys, 10.00.17763.0168 (English), 1/3/2019 11:16:14, 164344 bytes
+
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DDRIO (VMSE) 2 & 3 - 2FB8
+Device ID: PCI\VEN_8086&DEV_2FB8&SUBSYS_00000000&REV_02\3&103A9D54&0&BC
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Integrated Memory Controller - 2040
-Device ID: PCI\VEN_8086&DEV_2040&SUBSYS_00008086&REV_04\3&36CB97A3&0&60
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Target Address / Thermal / RAS Registers - 2FA8
+Device ID: PCI\VEN_8086&DEV_2FA8&SUBSYS_2FA88086&REV_02\3&103A9D54&0&98
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Integrated Memory Controller - 2040
-Device ID: PCI\VEN_8086&DEV_2040&SUBSYS_00008086&REV_04\3&36CB97A3&0&50
+     Name: High Definition Audio Controller
+Device ID: PCI\VEN_10DE&DEV_0FB0&SUBSYS_139619DA&REV_A1\4&2A43D483&0&0110
+   Driver: C:\WINDOWS\system32\DRIVERS\hdaudbus.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:15, 104960 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\drmk.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:15, 98304 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\portcls.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:15, 381440 bytes
+
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 R3 QPI Link 0 & 1 Monitoring - 2F37
+Device ID: PCI\VEN_8086&DEV_2F37&SUBSYS_2F378086&REV_02\3&103A9D54&0&5A
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&81
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Home Agent 0 - 2FA0
+Device ID: PCI\VEN_8086&DEV_2FA0&SUBSYS_2FA08086&REV_02\3&103A9D54&0&90
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&80
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 I/O APIC - 2F2C
+Device ID: PCI\VEN_8086&DEV_2F2C&SUBSYS_00008086&REV_02\3&11583659&0&2C
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&7F
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 VCU - 2F88
+Device ID: PCI\VEN_8086&DEV_2F88&SUBSYS_00000000&REV_02\3&103A9D54&0&F8
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&7E
+     Name: Intel(R) C610 series/X99 chipset USB Enhanced Host Controller #1 - 8D26
+Device ID: PCI\VEN_8086&DEV_8D26&SUBSYS_212A103C&REV_05\3&11583659&0&E8
+   Driver: C:\WINDOWS\system32\drivers\usbehci.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:19, 99128 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:19, 475960 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:19, 535352 bytes
+
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DDRIO Global Broadcast - 2F6F
+Device ID: PCI\VEN_8086&DEV_2F6F&SUBSYS_00000000&REV_02\3&103A9D54&0&B7
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&7D
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DDRIO (VMSE) 0 & 1 - 2FBF
+Device ID: PCI\VEN_8086&DEV_2FBF&SUBSYS_00000000&REV_02\3&103A9D54&0&A7
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&7C
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 1 Channel 0 Thermal Control - 2FD0
+Device ID: PCI\VEN_8086&DEV_2FD0&SUBSYS_00000000&REV_02\3&103A9D54&0&B8
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&7B
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DDRIO Channel 0/1 Broadcast - 2FAE
+Device ID: PCI\VEN_8086&DEV_2FAE&SUBSYS_00000000&REV_02\3&103A9D54&0&9E
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&7A
+     Name: Intel(R) C610 series/X99 chipset USB Enhanced Host Controller #2 - 8D2D
+Device ID: PCI\VEN_8086&DEV_8D2D&SUBSYS_212A103C&REV_05\3&11583659&0&D0
+   Driver: C:\WINDOWS\system32\drivers\usbehci.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:19, 99128 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:19, 475960 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:19, 535352 bytes
+
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Unicast Registers - 2FE4
+Device ID: PCI\VEN_8086&DEV_2FE4&SUBSYS_2FE48086&REV_02\3&103A9D54&0&64
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&79
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 System Address Decoder & Broadcast Registers - 2FFD
+Device ID: PCI\VEN_8086&DEV_2FFD&SUBSYS_2FE08086&REV_02\3&103A9D54&0&7D
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&78
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Unicast Registers - 2FE2
+Device ID: PCI\VEN_8086&DEV_2FE2&SUBSYS_2FE28086&REV_02\3&103A9D54&0&62
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&77
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DDRIO (VMSE) 2 & 3 - 2FBA
+Device ID: PCI\VEN_8086&DEV_2FBA&SUBSYS_00000000&REV_02\3&103A9D54&0&BE
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&76
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Unicast Registers - 2FE0
+Device ID: PCI\VEN_8086&DEV_2FE0&SUBSYS_2FE08086&REV_02\3&103A9D54&0&60
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&75
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Scratchpad & Semaphore Registers - 2F1E
+Device ID: PCI\VEN_8086&DEV_2F1E&SUBSYS_2F1E8086&REV_02\3&103A9D54&0&85
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&74
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Buffered Ring Agent - 2FF8
+Device ID: PCI\VEN_8086&DEV_2FF8&SUBSYS_00000000&REV_02\3&103A9D54&0&78
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&73
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel 2 ERROR Registers - 2FB6
+Device ID: PCI\VEN_8086&DEV_2FB6&SUBSYS_2FB68086&REV_02\3&103A9D54&0&AA
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&72
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel 2 Thermal Control - 2FB4
+Device ID: PCI\VEN_8086&DEV_2FB4&SUBSYS_2FB48086&REV_02\3&103A9D54&0&A8
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&71
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 PCI Express Root Port 2 - 2F04
+Device ID: PCI\VEN_8086&DEV_2F04&SUBSYS_00008086&REV_02\3&11583659&0&10
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:30:59, 422712 bytes
+
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DDRIO (VMSE) 2 & 3 - 2FB9
+Device ID: PCI\VEN_8086&DEV_2FB9&SUBSYS_00000000&REV_02\3&103A9D54&0&BD
    Driver: n/a
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 208E
-Device ID: PCI\VEN_8086&DEV_208E&SUBSYS_00008086&REV_04\3&2411E6FE&0&70
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 2057
-Device ID: PCI\VEN_8086&DEV_2057&SUBSYS_00008086&REV_04\3&2411E6FE&0&EB
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 PCU Registers - 2085
-Device ID: PCI\VEN_8086&DEV_2085&SUBSYS_00008086&REV_04\3&2411E6FE&0&F5
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Integrated Memory Controller - 2043
-Device ID: PCI\VEN_8086&DEV_2043&SUBSYS_00008086&REV_04\3&36CB97A3&0&63
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Integrated Memory Controller - 2043
-Device ID: PCI\VEN_8086&DEV_2043&SUBSYS_00008086&REV_04\3&36CB97A3&0&53
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Intel VT - D - 2034
-Device ID: PCI\VEN_8086&DEV_2034&SUBSYS_00000000&REV_04\3&3AA59A3&0&28
-   Driver: n/a
-
-     Name: NVIDIA USB 3.10 eXtensible Host Controller - 1.10 (Microsoft)
-Device ID: PCI\VEN_10DE&DEV_1AD8&SUBSYS_37C11458&REV_A1\4&1F221E6C&0&0200
-   Driver: C:\WINDOWS\system32\DRIVERS\USBXHCI.SYS, 10.00.17763.0592 (English), 7/16/2019 13:28:00, 467984 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\UMDF\UsbXhciCompanion.dll, 10.00.17763.0001 (English), 9/15/2018 07:28:19, 130720 bytes
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 PCI Express Root Port 1D - 2033
-Device ID: PCI\VEN_8086&DEV_2033&SUBSYS_00008086&REV_04\3&3AA59A3&0&18
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:27:45, 422712 bytes
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 RAS Configuration Registers - 2035
-Device ID: PCI\VEN_8086&DEV_2035&SUBSYS_00000000&REV_04\3&3AA59A3&0&2A
-   Driver: n/a
-
-     Name: Intel(R) Ethernet Connection (2) I219-V
-Device ID: PCI\VEN_8086&DEV_15B8&SUBSYS_81C5103C&REV_00\3&11583659&0&FE
+     Name: Intel(R) Ethernet Connection (2) I218-LM
+Device ID: PCI\VEN_8086&DEV_15A0&SUBSYS_2129103C&REV_05\3&11583659&0&C8
    Driver: C:\WINDOWS\system32\DRIVERS\e1d65x64.sys, 12.17.0008.0009 (English), 1/31/2018 10:46:16, 555560 bytes
    Driver: C:\WINDOWS\system32\e1d65x64.din, 1/31/2018 10:46:16, 3130 bytes
    Driver: C:\WINDOWS\system32\NicCo4.dll, 4.02.0003.0000 (English), 1/31/2018 10:46:16, 134416 bytes
    Driver: C:\WINDOWS\system32\NicInstD.dll, 9.12.0020.0000 (English), 1/31/2018 10:46:16, 100304 bytes
    Driver: C:\WINDOWS\system32\e1dmsg.dll, 10.00.0768.0000 (English), 1/31/2018 10:46:16, 88616 bytes
 
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Intel VT - D - 2034
-Device ID: PCI\VEN_8086&DEV_2034&SUBSYS_00000000&REV_04\3&2411E6FE&0&28
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel 0 ERROR Registers - 2FB2
+Device ID: PCI\VEN_8086&DEV_2FB2&SUBSYS_2FB28086&REV_02\3&103A9D54&0&A2
    Driver: n/a
 
-     Name: Intel Chipset SATA RAID Controller
-Device ID: PCI\VEN_8086&DEV_2826&SUBSYS_81C5103C&REV_00\3&11583659&0&B8
-   Driver: C:\WINDOWS\system32\DRIVERS\iaStorAVC.sys, 15.44.0000.1010 (English), 9/15/2018 07:28:18, 885048 bytes
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 MM/Vt - d Configuration Registers - 2024
-Device ID: PCI\VEN_8086&DEV_2024&SUBSYS_00000000&REV_04\3&11583659&0&28
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Target Address / Thermal / RAS Registers - 2F71
+Device ID: PCI\VEN_8086&DEV_2F71&SUBSYS_2F718086&REV_02\3&103A9D54&0&99
    Driver: n/a
 
-     Name: Intel(R) SPI Controller - A2A4
-Device ID: PCI\VEN_8086&DEV_A2A4&SUBSYS_00000000&REV_00\3&11583659&0&FD
+     Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel 0 Thermal Control - 2FB0
+Device ID: PCI\VEN_8086&DEV_2FB0&SUBSYS_2FB08086&REV_02\3&103A9D54&0&A0
    Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Ubox Registers - 2014
-Device ID: PCI\VEN_8086&DEV_2014&SUBSYS_00008086&REV_04\3&11583659&0&40
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 LMS Channel 1 - 2046
-Device ID: PCI\VEN_8086&DEV_2046&SUBSYS_00008086&REV_04\3&36CB97A3&0&66
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 LMS Channel 1 - 2046
-Device ID: PCI\VEN_8086&DEV_2046&SUBSYS_00008086&REV_04\3&36CB97A3&0&56
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 PCU Registers - 2080
-Device ID: PCI\VEN_8086&DEV_2080&SUBSYS_00008086&REV_04\3&2411E6FE&0&F0
-   Driver: n/a
-
-     Name: Intel(R) Management Engine Interface 
-Device ID: PCI\VEN_8086&DEV_A2BA&SUBSYS_19998086&REV_00\3&11583659&0&B0
-   Driver: C:\WINDOWS\system32\DRIVERS\TeeDriverW8x64.sys, 1815.12.0000.2021 (English), 5/6/2018 07:52:26, 228992 bytes
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 LMS Channel 2 - 204A
-Device ID: PCI\VEN_8086&DEV_204A&SUBSYS_00008086&REV_04\3&36CB97A3&0&6A
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 LMS Channel 2 - 204A
-Device ID: PCI\VEN_8086&DEV_204A&SUBSYS_00008086&REV_04\3&36CB97A3&0&5A
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Intel VT - D - 2034
-Device ID: PCI\VEN_8086&DEV_2034&SUBSYS_00000000&REV_04\3&36CB97A3&0&28
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 PCI Express Root Port 1A - 2030
-Device ID: PCI\VEN_8086&DEV_2030&SUBSYS_00008086&REV_04\3&2411E6FE&0&00
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:27:45, 422712 bytes
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 IOxAPIC Configuration Registers - 2036
-Device ID: PCI\VEN_8086&DEV_2036&SUBSYS_00008086&REV_04\3&3AA59A3&0&2C
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 CHA Registers - 2055
-Device ID: PCI\VEN_8086&DEV_2055&SUBSYS_00008086&REV_04\3&2411E6FE&0&E9
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 LM Channel 2 - 2049
-Device ID: PCI\VEN_8086&DEV_2049&SUBSYS_00008086&REV_04\3&36CB97A3&0&69
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 LM Channel 2 - 2049
-Device ID: PCI\VEN_8086&DEV_2049&SUBSYS_00008086&REV_04\3&36CB97A3&0&59
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 PCU Registers - 2083
-Device ID: PCI\VEN_8086&DEV_2083&SUBSYS_00008086&REV_04\3&2411E6FE&0&F3
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 M3KTI Registers - 204C
-Device ID: PCI\VEN_8086&DEV_204C&SUBSYS_00008086&REV_04\3&3AA59A3&0&90
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Integrated Memory Controller - 2041
-Device ID: PCI\VEN_8086&DEV_2041&SUBSYS_00008086&REV_04\3&36CB97A3&0&61
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Integrated Memory Controller - 2041
-Device ID: PCI\VEN_8086&DEV_2041&SUBSYS_00008086&REV_04\3&36CB97A3&0&51
-   Driver: n/a
-
-     Name: High Definition Audio Controller
-Device ID: PCI\VEN_8086&DEV_A2F0&SUBSYS_81C5103C&REV_00\3&11583659&0&FB
-   Driver: C:\WINDOWS\system32\DRIVERS\hdaudbus.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:15, 104960 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\drmk.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:15, 98304 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\portcls.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:15, 381440 bytes
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Integrated Memory Controller - 2066
-Device ID: PCI\VEN_8086&DEV_2066&SUBSYS_00008086&REV_04\3&36CB97A3&0&48
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Integrated Memory Controller - 2066
-Device ID: PCI\VEN_8086&DEV_2066&SUBSYS_00008086&REV_04\3&36CB97A3&0&40
-   Driver: n/a
-
-     Name: Intel(R) Thermal subsystem - A2B1
-Device ID: PCI\VEN_8086&DEV_A2B1&SUBSYS_81C5103C&REV_00\3&11583659&0&A2
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 PCI Express Root Port 1A - 2030
-Device ID: PCI\VEN_8086&DEV_2030&SUBSYS_00008086&REV_04\3&36CB97A3&0&00
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.1007 (English), 2/26/2020 08:27:45, 422712 bytes
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 M3KTI Registers - 204D
-Device ID: PCI\VEN_8086&DEV_204D&SUBSYS_00008086&REV_04\3&3AA59A3&0&91
-   Driver: n/a
-
-     Name: PCI Device
-Device ID: PCI\VEN_10DE&DEV_1AD9&SUBSYS_37C11458&REV_A1\4&1F221E6C&0&0300
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 PCU Registers - 2086
-Device ID: PCI\VEN_8086&DEV_2086&SUBSYS_00008086&REV_04\3&2411E6FE&0&F6
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 M3KTI Registers - 204E
-Device ID: PCI\VEN_8086&DEV_204E&SUBSYS_00008086&REV_04\3&3AA59A3&0&92
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Integrated Memory Controller - 2044
-Device ID: PCI\VEN_8086&DEV_2044&SUBSYS_00008086&REV_04\3&36CB97A3&0&64
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Integrated Memory Controller - 2044
-Device ID: PCI\VEN_8086&DEV_2044&SUBSYS_00008086&REV_04\3&36CB97A3&0&54
-   Driver: n/a
-
-     Name: NVIDIA GeForce RTX 2080
-Device ID: PCI\VEN_10DE&DEV_1E82&SUBSYS_37C11458&REV_A1\4&1F221E6C&0&0000
-   Driver: C:\WINDOWS\system32\DRIVERS\NVIDIA Corporation\Drs\dbInstaller.exe, 26.21.0014.3170 (English), 7/25/2019 14:29:02, 733064 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\NVIDIA Corporation\Drs\nvdrsdb.bin, 7/24/2019 22:46:08, 1589488 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\NvContainerSetup.exe, 1.00.0010.0000 (English), 7/25/2019 14:29:56, 4551320 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\NvCplSetupInt.exe, 1.00.0010.0000 (English), 7/25/2019 14:29:58, 102590664 bytes
-   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\detoured.dll, 2.01.0000.0224 (English), 7/25/2019 14:30:22, 29576 bytes
-   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\nvd3d9wrap.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:14, 236992 bytes
-   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\nvdxgiwrap.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:32, 162696 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\detoured.dll, 2.01.0000.0224 (English), 7/25/2019 14:30:24, 29904 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\nvd3d9wrapx.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:16, 279760 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\nvdxgiwrapx.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:34, 189184 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\license.txt, 7/24/2019 22:46:08, 27203 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\MCU.exe, 1.01.5204.20580 (English), 7/25/2019 14:29:22, 858048 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvdebugdump.exe, 6.14.0014.3170 (English), 7/25/2019 14:30:18, 449928 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.1.pdf, 7/24/2019 22:46:08, 104564 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.exe, 8.17.0014.3170 (English), 7/25/2019 14:31:00, 572616 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvml.dll, 8.17.0014.3170 (English), 7/25/2019 14:31:34, 1004744 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvopencl32.dll, 26.21.0014.3170 (English), 7/25/2019 14:32:04, 29849344 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvopencl64.dll, 26.21.0014.3170 (English), 7/25/2019 14:32:10, 35354200 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvlddmkm.sys, 26.21.0014.3170 (English), 7/25/2019 14:31:28, 22086592 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nv-vk64.json, 7/24/2019 22:46:08, 669 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvDecMFTMjpeg.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:18, 611720 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvDecMFTMjpegx.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:20, 754056 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvEncMFTH264.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:36, 1141640 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvEncMFTH264x.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:38, 1452480 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvEncMFThevc.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:40, 1147592 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvEncMFThevcx.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:42, 1463176 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvcbl64.dll, 26.21.0014.3170 (English), 7/25/2019 14:29:38, 525568 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvd3dumx.dll, 26.21.0014.3170 (English), 7/25/2019 17:23:48, 21867960 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvd3dumx_cfg.dll, 26.21.0014.3170 (English), 7/25/2019 17:23:52, 22057728 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvdlistx.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:30, 201424 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvinitx.dll, 26.21.0014.3170 (English), 7/25/2019 14:31:26, 216456 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvldumdx.dll, 26.21.0014.3170 (English), 7/25/2019 17:24:02, 959336 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvoglshim64.dll, 26.21.0014.3170 (English), 7/25/2019 14:31:46, 191880 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvoglv64.dll, 26.21.0014.3170 (English), 7/25/2019 14:31:54, 40986504 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvoptix.dll, 6.01.0002.0000 (English), 7/25/2019 14:32:16, 70434392 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvrtum64.dll, 26.21.0014.3170 (English), 7/25/2019 14:32:38, 24276688 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvumdshimx.dll, 26.21.0014.3170 (English), 7/25/2019 14:32:50, 604416 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvwgf2umx.dll, 26.21.0014.3170 (English), 7/25/2019 17:24:10, 39575840 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvwgf2umx_cfg.dll, 26.21.0014.3170 (English), 7/25/2019 17:24:20, 40063896 bytes
-   Driver: C:\WINDOWS\system32\NvFBC64.dll, 6.14.0014.3170 (English), 7/25/2019 14:30:52, 2041792 bytes
-   Driver: C:\WINDOWS\system32\NvIFR64.dll, 6.14.0014.3170 (English), 7/25/2019 14:31:16, 1472208 bytes
-   Driver: C:\WINDOWS\system32\NvIFROpenGL.dll, 26.21.0014.3170 (English), 7/25/2019 14:31:18, 633552 bytes
-   Driver: C:\WINDOWS\system32\OpenCL.dll, 2.02.0001.0000 (English), 7/25/2019 14:33:54, 551872 bytes
-   Driver: C:\WINDOWS\system32\nvEncodeAPI64.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:46, 810888 bytes
-   Driver: C:\WINDOWS\system32\nvapi64.dll, 26.21.0014.3170 (English), 7/25/2019 17:23:40, 5087208 bytes
-   Driver: C:\WINDOWS\system32\nvcompiler.dll, 26.21.0014.3170 (English), 7/25/2019 14:29:48, 40412552 bytes
-   Driver: C:\WINDOWS\system32\nvcuda.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:04, 20193992 bytes
-   Driver: C:\WINDOWS\system32\nvcuvid.dll, 7.17.0014.3170 (English), 7/25/2019 14:30:12, 5425408 bytes
-   Driver: C:\WINDOWS\system32\nvfatbinaryLoader.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:50, 1163984 bytes
-   Driver: C:\WINDOWS\system32\nvinfo.pb, 7/24/2019 22:46:08, 52612 bytes
-   Driver: C:\WINDOWS\system32\nvmcumd.dll, 26.21.0014.3170 (English), 7/25/2019 14:31:32, 822480 bytes
-   Driver: C:\WINDOWS\system32\nvofapi64.dll, 7/25/2019 14:31:42, 677256 bytes
-   Driver: C:\WINDOWS\system32\nvptxJitCompiler.dll, 26.21.0014.3170 (English), 7/25/2019 14:32:34, 11059344 bytes
-   Driver: C:\WINDOWS\system32\vulkan-1-999-0-0-0.dll, 1.01.0097.0000 (English), 7/25/2019 14:34:02, 1006800 bytes
-   Driver: C:\WINDOWS\system32\vulkan-1.dll, 1.01.0097.0000 (English), 7/25/2019 14:34:02, 1006800 bytes
-   Driver: C:\WINDOWS\system32\vulkaninfo-1-999-0-0-0.exe, 1.01.0097.0000 (English), 7/25/2019 14:34:06, 286416 bytes
-   Driver: C:\WINDOWS\system32\vulkaninfo.exe, 1.01.0097.0000 (English), 7/25/2019 14:34:06, 286416 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\DisplayDriverRAS.dll, 1.10.0000.0000 (English), 7/25/2019 14:29:06, 2622664 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nv-vk32.json, 7/24/2019 22:46:08, 669 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nv_Icc_AdvancedColor_Identity.icm, 7/24/2019 22:46:08, 3288 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvd3dum.dll, 26.21.0014.3170 (English), 7/25/2019 17:23:42, 18268600 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvd3dum_cfg.dll, 26.21.0014.3170 (English), 7/25/2019 17:23:56, 18610232 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvdlist.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:28, 176328 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvinit.dll, 26.21.0014.3170 (English), 7/25/2019 14:31:24, 190160 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvldumd.dll, 26.21.0014.3170 (English), 7/25/2019 17:24:00, 801408 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvoglshim32.dll, 26.21.0014.3170 (English), 7/25/2019 14:31:44, 163720 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvoglv32.dll, 26.21.0014.3170 (English), 7/25/2019 14:31:48, 30450568 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvumdshim.dll, 26.21.0014.3170 (English), 7/25/2019 14:32:48, 522632 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvwgf2um.dll, 26.21.0014.3170 (English), 7/25/2019 17:24:04, 34106032 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\nvwgf2um_cfg.dll, 26.21.0014.3170 (English), 7/25/2019 17:24:28, 34841640 bytes
-   Driver: C:\WINDOWS\SysWow64\NvFBC.dll, 6.14.0014.3170 (English), 7/25/2019 14:30:50, 1543424 bytes
-   Driver: C:\WINDOWS\SysWow64\NvIFR.dll, 6.14.0014.3170 (English), 7/25/2019 14:31:14, 1135552 bytes
-   Driver: C:\WINDOWS\SysWow64\NvIFROpenGL.dll, 26.21.0014.3170 (English), 7/25/2019 14:31:18, 523976 bytes
-   Driver: C:\WINDOWS\SysWow64\OpenCL.dll, 2.02.0001.0000 (English), 7/25/2019 14:33:52, 456904 bytes
-   Driver: C:\WINDOWS\SysWow64\nvEncodeAPI.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:44, 656584 bytes
-   Driver: C:\WINDOWS\SysWow64\nvapi.dll, 26.21.0014.3170 (English), 7/25/2019 17:23:38, 4342528 bytes
-   Driver: C:\WINDOWS\SysWow64\nvcompiler.dll, 26.21.0014.3170 (English), 7/25/2019 14:29:40, 35269568 bytes
-   Driver: C:\WINDOWS\SysWow64\nvcuda.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:00, 17471368 bytes
-   Driver: C:\WINDOWS\SysWow64\nvcuvid.dll, 7.17.0014.3170 (English), 7/25/2019 14:30:10, 4767488 bytes
-   Driver: C:\WINDOWS\SysWow64\nvfatbinaryLoader.dll, 26.21.0014.3170 (English), 7/25/2019 14:30:48, 914312 bytes
-   Driver: C:\WINDOWS\SysWow64\nvofapi.dll, 7/25/2019 14:31:40, 544128 bytes
-   Driver: C:\WINDOWS\SysWow64\nvptxJitCompiler.dll, 26.21.0014.3170 (English), 7/25/2019 14:32:32, 9492896 bytes
-   Driver: C:\WINDOWS\SysWow64\vulkan-1-999-0-0-0.dll, 1.01.0097.0000 (English), 7/25/2019 14:34:04, 870096 bytes
-   Driver: C:\WINDOWS\SysWow64\vulkan-1.dll, 1.01.0097.0000 (English), 7/25/2019 14:34:04, 870096 bytes
-   Driver: C:\WINDOWS\SysWow64\vulkaninfo-1-999-0-0-0.exe, 1.01.0097.0000 (English), 7/25/2019 14:34:08, 260304 bytes
-   Driver: C:\WINDOWS\SysWow64\vulkaninfo.exe, 1.01.0097.0000 (English), 7/25/2019 14:34:08, 260304 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispsi.inf_amd64_bc5f9e8455cb216b\NvTelemetry64.dll, 14.03.0015.0000 (English), 7/25/2019 14:32:48, 4417928 bytes
-   Driver: C:\WINDOWS\system32\nvdispco6443170.dll, 2.00.0055.0000 (English), 7/25/2019 14:30:26, 1721600 bytes
-   Driver: C:\WINDOWS\system32\nvdispgenco6443170.dll, 2.00.0027.0002 (English), 7/25/2019 14:30:26, 1468104 bytes
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 IOxAPIC Configuration Registers - 2036
-Device ID: PCI\VEN_8086&DEV_2036&SUBSYS_00008086&REV_04\3&2411E6FE&0&2C
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 IOAPIC - 2026
-Device ID: PCI\VEN_8086&DEV_2026&SUBSYS_00008086&REV_04\3&11583659&0&2C
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 RAS Configuration Registers - 2035
-Device ID: PCI\VEN_8086&DEV_2035&SUBSYS_00000000&REV_04\3&2411E6FE&0&2A
-   Driver: n/a
-
-     Name: Intel(R) SMBUS - A2A3
-Device ID: PCI\VEN_8086&DEV_A2A3&SUBSYS_81C5103C&REV_00\3&11583659&0&FC
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 RAS - 2025
-Device ID: PCI\VEN_8086&DEV_2025&SUBSYS_00000000&REV_04\3&11583659&0&2A
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 Ubox Registers - 2015
-Device ID: PCI\VEN_8086&DEV_2015&SUBSYS_00008086&REV_04\3&11583659&0&41
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 M2PCI Registers - 2018
-Device ID: PCI\VEN_8086&DEV_2018&SUBSYS_00000000&REV_04\3&3AA59A3&0&B8
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 LMDP Channel 1 - 2047
-Device ID: PCI\VEN_8086&DEV_2047&SUBSYS_00008086&REV_04\3&36CB97A3&0&67
-   Driver: n/a
-
-     Name: Intel(R) Xeon(R) processor P family/Core i7 LMDP Channel 1 - 2047
-Device ID: PCI\VEN_8086&DEV_2047&SUBSYS_00008086&REV_04\3&36CB97A3&0&57
-   Driver: n/a
-
-     Name: Intel(R) USB 3.0 eXtensible Host Controller - 1.0 (Microsoft)
-Device ID: PCI\VEN_8086&DEV_A2AF&SUBSYS_81C5103C&REV_00\3&11583659&0&A0
-   Driver: C:\WINDOWS\system32\DRIVERS\USBXHCI.SYS, 10.00.17763.0592 (English), 7/16/2019 13:28:00, 467984 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\UMDF\UsbXhciCompanion.dll, 10.00.17763.0001 (English), 9/15/2018 07:28:19, 130720 bytes
 
 ------------------
 DirectShow Filters
@@ -1157,7 +979,6 @@ Realtek HD Audio Stereo input,0x00200000,1,1,ksproxy.ax,10.00.17763.0001
 
 WDM Streaming Rendering Devices:
 Realtek HD Audio output,0x00200000,1,1,ksproxy.ax,10.00.17763.0001
-Realtek HD Audio 2nd output,0x00200000,1,1,ksproxy.ax,10.00.17763.0001
 
 BDA Network Providers:
 Microsoft ATSC Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.17763.0001
@@ -1262,7 +1083,7 @@ Media Foundation Transforms
   <transform friendly name>, <transform CLSID>, <flags>, [<merit>, ]<file name>, <file version>
 
 Video Decoders:
-  NVIDIA MJPEG Video Decoder MFT, {70F36578-2741-454F-B494-E8563DDD1CB4}, 0x4, 8, nvDecMFTMjpegx.dll, 26.21.0014.3170
+  NVIDIA MJPEG Video Decoder MFT, {70F36578-2741-454F-B494-E8563DDD1CB4}, 0x4, 8, nvDecMFTMjpeg.dll, 23.21.0013.9135
   Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.17763.1039
   DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}, 0x1, mfdvdec.dll, 10.00.17763.0001
   Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT, 0x1, mp4sdecd.dll, 10.00.17763.0001
@@ -1276,8 +1097,8 @@ Video Decoders:
   WebpImageExtension
   HEIFImageExtension
 Video Encoders:
-  NVIDIA H.264 Encoder MFT, {60F44560-5A20-4857-BFEF-D29773CB8040}, 0x4, 8, nvEncMFTH264x.dll, 26.21.0014.3170
-  NVIDIA HEVC Encoder MFT, {966F107C-8EA2-425D-B822-E4A71BEF01D7}, 0x4, 8, nvEncMFThevcx.dll, 26.21.0014.3170
+  NVIDIA H.264 Encoder MFT, {60F44560-5A20-4857-BFEF-D29773CB8040}, 0x4, 8, nvEncMFTH264.dll, 23.21.0013.9135
+  NVIDIA HEVC Encoder MFT, {966F107C-8EA2-425D-B822-E4A71BEF01D7}, 0x4, 8, nvEncMFThevc.dll, 23.21.0013.9135
   H264 Encoder MFT, {6CA50344-051A-4DED-9779-A43305165E35}, 0x1, mfh264enc.dll, 10.00.17763.0592
   WMVideo8 Encoder MFT, CLSID_CWMVXEncMediaObject, 0x1, wmvxencd.dll, 10.00.17763.0001
   H263 Encoder MFT, {BC47FCFE-98A0-4F27-BB07-698AF24F2B38}, 0x1, mfh263enc.dll, 10.00.17763.0001
@@ -1596,6 +1417,120 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
+Fault bucket , type 0
+Event Name: AppHangTransient
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Substance Painter.exe
+P2: 2019.1.2.0
+P3: 5ce40c2c
+P4: unknown
+P5: unknown
+P6: unknown
+P7: unknown
+P8: 
+P9: 
+P10: 
+
+
++++ WER1 +++:
+Fault bucket 2124441367060051940, type 5
+Event Name: AppHangB1
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Substance Painter.exe
+P2: 2019.1.2.0
+P3: 5ce40c2c
+P4: 6614
+P5: 134217728
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER2 +++:
+Fault bucket , type 0
+Event Name: POFContextAppCrash
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 2020.19081.28230.0
+P4: 0x802b000a
+P5: 181c20dcd54746f3fd4e14972fcc7545
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER3 +++:
+Fault bucket , type 0
+Event Name: POFContextAppCrash
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 2020.19081.28230.0
+P4: 0x802b000a
+P5: 181c20dcd54746f3fd4e14972fcc7545
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER4 +++:
+Fault bucket , type 0
+Event Name: POFContextAppCrash
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 2020.19081.28230.0
+P4: 0x802b000a
+P5: 181c20dcd54746f3fd4e14972fcc7545
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER5 +++:
+Fault bucket , type 0
+Event Name: POFContextAppCrash
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 2020.19081.28230.0
+P4: 0x802b000a
+P5: 181c20dcd54746f3fd4e14972fcc7545
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER6 +++:
 Fault bucket 1526600589659561061, type 5
 Event Name: MoAppCrash
 Response: Not available
@@ -1614,173 +1549,59 @@ P9: 000000000002cb2a
 P10: 
 
 
-+++ WER1 +++:
-Fault bucket 1805040528189424260, type 4
-Event Name: APPCRASH
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: svchost.exe_AppReadiness
-P2: 10.0.17763.1
-P3: b900eeff
-P4: PGHook.dll
-P5: 5.2.21.0
-P6: 5b76d269
-P7: c00000fd
-P8: 000000000009294c
-P9: 
-P10: 
-
-
-+++ WER2 +++:
-Fault bucket 1241730902384018836, type 5
-Event Name: RADAR_PRE_LEAK_64
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: googleearth.exe
-P2: 7.3.2.5776
-P3: 10.0.17763.2.0.0
-P4: 
-P5: 
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
-
-
-+++ WER3 +++:
-Fault bucket 1899158926991099776, type 4
-Event Name: APPCRASH
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: googleearth.exe
-P2: 0.0.0.0
-P3: 5c7dc975
-P4: KERNELBASE.dll
-P5: 10.0.17763.914
-P6: fb6790ac
-P7: c06d007e
-P8: 0000000000039159
-P9: 
-P10: 
-
-
-+++ WER4 +++:
-Fault bucket 1407747373434718985, type 4
-Event Name: APPCRASH
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: svchost.exe_AppReadiness
-P2: 10.0.17763.1
-P3: b900eeff
-P4: PGHook.dll
-P5: 5.2.21.0
-P6: 5b76d269
-P7: c00000fd
-P8: 0000000000090066
-P9: 
-P10: 
-
-
-+++ WER5 +++:
-Fault bucket , type 0
-Event Name: APPCRASH
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: svchost.exe_AppReadiness
-P2: 10.0.17763.1
-P3: b900eeff
-P4: PGHook.dll
-P5: 5.2.21.0
-P6: 5b76d269
-P7: c00000fd
-P8: 0000000000090066
-P9: 
-P10: 
-
-
-+++ WER6 +++:
-Fault bucket , type 0
-Event Name: APPCRASH
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: svchost.exe_AppReadiness
-P2: 10.0.17763.1
-P3: b900eeff
-P4: PGHook.dll
-P5: 5.2.21.0
-P6: 5b76d269
-P7: c00000fd
-P8: 0000000000090066
-P9: 
-P10: 
-
-
 +++ WER7 +++:
 Fault bucket , type 0
-Event Name: APPCRASH
+Event Name: VisualStudioNonFatalErrors2
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: svchost.exe_AppReadiness
-P2: 10.0.17763.1
-P3: b900eeff
-P4: PGHook.dll
-P5: 5.2.21.0
-P6: 5b76d269
-P7: c00000fd
-P8: 0000000000090066
-P9: 
-P10: 
+P1: VSIXAutoUpdate.exe
+P2: 16.3.2099.32382
+P3: vs.telemetry.internalfault
+P4: System.IO.FileLoadException
+P5: Microsoft.VisualStudio.Telemetry
+P6: Microsoft.VisualStudio.ApplicationInsights.Channel.UniversalTelemetryChannel.IsAvailable
+P7: _
+P8: _
+P9: _
+P10: _
 
 
 +++ WER8 +++:
-Fault bucket , type 0
-Event Name: APPCRASH
+Fault bucket 1950924221996841399, type 5
+Event Name: VisualStudioNonFatalErrors2
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: svchost.exe_AppReadiness
-P2: 10.0.17763.1
-P3: b900eeff
-P4: PGHook.dll
-P5: 5.2.21.0
-P6: 5b76d269
-P7: c00000fd
-P8: 0000000000090066
-P9: 
-P10: 
+P1: VSIXAutoUpdate.exe
+P2: 16.3.2099.32382
+P3: vs.telemetry.internalfault
+P4: System.IO.FileLoadException
+P5: Microsoft.VisualStudio.Telemetry
+P6: Microsoft.VisualStudio.ApplicationInsights.Channel.UniversalTelemetryChannel.IsAvailable
+P7: _
+P8: _
+P9: _
+P10: _
 
 
 +++ WER9 +++:
 Fault bucket , type 0
-Event Name: APPCRASH
+Event Name: POFContextAppCrash
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: svchost.exe_AppReadiness
-P2: 10.0.17763.1
-P3: b900eeff
-P4: PGHook.dll
-P5: 5.2.21.0
-P6: 5b76d269
-P7: c00000fd
-P8: 0000000000090066
+P1: Microsoft.Windows.Photos_2020.19081.28230.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 2020.19081.28230.0
+P4: 0x802b000a
+P5: 181c20dcd54746f3fd4e14972fcc7545
+P6: 
+P7: 
+P8: 
 P9: 
 P10: 
 
