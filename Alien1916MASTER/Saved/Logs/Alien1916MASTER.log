@@ -1019,3 +1019,504 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.30-12.15.11:471][617]LogPlayLevel: Display: Destroying online subsystem :Context_30
 [2020.04.30-12.15.22:288][160]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/BP_Soldier175A88204D7F9F35F22C47A725516DD0.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/Characters/Soldier_Test/Character/BP_Soldier.uasset'
 [2020.04.30-12.16.43:521][176]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/FullLevelStreamedC080A55046AB95F06C4B5798C0AE830C.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level1/FullLevelStreamed.umap'
+[2020.04.30-12.17.51:766][678]LogEditorViewport: Clicking on Actor (LMB): BP_Soldier_AB_C (BP_Soldier_AB7)
+[2020.04.30-12.18.00:576][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.30-12.18.00:585][106]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.30-12.18.05:618][342]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Soldier_Test_Skeleton, removing AnimBP from actor.
+[2020.04.30-12.18.18:709][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.30-12.18.18:715][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.04.30-12.18.18:715][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.04.30-12.18.18:715][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.04.30-12.18.18:715][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.04.30-12.18.18:715][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.04.30-12.18.18:716][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.04.30-12.18.18:716][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.30-12.18.18:809][ 13]PIE: New page: PIE session: FullLevelStreamed (30 Apr 2020 14:18:18)
+[2020.04.30-12.18.18:818][ 13]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed
+[2020.04.30-12.18.18:911][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093788s)
+[2020.04.30-12.18.18:978][ 13]LogAIModule: Creating AISystem for world FullLevelStreamed
+[2020.04.30-12.18.19:011][ 13]LogPlayLevel: PIE: World Init took: (0.099793s)
+[2020.04.30-12.18.19:012][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed to /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed.FullLevelStreamed (0.194283s)
+[2020.04.30-12.18.19:058][ 13]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.30-12.18.19:104][ 13]LogInit: FAudioDevice initialized.
+[2020.04.30-12.18.19:168][ 13]LogLoad: Game class is 'BP_MainGameMode_AB_C'
+[2020.04.30-12.18.19:184][ 13]LogWorld: Bringing World /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed.FullLevelStreamed up for play (max tick rate 60) at 2020.04.30-13.18.19
+[2020.04.30-12.18.19:238][ 13]LogWorld: Bringing up level for play took: 0.068426
+[2020.04.30-12.18.19:313][ 13]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Armory 1 1 1
+[2020.04.30-12.18.19:313][ 13]PIE: Play in editor start time for /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed 0.733
+[2020.04.30-12.18.19:314][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.04.30-12.18.19:314][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.04.30-12.18.19:314][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.04.30-12.18.19:314][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.04.30-12.18.19:314][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.04.30-12.18.19:314][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.04.30-12.18.19:400][ 14]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_StartingArea 1 1 1
+[2020.04.30-12.18.19:539][ 15]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Cafeteria 1 1 1
+[2020.04.30-12.18.19:661][ 16]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Barraks 1 1 1
+[2020.04.30-12.18.19:796][ 17]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Corridor 1 1 1
+[2020.04.30-12.18.25:930][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-12.18.26:000][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.04.30-12.18.26:000][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.04.30-12.18.26:000][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.04.30-12.18.26:000][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.04.30-12.18.26:000][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.04.30-12.18.26:000][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.04.30-12.18.26:001][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-12.18.26:167][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.30-12.18.26:167][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.04.30-12.18.26:167][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.04.30-12.18.26:167][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.04.30-12.18.26:167][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.04.30-12.18.26:168][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.04.30-12.18.26:168][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.04.30-12.18.26:233][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-12.18.26:323][333]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.04.30-12.18.27:229][377]LogEditorViewport: Clicking on Actor (LMB): BP_Soldier_C (BP_Soldier)
+[2020.04.30-12.18.28:453][435]Cmd: DELETE
+[2020.04.30-12.18.28:459][435]Cmd: ACTOR DELETE
+[2020.04.30-12.18.29:190][435]LogEditorActor: Deleted Actor: BP_Soldier_C
+[2020.04.30-12.18.29:224][435]LogEditorActor: Deleted 1 Actors (0.189 secs)
+[2020.04.30-12.18.30:165][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-12.18.30:247][492]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.30-12.18.30:256][492]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.04.30-12.18.30:256][492]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.04.30-12.18.30:256][492]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.04.30-12.18.30:256][492]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.04.30-12.18.30:256][492]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.04.30-12.18.30:256][492]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.04.30-12.18.30:256][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.30-12.18.30:256][492]PIE: New page: PIE session: FullLevelStreamed (30 Apr 2020 14:18:30)
+[2020.04.30-12.18.30:257][492]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed
+[2020.04.30-12.18.30:294][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037428s)
+[2020.04.30-12.18.30:295][492]LogAIModule: Creating AISystem for world FullLevelStreamed
+[2020.04.30-12.18.30:295][492]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2020.04.30-12.18.30:295][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed to /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed.FullLevelStreamed (0.038704s)
+[2020.04.30-12.18.30:342][492]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.30-12.18.30:365][492]LogInit: FAudioDevice initialized.
+[2020.04.30-12.18.30:409][492]LogLoad: Game class is 'BP_MainGameMode_AB_C'
+[2020.04.30-12.18.30:420][492]LogWorld: Bringing World /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed.FullLevelStreamed up for play (max tick rate 60) at 2020.04.30-13.18.30
+[2020.04.30-12.18.30:420][492]LogWorld: Bringing up level for play took: 0.010242
+[2020.04.30-12.18.30:438][492]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Armory 1 1 1
+[2020.04.30-12.18.30:438][492]PIE: Play in editor start time for /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed -0.142
+[2020.04.30-12.18.30:438][492]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.04.30-12.18.30:439][492]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.04.30-12.18.30:439][492]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.04.30-12.18.30:439][492]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.04.30-12.18.30:439][492]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.04.30-12.18.30:439][492]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.04.30-12.18.30:497][493]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_StartingArea 1 1 1
+[2020.04.30-12.18.30:608][494]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Cafeteria 1 1 1
+[2020.04.30-12.18.30:724][495]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Barraks 1 1 1
+[2020.04.30-12.18.30:860][496]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Corridor 1 1 1
+[2020.04.30-12.18.32:928][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-12.18.36:925][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-12.18.37:027][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.04.30-12.18.37:028][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.04.30-12.18.37:028][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.04.30-12.18.37:036][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.04.30-12.18.37:036][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.04.30-12.18.37:036][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.04.30-12.18.37:037][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-12.18.37:106][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.30-12.18.37:106][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.04.30-12.18.37:106][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.04.30-12.18.37:107][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.04.30-12.18.37:107][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.04.30-12.18.37:107][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.04.30-12.18.37:107][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.04.30-12.18.37:153][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-12.18.37:186][832]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.04.30-12.18.38:308][889]LogEditorViewport: Clicking on Actor (LMB): BP_PatrolPoint_AB_C (Patrol enemy 7)
+[2020.04.30-12.18.47:506][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-12.18.47:601][388]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.30-12.18.47:620][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.04.30-12.18.47:620][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.04.30-12.18.47:620][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.04.30-12.18.47:620][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.04.30-12.18.47:620][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.04.30-12.18.47:620][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.04.30-12.18.47:620][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.30-12.18.47:621][388]PIE: New page: PIE session: FullLevelStreamed (30 Apr 2020 14:18:47)
+[2020.04.30-12.18.47:621][388]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed
+[2020.04.30-12.18.47:673][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052277s)
+[2020.04.30-12.18.47:674][388]LogAIModule: Creating AISystem for world FullLevelStreamed
+[2020.04.30-12.18.47:675][388]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2020.04.30-12.18.47:675][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed to /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed.FullLevelStreamed (0.053614s)
+[2020.04.30-12.18.47:744][388]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.30-12.18.47:777][388]LogInit: FAudioDevice initialized.
+[2020.04.30-12.18.47:816][388]LogLoad: Game class is 'BP_MainGameMode_AB_C'
+[2020.04.30-12.18.47:831][388]LogWorld: Bringing World /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed.FullLevelStreamed up for play (max tick rate 60) at 2020.04.30-13.18.47
+[2020.04.30-12.18.47:832][388]LogWorld: Bringing up level for play took: 0.014200
+[2020.04.30-12.18.47:871][388]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Armory 1 1 1
+[2020.04.30-12.18.47:871][388]PIE: Play in editor start time for /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed -0.71
+[2020.04.30-12.18.47:871][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.04.30-12.18.47:871][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.04.30-12.18.47:871][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.04.30-12.18.47:872][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.04.30-12.18.47:872][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.04.30-12.18.47:872][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.04.30-12.18.47:947][389]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_StartingArea 1 1 1
+[2020.04.30-12.18.48:111][390]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Cafeteria 1 1 1
+[2020.04.30-12.18.48:293][391]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Barraks 1 1 1
+[2020.04.30-12.18.48:481][392]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Corridor 1 1 1
+[2020.04.30-12.18.51:446][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-15.07.13:637][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-15.07.13:954][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.04.30-15.07.13:956][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.04.30-15.07.13:961][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.04.30-15.07.13:962][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.04.30-15.07.13:963][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.04.30-15.07.13:964][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.04.30-15.07.15:632][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-15.07.16:171][485]LogStreaming: Display: UWorld::AddToWorld: unregistering components for /Game/LevelFolder/Level1/UEDPIE_0_Armory took (less than) 144.86 ms
+[2020.04.30-15.07.16:525][485]LogStreaming: Display: UWorld::AddToWorld: unregistering components for /Game/LevelFolder/Level1/UEDPIE_0_Cafeteria took (less than) 23.90 ms
+[2020.04.30-15.07.16:645][485]LogStreaming: Display: UWorld::AddToWorld: unregistering components for /Game/LevelFolder/Level1/UEDPIE_0_Cafeteria took (less than) 73.80 ms
+[2020.04.30-15.07.16:791][485]LogStreaming: Display: UWorld::AddToWorld: unregistering components for /Game/LevelFolder/Level1/UEDPIE_0_Cafeteria took (less than) 146.43 ms
+[2020.04.30-15.07.18:876][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.30-15.07.18:893][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.04.30-15.07.18:893][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.04.30-15.07.18:894][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.04.30-15.07.18:894][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.04.30-15.07.18:895][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.04.30-15.07.18:895][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.04.30-15.07.19:863][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-15.07.21:430][486]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.04.30-15.07.32:230][737]LogSlate: Window 'BP_Soldier' being destroyed
+[2020.04.30-15.07.32:308][737]LogSlate: Window 'BP_Soldier' being destroyed
+[2020.04.30-15.07.48:701][737]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/FullLevelStreamedD0AAACBA429C6E2A0138E99424A26B37.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level1/FullLevelStreamed.umap'
+[2020.04.30-15.08.02:609][944]LogSlate: Window 'Save Content' being destroyed
+[2020.04.30-15.08.02:863][944]LogSlate: Window 'Alien1916MASTER - Unreal Editor' being destroyed
+[2020.04.30-15.08.03:562][945]Cmd: QUIT_EDITOR
+[2020.04.30-15.08.05:553][945]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.30-15.08.05:715][945]LogExit: Preparing to exit.
+[2020.04.30-15.08.09:371][945]LogExit: Editor shut down
+[2020.04.30-15.08.09:380][945]LogExit: Transaction tracking system shut down
+[2020.04.30-15.08.14:381][945]LogExit: Object subsystem successfully closed.
+[2020.04.30-15.08.15:070][945]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.30-15.08.15:226][945]LogD3D11RHI: Shutdown
+[2020.04.30-15.08.15:226][945]LogD3D11RHI: CleanupD3DDevice
+[2020.04.30-15.08.16:123][945]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.04.30-15.08.22:697][945]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (644)
+[2020.04.30-15.08.22:697][945]LogModuleManager: Shutting down and abandoning module Voice (642)
+[2020.04.30-15.08.22:702][945]LogModuleManager: Shutting down and abandoning module BlueprintGraph (640)
+[2020.04.30-15.08.22:780][945]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (638)
+[2020.04.30-15.08.22:821][945]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (636)
+[2020.04.30-15.08.22:821][945]LogModuleManager: Shutting down and abandoning module PinnedCommandList (634)
+[2020.04.30-15.08.22:821][945]LogModuleManager: Shutting down and abandoning module SkeletonEditor (632)
+[2020.04.30-15.08.22:836][945]LogModuleManager: Shutting down and abandoning module AnimationEditor (630)
+[2020.04.30-15.08.22:836][945]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (628)
+[2020.04.30-15.08.22:849][945]LogModuleManager: Shutting down and abandoning module SceneOutliner (626)
+[2020.04.30-15.08.22:872][945]LogModuleManager: Shutting down and abandoning module AddContentDialog (624)
+[2020.04.30-15.08.22:991][945]LogModuleManager: Shutting down and abandoning module WidgetCarousel (623)
+[2020.04.30-15.08.22:991][945]LogModuleManager: Shutting down and abandoning module EditorWidgets (620)
+[2020.04.30-15.08.22:991][945]LogModuleManager: Shutting down and abandoning module CollectionManager (618)
+[2020.04.30-15.08.23:035][945]LogModuleManager: Shutting down and abandoning module MeshBuilder (616)
+[2020.04.30-15.08.23:047][945]LogModuleManager: Shutting down and abandoning module StatsViewer (614)
+[2020.04.30-15.08.23:098][945]LogModuleManager: Shutting down and abandoning module FoliageEdit (612)
+[2020.04.30-15.08.23:098][945]LogModuleManager: Shutting down and abandoning module LandscapeEditor (610)
+[2020.04.30-15.08.23:189][945]LogModuleManager: Shutting down and abandoning module MeshPaintMode (608)
+[2020.04.30-15.08.23:201][945]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (606)
+[2020.04.30-15.08.23:201][945]LogModuleManager: Shutting down and abandoning module ActorPickerMode (604)
+[2020.04.30-15.08.23:202][945]LogModuleManager: Shutting down and abandoning module GeometryMode (602)
+[2020.04.30-15.08.23:213][945]LogModuleManager: Shutting down and abandoning module TextureAlignMode (600)
+[2020.04.30-15.08.23:213][945]LogModuleManager: Shutting down and abandoning module BspMode (598)
+[2020.04.30-15.08.23:226][945]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (596)
+[2020.04.30-15.08.23:311][945]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (594)
+[2020.04.30-15.08.23:315][945]LogModuleManager: Shutting down and abandoning module AutomationWorker (592)
+[2020.04.30-15.08.23:328][945]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (590)
+[2020.04.30-15.08.23:338][945]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (588)
+[2020.04.30-15.08.23:390][945]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (586)
+[2020.04.30-15.08.23:522][945]LogModuleManager: Shutting down and abandoning module PlacementMode (585)
+[2020.04.30-15.08.23:522][945]LogModuleManager: Shutting down and abandoning module MaterialEditor (584)
+[2020.04.30-15.08.23:568][945]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (580)
+[2020.04.30-15.08.23:576][945]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (578)
+[2020.04.30-15.08.23:576][945]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (576)
+[2020.04.30-15.08.23:609][945]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (574)
+[2020.04.30-15.08.23:609][945]LogModuleManager: Shutting down and abandoning module WebMMedia (572)
+[2020.04.30-15.08.23:623][945]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (570)
+[2020.04.30-15.08.23:648][945]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (568)
+[2020.04.30-15.08.23:748][945]LogModuleManager: Shutting down and abandoning module SequenceRecorder (567)
+[2020.04.30-15.08.23:763][945]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (564)
+[2020.04.30-15.08.23:763][945]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (562)
+[2020.04.30-15.08.23:763][945]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (560)
+[2020.04.30-15.08.23:763][945]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (558)
+[2020.04.30-15.08.23:763][945]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (556)
+[2020.04.30-15.08.23:763][945]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (554)
+[2020.04.30-15.08.23:763][945]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (552)
+[2020.04.30-15.08.23:763][945]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (550)
+[2020.04.30-15.08.23:763][945]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (548)
+[2020.04.30-15.08.23:786][945]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (546)
+[2020.04.30-15.08.23:786][945]LogModuleManager: Shutting down and abandoning module CharacterAI (544)
+[2020.04.30-15.08.23:786][945]LogModuleManager: Shutting down and abandoning module SmartSnapping (542)
+[2020.04.30-15.08.23:807][945]LogModuleManager: Shutting down and abandoning module SessionServices (540)
+[2020.04.30-15.08.23:807][945]LogModuleManager: Shutting down and abandoning module ViewportSnapping (538)
+[2020.04.30-15.08.23:807][945]LogModuleManager: Shutting down and abandoning module ViewportInteraction (536)
+[2020.04.30-15.08.23:818][945]LogModuleManager: Shutting down and abandoning module ClothPainter (534)
+[2020.04.30-15.08.23:873][945]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (533)
+[2020.04.30-15.08.23:890][945]LogModuleManager: Shutting down and abandoning module LogVisualizer (530)
+[2020.04.30-15.08.23:958][945]LogModuleManager: Shutting down and abandoning module IntroTutorials (528)
+[2020.04.30-15.08.24:025][945]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (527)
+[2020.04.30-15.08.24:060][945]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (524)
+[2020.04.30-15.08.24:060][945]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (522)
+[2020.04.30-15.08.24:081][945]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (520)
+[2020.04.30-15.08.24:081][945]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (518)
+[2020.04.30-15.08.24:081][945]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (517)
+[2020.04.30-15.08.24:735][945]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (514)
+[2020.04.30-15.08.24:736][945]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (512)
+[2020.04.30-15.08.24:736][945]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (510)
+[2020.04.30-15.08.24:736][945]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (508)
+[2020.04.30-15.08.24:736][945]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (506)
+[2020.04.30-15.08.24:767][945]LogModuleManager: Shutting down and abandoning module InputBindingEditor (504)
+[2020.04.30-15.08.24:783][945]LogModuleManager: Shutting down and abandoning module MergeActors (502)
+[2020.04.30-15.08.24:802][945]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (500)
+[2020.04.30-15.08.24:841][945]LogModuleManager: Shutting down and abandoning module LocalizationService (499)
+[2020.04.30-15.08.24:860][945]LogModuleManager: Shutting down and abandoning module HardwareTargeting (496)
+[2020.04.30-15.08.24:860][945]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (494)
+[2020.04.30-15.08.24:868][945]LogModuleManager: Shutting down and abandoning module UndoHistory (492)
+[2020.04.30-15.08.24:881][945]LogModuleManager: Shutting down and abandoning module XmlParser (490)
+[2020.04.30-15.08.24:900][945]LogModuleManager: Shutting down and abandoning module Blutility (488)
+[2020.04.30-15.08.24:901][945]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (486)
+[2020.04.30-15.08.24:916][945]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (485)
+[2020.04.30-15.08.24:929][945]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (482)
+[2020.04.30-15.08.24:944][945]LogModuleManager: Shutting down and abandoning module SettingsEditor (480)
+[2020.04.30-15.08.24:987][945]LogModuleManager: Shutting down and abandoning module ProjectLauncher (478)
+[2020.04.30-15.08.25:012][945]LogModuleManager: Shutting down and abandoning module SessionFrontend (476)
+[2020.04.30-15.08.25:029][945]LogModuleManager: Shutting down and abandoning module ProfilerClient (474)
+[2020.04.30-15.08.25:038][945]LogModuleManager: Shutting down and abandoning module DeviceManager (472)
+[2020.04.30-15.08.25:046][945]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (471)
+[2020.04.30-15.08.25:121][945]LogModuleManager: Shutting down and abandoning module AutomationController (468)
+[2020.04.30-15.08.25:131][945]LogModuleManager: Shutting down and abandoning module AutomationWindow (466)
+[2020.04.30-15.08.25:144][945]LogModuleManager: Shutting down and abandoning module Layers (464)
+[2020.04.30-15.08.25:168][945]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (462)
+[2020.04.30-15.08.25:186][945]LogModuleManager: Shutting down and abandoning module DetailCustomizations (460)
+[2020.04.30-15.08.25:231][945]LogModuleManager: Shutting down and abandoning module PackagesDialog (458)
+[2020.04.30-15.08.25:232][945]LogModuleManager: Shutting down and abandoning module Persona (456)
+[2020.04.30-15.08.25:262][945]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (455)
+[2020.04.30-15.08.25:262][945]LogModuleManager: Shutting down and abandoning module AnimGraph (453)
+[2020.04.30-15.08.25:278][945]LogModuleManager: Shutting down and abandoning module Kismet (450)
+[2020.04.30-15.08.25:357][945]LogModuleManager: Shutting down and abandoning module GraphEditor (448)
+[2020.04.30-15.08.25:360][945]LogModuleManager: Shutting down and abandoning module ClassViewer (446)
+[2020.04.30-15.08.25:392][945]LogModuleManager: Shutting down and abandoning module Toolbox (444)
+[2020.04.30-15.08.25:409][945]LogModuleManager: Shutting down and abandoning module ModuleUI (442)
+[2020.04.30-15.08.25:429][945]LogModuleManager: Shutting down and abandoning module MovieSceneTools (440)
+[2020.04.30-15.08.25:452][945]LogModuleManager: Shutting down and abandoning module OutputLog (438)
+[2020.04.30-15.08.25:488][945]LogModuleManager: Shutting down and abandoning module GammaUI (436)
+[2020.04.30-15.08.25:497][945]LogModuleManager: Shutting down and abandoning module Documentation (434)
+[2020.04.30-15.08.25:516][945]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (432)
+[2020.04.30-15.08.25:529][945]LogModuleManager: Shutting down and abandoning module MovieScene (430)
+[2020.04.30-15.08.25:552][945]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (428)
+[2020.04.30-15.08.25:565][945]LogModuleManager: Shutting down and abandoning module LauncherPlatform (426)
+[2020.04.30-15.08.25:565][945]LogModuleManager: Shutting down and abandoning module AnalyticsET (424)
+[2020.04.30-15.08.25:565][945]LogModuleManager: Shutting down and abandoning module PortalServices (422)
+[2020.04.30-15.08.25:565][945]LogModuleManager: Shutting down and abandoning module PortalRpc (420)
+[2020.04.30-15.08.25:565][945]LogModuleManager: Shutting down and abandoning module MessagingRpc (418)
+[2020.04.30-15.08.25:565][945]LogModuleManager: Shutting down and abandoning module AIModule (416)
+[2020.04.30-15.08.25:672][945]LogModuleManager: Shutting down and abandoning module GameplayDebugger (415)
+[2020.04.30-15.08.25:685][945]LogModuleManager: Shutting down and abandoning module AITestSuite (413)
+[2020.04.30-15.08.25:696][945]LogModuleManager: Shutting down and abandoning module NavigationSystem (411)
+[2020.04.30-15.08.25:712][945]LogModuleManager: Shutting down and abandoning module DesktopPlatform (408)
+[2020.04.30-15.08.25:731][945]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (406)
+[2020.04.30-15.08.25:737][945]LogModuleManager: Shutting down and abandoning module ProfilerService (404)
+[2020.04.30-15.08.25:928][945]LogModuleManager: Shutting down and abandoning module TaskGraph (402)
+[2020.04.30-15.08.25:944][945]LogModuleManager: Shutting down and abandoning module SteamVRController (400)
+[2020.04.30-15.08.25:944][945]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (398)
+[2020.04.30-15.08.25:963][945]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (396)
+[2020.04.30-15.08.25:980][945]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.04.30-15.08.25:985][945]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.04.30-15.08.25:985][945]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.04.30-15.08.26:007][945]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.04.30-15.08.26:007][945]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.04.30-15.08.26:007][945]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.04.30-15.08.26:007][945]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.04.30-15.08.26:007][945]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.04.30-15.08.26:007][945]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.04.30-15.08.26:014][945]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.04.30-15.08.26:042][945]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.04.30-15.08.26:042][945]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.04.30-15.08.26:042][945]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.04.30-15.08.26:090][945]LogModuleManager: Shutting down and abandoning module HTML5Networking (368)
+[2020.04.30-15.08.26:090][945]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (366)
+[2020.04.30-15.08.26:108][945]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (364)
+[2020.04.30-15.08.26:108][945]LogModuleManager: Shutting down and abandoning module BackChannel (362)
+[2020.04.30-15.08.26:111][945]LogModuleManager: Shutting down and abandoning module AppleVision (360)
+[2020.04.30-15.08.26:111][945]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (358)
+[2020.04.30-15.08.26:111][945]LogModuleManager: Shutting down and abandoning module AppleImageUtils (356)
+[2020.04.30-15.08.26:111][945]LogModuleManager: Shutting down and abandoning module AlembicImporter (354)
+[2020.04.30-15.08.26:111][945]LogModuleManager: Shutting down and abandoning module AlembicLibrary (353)
+[2020.04.30-15.08.26:111][945]LogModuleManager: Shutting down and abandoning module GeometryCache (352)
+[2020.04.30-15.08.26:111][945]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (351)
+[2020.04.30-15.08.26:111][945]LogModuleManager: Shutting down and abandoning module VariantManagerContent (346)
+[2020.04.30-15.08.26:111][945]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2020.04.30-15.08.26:125][945]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (342)
+[2020.04.30-15.08.26:125][945]LogModuleManager: Shutting down and abandoning module PluginBrowser (340)
+[2020.04.30-15.08.26:146][945]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (338)
+[2020.04.30-15.08.26:158][945]LogModuleManager: Shutting down and abandoning module PolygonModeling (336)
+[2020.04.30-15.08.26:158][945]LogModuleManager: Shutting down and abandoning module MeshEditor (334)
+[2020.04.30-15.08.26:178][945]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2020.04.30-15.08.26:182][945]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2020.04.30-15.08.26:182][945]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2020.04.30-15.08.26:194][945]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2020.04.30-15.08.26:210][945]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2020.04.30-15.08.26:210][945]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2020.04.30-15.08.26:250][945]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2020.04.30-15.08.26:271][945]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2020.04.30-15.08.26:284][945]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2020.04.30-15.08.26:305][945]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2020.04.30-15.08.26:320][945]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (312)
+[2020.04.30-15.08.26:323][945]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (310)
+[2020.04.30-15.08.26:324][945]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2020.04.30-15.08.26:324][945]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2020.04.30-15.08.26:324][945]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2020.04.30-15.08.26:340][945]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2020.04.30-15.08.26:364][945]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2020.04.30-15.08.26:385][945]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2020.04.30-15.08.26:394][945]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2020.04.30-15.08.26:408][945]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2020.04.30-15.08.26:426][945]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2020.04.30-15.08.26:457][945]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2020.04.30-15.08.26:457][945]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (288)
+[2020.04.30-15.08.26:483][945]LogModuleManager: Shutting down and abandoning module ApexDestruction (286)
+[2020.04.30-15.08.26:484][945]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.04.30-15.08.26:484][945]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.04.30-15.08.26:614][945]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.04.30-15.08.26:724][945]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.04.30-15.08.26:732][945]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.04.30-15.08.26:750][945]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.04.30-15.08.26:765][945]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.04.30-15.08.26:765][945]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.04.30-15.08.26:765][945]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.04.30-15.08.26:780][945]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.04.30-15.08.26:910][945]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.04.30-15.08.26:963][945]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.04.30-15.08.26:979][945]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.04.30-15.08.27:004][945]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.04.30-15.08.27:135][945]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.04.30-15.08.27:211][945]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.04.30-15.08.27:226][945]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.04.30-15.08.27:226][945]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.04.30-15.08.27:226][945]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.04.30-15.08.27:243][945]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.04.30-15.08.27:262][945]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.04.30-15.08.27:277][945]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2020.04.30-15.08.27:296][945]LogModuleManager: Shutting down and abandoning module Media (241)
+[2020.04.30-15.08.27:304][945]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2020.04.30-15.08.27:304][945]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2020.04.30-15.08.27:328][945]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2020.04.30-15.08.27:377][945]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2020.04.30-15.08.27:394][945]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2020.04.30-15.08.27:394][945]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2020.04.30-15.08.27:394][945]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2020.04.30-15.08.27:416][945]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2020.04.30-15.08.27:439][945]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2020.04.30-15.08.27:439][945]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2020.04.30-15.08.27:472][945]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2020.04.30-15.08.27:485][945]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2020.04.30-15.08.27:510][945]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2020.04.30-15.08.27:562][945]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2020.04.30-15.08.27:572][945]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2020.04.30-15.08.27:603][945]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2020.04.30-15.08.27:676][945]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2020.04.30-15.08.27:676][945]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2020.04.30-15.08.27:708][945]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2020.04.30-15.08.27:708][945]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.04.30-15.08.27:771][945]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.04.30-15.08.27:815][945]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.04.30-15.08.27:827][945]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.04.30-15.08.27:833][945]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.04.30-15.08.27:833][945]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.04.30-15.08.27:833][945]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.04.30-15.08.27:833][945]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2020.04.30-15.08.27:833][945]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.04.30-15.08.27:833][945]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.04.30-15.08.27:851][945]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.04.30-15.08.27:872][945]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.04.30-15.08.27:873][945]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2020.04.30-15.08.27:885][945]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.04.30-15.08.27:937][945]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2020.04.30-15.08.27:953][945]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2020.04.30-15.08.27:968][945]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2020.04.30-15.08.27:986][945]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2020.04.30-15.08.27:993][945]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2020.04.30-15.08.28:034][945]LogDerivedDataCache: Shutdown
+[2020.04.30-15.08.28:034][945]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2020.04.30-15.08.28:062][945]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2020.04.30-15.08.28:063][945]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2020.04.30-15.08.28:073][945]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2020.04.30-15.08.28:081][945]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2020.04.30-15.08.28:087][945]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2020.04.30-15.08.28:099][945]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2020.04.30-15.08.28:118][945]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2020.04.30-15.08.28:137][945]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2020.04.30-15.08.28:145][945]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2020.04.30-15.08.28:164][945]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2020.04.30-15.08.28:248][945]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2020.04.30-15.08.28:264][945]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2020.04.30-15.08.28:264][945]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2020.04.30-15.08.28:274][945]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2020.04.30-15.08.28:286][945]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2020.04.30-15.08.28:301][945]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2020.04.30-15.08.28:308][945]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2020.04.30-15.08.28:434][945]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.04.30-15.08.28:437][945]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.04.30-15.08.28:455][945]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.04.30-15.08.28:460][945]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2020.04.30-15.08.28:473][945]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2020.04.30-15.08.28:510][945]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2020.04.30-15.08.28:510][945]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2020.04.30-15.08.28:529][945]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2020.04.30-15.08.28:540][945]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2020.04.30-15.08.28:702][945]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2020.04.30-15.08.28:702][945]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2020.04.30-15.08.28:824][945]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2020.04.30-15.08.28:877][945]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2020.04.30-15.08.28:899][945]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2020.04.30-15.08.28:899][945]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2020.04.30-15.08.28:921][945]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2020.04.30-15.08.28:930][945]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2020.04.30-15.08.28:945][945]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2020.04.30-15.08.28:945][945]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2020.04.30-15.08.28:945][945]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2020.04.30-15.08.28:956][945]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.04.30-15.08.28:956][945]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.04.30-15.08.28:967][945]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.30-15.08.28:968][945]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.04.30-15.08.28:968][945]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.04.30-15.08.28:969][945]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.04.30-15.08.28:969][945]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.04.30-15.08.28:969][945]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.04.30-15.08.29:064][945]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.04.30-15.08.29:134][945]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.04.30-15.08.29:227][945]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.04.30-15.08.29:227][945]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.30-15.08.29:227][945]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC7C7F82A-4175-FC84-63B4-129431982E09%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d9d1c8534f4d12805f24ea8b6916677a%7C5328bfd1cf644ef8a954fbc08eb659d2%7C4004973c-bc49-4bd2-9269-35494ad8cc2a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.04.30-15.08.29:304][945]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.04.30-15.08.29:355][945]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.04.30-15.08.29:371][945]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.04.30-15.08.29:371][945]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.04.30-15.08.29:371][945]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.04.30-15.08.29:371][945]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.04.30-15.08.29:403][945]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.04.30-15.08.29:403][945]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.04.30-15.08.29:421][945]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.30-15.08.29:422][945]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.04.30-15.08.29:452][945]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.04.30-15.08.29:453][945]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.04.30-15.08.29:472][945]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.04.30-15.08.29:554][945]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.04.30-15.08.29:573][945]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.04.30-15.08.29:588][945]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.04.30-15.08.29:588][945]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.04.30-15.08.29:601][945]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.04.30-15.08.29:650][945]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.04.30-15.08.29:666][945]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.04.30-15.08.29:666][945]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.04.30-15.08.29:675][945]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.04.30-15.08.29:675][945]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.04.30-15.08.29:696][945]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.04.30-15.08.29:712][945]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.04.30-15.08.29:724][945]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.04.30-15.08.29:731][945]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.04.30-15.08.29:747][945]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.04.30-15.08.29:754][945]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.04.30-15.08.29:819][945]LogExit: Exiting.
+[2020.04.30-15.08.29:882][945]Log file closed, 04/30/20 16:08:29
