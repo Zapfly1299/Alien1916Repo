@@ -1,0 +1,784 @@
+﻿Log file open, 04/30/20 10:49:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Alien1916MASTER
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.310015
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.120s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername="Matthew Cibor" -epicuserid=5328bfd1cf644ef8a954fbc08eb659d2 -epiclocale=en
+LogInit: Base Directory: E:/Unreal Engine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.30-09.49.07:081][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.30-09.49.07:081][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.30-09.49.07:081][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.04.30-09.49.07:081][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.30-09.49.07:081][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.04.30-09.49.07:081][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.04.30-09.49.07:081][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.30-09.49.07:081][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.30-09.49.07:081][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.30-09.49.07:081][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.30-09.49.07:081][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.30-09.49.07:081][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.30-09.49.07:081][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.30-09.49.07:081][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.30-09.49.07:081][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.30-09.49.07:081][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.30-09.49.07:081][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.04.30-09.49.07:082][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.30-09.49.07:082][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.04.30-09.49.07:082][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.04.30-09.49.07:098][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.30-09.49.07:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.30-09.49.07:099][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.30-09.49.07:099][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.30-09.49.07:099][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.30-09.49.07:119][  0]LogHAL: Display: Platform has ~ 8 GB [8426532864 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.04.30-09.49.07:125][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.30-09.49.07:125][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.30-09.49.07:125][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.30-09.49.07:127][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.30-09.49.07:128][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.30-09.49.07:128][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Config/Windows/Engine.ini]
+[2020.04.30-09.49.07:128][  0]LogInit: Computer: WORKSTATION-LAP
+[2020.04.30-09.49.07:128][  0]LogInit: User: Matthew
+[2020.04.30-09.49.07:128][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.30-09.49.07:128][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.30-09.49.07:129][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2020.04.30-09.49.07:129][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.30-09.49.07:129][  0]LogMemory: Process Physical Memory: 102.64 MB used, 102.64 MB peak
+[2020.04.30-09.49.07:129][  0]LogMemory: Process Virtual Memory: 91.74 MB used, 91.74 MB peak
+[2020.04.30-09.49.07:129][  0]LogMemory: Physical Memory: 6829.54 MB used,  1206.63 MB free, 8036.17 MB total
+[2020.04.30-09.49.07:129][  0]LogMemory: Virtual Memory: 4622.54 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2020.04.30-09.49.07:453][  0]LogInit: Using OS detected language (en-GB).
+[2020.04.30-09.49.07:454][  0]LogInit: Using OS detected locale (en-GB).
+[2020.04.30-09.49.07:467][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.04.30-09.49.08:129][  0]LogStreaming: Display: Took  0.677s to InitEngineTextLocalization.
+[2020.04.30-09.49.08:129][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.30-09.49.08:482][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.30-09.49.08:482][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.30-09.49.09:964][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.30-09.49.09:964][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.30-09.49.10:220][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2020.04.30-09.49.10:220][  0]LogD3D11RHI:       1983/0/4018 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.30-09.49.10:236][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.04.30-09.49.10:236][  0]LogD3D11RHI:       128/0/4018 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.30-09.49.10:246][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.30-09.49.10:246][  0]LogD3D11RHI:       0/0/4018 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.30-09.49.10:246][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.30-09.49.10:290][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.30-09.49.10:290][  0]LogD3D11RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.30-09.49.10:290][  0]LogWindows: EnumDisplayDevices:
+[2020.04.30-09.49.10:290][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.04.30-09.49.10:290][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:1)
+[2020.04.30-09.49.10:291][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.04.30-09.49.10:291][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.04.30-09.49.10:291][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2020.04.30-09.49.10:291][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.04.30-09.49.10:291][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.04.30-09.49.10:291][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2020.04.30-09.49.10:376][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.30-09.49.10:417][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.30-09.49.11:099][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.04.30-09.49.11:127][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.04.30-09.49.11:148][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.04.30-09.49.11:191][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.04.30-09.49.11:234][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.04.30-09.49.11:258][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.04.30-09.49.11:295][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.04.30-09.49.11:322][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.04.30-09.49.11:359][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:457][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.30-09.49.11:485][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.04.30-09.49.11:620][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.04.30-09.49.11:620][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.04.30-09.49.11:669][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.04.30-09.49.11:669][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.04.30-09.49.11:700][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.04.30-09.49.11:727][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.04.30-09.49.11:774][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.04.30-09.49.11:843][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.04.30-09.49.11:896][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.04.30-09.49.11:896][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.04.30-09.49.11:896][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.30-09.49.12:462][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Intermediate/Shaders/WorkingDirectory/6140/).
+[2020.04.30-09.49.12:462][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Matthew/AppData/Local/Temp/UnrealShaderWorkingDir/B50D024B4DB37FE4E25B578253C60584/'.
+[2020.04.30-09.49.12:481][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.30-09.49.12:481][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.30-09.49.12:481][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.30-09.49.14:402][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.30-09.49.14:715][  0]LogDerivedDataCache: Loaded boot cache 0.31s 71MB C:/Users/Matthew/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.04.30-09.49.14:715][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Matthew/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.04.30-09.49.14:715][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.30-09.49.14:715][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.30-09.49.14:715][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.30-09.49.14:715][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.30-09.49.14:809][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.30-09.49.14:809][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.30-09.49.14:809][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.30-09.49.14:821][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.30-09.49.14:821][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.30-09.49.14:821][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.30-09.49.14:842][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.30-09.49.14:859][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.30-09.49.14:880][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.30-09.49.15:882][  0]LogAssetRegistry: FAssetRegistry took 0.0320 seconds to start up
+[2020.04.30-09.49.17:507][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.30-09.49.19:764][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.04.30-09.49.19:972][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.04.30-09.49.19:972][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.30-09.49.19:972][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.30-09.49.19:972][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.04.30-09.49.20:408][  0]LogNetVersion: Alien1916MASTER 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 709990158)
+[2020.04.30-09.49.25:211][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.080769 seconds
+[2020.04.30-09.49.25:228][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.04.30-09.49.25:228][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2020.04.30-09.49.25:228][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.30-09.50.00:485][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.30-09.50.00:516][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.30-09.50.02:633][  0]SourceControl: Source control is disabled
+[2020.04.30-09.50.02:649][  0]SourceControl: Source control is disabled
+[2020.04.30-09.50.02:724][  0]SourceControl: Source control is disabled
+[2020.04.30-09.50.02:741][  0]SourceControl: Source control is disabled
+[2020.04.30-09.50.03:557][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.30-09.50.03:775][  0]LogOcInput: OculusInput pre-init called
+[2020.04.30-09.50.04:450][  0]LogEngine: Initializing Engine...
+[2020.04.30-09.50.04:450][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.30-09.50.04:452][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.04.30-09.50.04:452][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.04.30-09.50.04:452][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.04.30-09.50.04:466][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.014 s
+[2020.04.30-09.50.05:453][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.30-09.50.06:238][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.30-09.50.06:509][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.30-09.50.07:393][  0]LogInit: FAudioDevice initialized.
+[2020.04.30-09.50.07:410][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.30-09.50.07:545][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Matthew/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.04.30-09.50.07:572][  0]LogInit: Texture streaming: Enabled
+[2020.04.30-09.50.07:753][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.30-09.50.08:091][  0]LogInit: Transaction tracking system initialized
+[2020.04.30-09.50.08:549][  0]BlueprintLog: New page: Editor Load
+[2020.04.30-09.50.10:088][  0]LocalizationService: Localization service is disabled
+[2020.04.30-09.50.14:172][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/' took 0.07s
+[2020.04.30-09.50.14:172][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.30-09.50.14:173][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.30-09.50.14:206][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.04.30-09.50.14:206][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.04.30-09.50.14:206][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.04.30-09.50.14:206][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.04.30-09.50.14:206][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.04.30-09.50.18:430][  0]SourceControl: Source control is disabled
+[2020.04.30-09.50.18:493][  0]Cmd: MAP LOAD FILE="C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level1/FullLevelStreamed.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.30-09.50.18:564][  0]LightingResults: New page: Lighting Build
+[2020.04.30-09.50.18:988][  0]MapCheck: New page: Map Check
+[2020.04.30-09.50.18:988][  0]LightingResults: New page: Lighting Build
+[2020.04.30-09.50.24:639][  0]LogTexture: Display: Building textures: Bricks03_GLOSS_6K (AutoDXT, 2000X2000)
+[2020.04.30-09.50.24:830][  0]LogTexture: Display: Building textures: Bricks03_DISP_6K (AutoDXT, 2000X2000)
+[2020.04.30-09.50.24:830][  0]LogTexture: Display: Building textures: Bricks03_COL_VAR1_2K (AutoDXT, 2000X2000)
+[2020.04.30-09.50.24:830][  0]LogTexture: Display: Building textures: BricksIndustrialBrownTopaz001_NRM_HIRES (BGRA8, 1999X1999)
+[2020.04.30-09.50.24:830][  0]LogTexture: Display: Building textures: industrial_brick_refl (BGRA8, 1999X1999)
+[2020.04.30-09.50.24:830][  0]LogTexture: Display: Building textures: Bricks03_NRM_6K (BC5, 2000X2000)
+[2020.04.30-09.50.27:122][  0]LogTexture: Display: Building textures: BricksIndustrialBrownTopaz001_GLOSS_HIRES (BGRA8, 1999X1999)
+[2020.04.30-09.50.27:274][  0]LogTexture: Display: Building textures: BricksIndustrialBrownTopaz001_COL_HIRES (BGRA8, 1999X1999)
+[2020.04.30-09.50.27:274][  0]LogTexture: Display: Building textures: BricksIndustrialBrownTopaz001_AO_HIRES (BGRA8, 1999X1999)
+[2020.04.30-09.50.29:355][  0]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.04.30-09.50.30:124][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.04.30-09.50.30:124][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.04.30-09.50.30:124][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.30-09.50.30:124][  0]LogStaticMesh: Building static mesh Floor4x4WithHole...
+[2020.04.30-09.50.30:668][  0]LogStaticMesh: Built static mesh [0.56s] /Game/Meshes/SM_Hole/Floor4x4WithHole.Floor4x4WithHole
+[2020.04.30-09.50.31:244][  0]LogStaticMesh: Building static mesh Vents_Vents_Vent_Solid_Revised4_8...
+[2020.04.30-09.50.31:250][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/SM_Vents/Vents_Vents_Vent_Solid_Revised4_8.Vents_Vents_Vent_Solid_Revised4_8
+[2020.04.30-09.50.31:254][  0]LogStaticMesh: Building static mesh Vents_Vents_Vent_Opening_Walled3_50...
+[2020.04.30-09.50.31:264][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/SM_Vents/Vents_Vents_Vent_Opening_Walled3_50.Vents_Vents_Vent_Opening_Walled3_50
+[2020.04.30-09.50.31:267][  0]LogStaticMesh: Building static mesh Vents_Vents_Vent_Opening_Walled2_47...
+[2020.04.30-09.50.31:273][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/SM_Vents/Vents_Vents_Vent_Opening_Walled2_47.Vents_Vents_Vent_Opening_Walled2_47
+[2020.04.30-09.50.31:275][  0]LogStaticMesh: Building static mesh Vents_Vents_Vent_Opening_Revised6_38...
+[2020.04.30-09.50.31:284][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/SM_Vents/Vents_Vents_Vent_Opening_Revised6_38.Vents_Vents_Vent_Opening_Revised6_38
+[2020.04.30-09.50.31:288][  0]LogMaterial: Display: Missing cached shader map for material M_Vents, compiling. 
+[2020.04.30-09.50.31:300][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.04.30-09.50.31:300][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.04.30-09.50.31:300][  0]LogStaticMesh: Building static mesh Vents_Vents_Vent_Bridge_Revised15_37...
+[2020.04.30-09.50.31:305][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/SM_Vents/Vents_Vents_Vent_Bridge_Revised15_37.Vents_Vents_Vent_Bridge_Revised15_37
+[2020.04.30-09.50.31:628][  0]LogMaterial: Display: Missing cached shader map for material M_BrickV2, compiling. 
+[2020.04.30-09.50.31:710][  0]LogMaterial: Display: Missing cached shader map for material M_IndustrialBrick, compiling. 
+[2020.04.30-09.50.34:839][  0]LogShaderCompilers: Display: Shaders left to compile 46
+[2020.04.30-09.50.36:154][  0]LogShaderCompilers: Display: Shaders left to compile 36
+[2020.04.30-09.50.36:155][  0]LogShaderCompilers: Display: Shaders left to compile 26
+[2020.04.30-09.50.36:155][  0]LogAIModule: Creating AISystem for world FullLevelStreamed
+[2020.04.30-09.50.36:626][  0]LogShaderCompilers: Display: Shaders left to compile 16
+[2020.04.30-09.50.37:636][  0]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.04.30-09.50.40:639][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelFolder/Level1/Armory) is flushing async loading
+[2020.04.30-09.50.40:662][  0]LogStreaming: Display: Flushing async loaders.
+[2020.04.30-09.50.45:465][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelFolder/Level1/Barraks) is flushing async loading
+[2020.04.30-09.50.49:537][  0]LogTexture: Display: Building textures: T_woodBarrel_N (BC5, 512X512)
+[2020.04.30-09.50.49:537][  0]LogTexture: Display: Building textures: T_bedV1_N (BC5, 512X512)
+[2020.04.30-09.50.49:537][  0]LogTexture: Display: Building textures: T_woodBarrel_BC (AutoDXT, 512X512)
+[2020.04.30-09.50.49:537][  0]LogTexture: Display: Building textures: T_bedV1_ORM (AutoDXT, 512X512)
+[2020.04.30-09.50.49:537][  0]LogTexture: Display: Building textures: T_bedV1_BC (AutoDXT, 512X512)
+[2020.04.30-09.50.49:537][  0]LogTexture: Display: Building textures: T_woodBarrel_ORM (AutoDXT, 512X512)
+[2020.04.30-09.50.49:558][  0]LogStaticMesh: Building static mesh SM_bedV1...
+[2020.04.30-09.50.49:588][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/SM_beds/SM_bedV1.SM_bedV1
+[2020.04.30-09.50.49:617][  0]LogStaticMesh: Building static mesh SM_bedV2...
+[2020.04.30-09.50.49:658][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Meshes/SM_beds/SM_bedV2.SM_bedV2
+[2020.04.30-09.50.49:688][  0]LogTexture: Display: Building textures: T_bedV2_N (BC5, 512X512)
+[2020.04.30-09.50.49:688][  0]LogTexture: Display: Building textures: T_bedV2_BC (AutoDXT, 512X512)
+[2020.04.30-09.50.49:688][  0]LogStaticMesh: Building static mesh SM_woodBarrel...
+[2020.04.30-09.50.49:782][  0]LogTexture: Display: Building textures: T_bedV2_ORM (AutoDXT, 512X512)
+[2020.04.30-09.50.49:782][  0]LogStaticMesh: Built static mesh [0.09s] /Game/Meshes/SM_barrels/SM_woodBarrel.SM_woodBarrel
+[2020.04.30-09.50.49:825][  0]LogStaticMesh: Building static mesh Wooden_Table_...
+[2020.04.30-09.50.49:927][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Meshes/SM_WoodenTable/Wooden_Table_.Wooden_Table_
+[2020.04.30-09.50.50:082][  0]LogMaterial: Display: Missing cached shader map for material M_woodBarrel, compiling. 
+[2020.04.30-09.50.50:180][  0]LogTexture: Display: Building textures: Stool_LP_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2020.04.30-09.50.50:180][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.04.30-09.50.50:180][  0]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.04.30-09.50.50:180][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.04.30-09.50.50:180][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.30-09.50.50:180][  0]LogMaterial: Display: Missing cached shader map for material M_bedV1, compiling. 
+[2020.04.30-09.50.50:221][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.04.30-09.50.50:221][  0]LogMaterial: Display: Missing cached shader map for material M_bedV2, compiling. 
+[2020.04.30-09.50.56:657][  0]LogTexture: Display: Building textures: Stool_LP_lambert1_Normal (BC5, 2048X2048)
+[2020.04.30-09.50.56:829][  0]LogTexture: Display: Building textures: LP_2_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2020.04.30-09.50.56:829][  0]LogTexture: Display: Building textures: Stool_LP_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.04.30-09.50.56:829][  0]LogTexture: Display: Building textures: LP_2_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.04.30-09.50.56:829][  0]LogShaderCompilers: Display: Shaders left to compile 52
+[2020.04.30-09.50.56:829][  0]LogTexture: Display: Building textures: LP_2_lambert1_Normal (BC5, 2048X2048)
+[2020.04.30-09.50.56:830][  0]LogTexture: Display: Building textures: WoodPlanks18_COL_VAR1_6K (AutoDXT, 2000X2000)
+[2020.04.30-09.50.56:830][  0]LogTexture: Display: Building textures: WoodPlanks18_NRM_6K (BC5, 2000X2000)
+[2020.04.30-09.50.56:830][  0]LogMaterial: Display: Missing cached shader map for material M_Stool, compiling. 
+[2020.04.30-09.50.58:075][  0]LogMaterial: Display: Missing cached shader map for material M_WoodenTable, compiling. 
+[2020.04.30-09.51.05:879][  0]LogShaderCompilers: Display: Shaders left to compile 86
+[2020.04.30-09.51.05:879][  0]LogShaderCompilers: Display: Shaders left to compile 76
+[2020.04.30-09.51.05:879][  0]LogShaderCompilers: Display: Shaders left to compile 66
+[2020.04.30-09.51.05:879][  0]LogShaderCompilers: Display: Shaders left to compile 56
+[2020.04.30-09.51.05:879][  0]LogShaderCompilers: Display: Shaders left to compile 46
+[2020.04.30-09.51.05:880][  0]LogShaderCompilers: Display: Shaders left to compile 36
+[2020.04.30-09.51.05:880][  0]LogShaderCompilers: Display: Shaders left to compile 26
+[2020.04.30-09.51.05:880][  0]LogShaderCompilers: Display: Shaders left to compile 16
+[2020.04.30-09.51.05:880][  0]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.04.30-09.51.05:880][  0]LogMaterial: Display: Missing cached shader map for material M_WoodPlanks, compiling. 
+[2020.04.30-09.51.08:899][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.04.30-09.51.08:899][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.04.30-09.51.08:899][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.30-09.51.12:293][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelFolder/Level1/Cafeteria) is flushing async loading
+[2020.04.30-09.51.21:408][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelFolder/Level1/Corridor) is flushing async loading
+[2020.04.30-09.51.21:514][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LevelFolder/Level1/StartingArea) is flushing async loading
+[2020.04.30-09.51.22:650][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.04.30-09.51.23:479][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.30-09.51.23:509][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.778ms to complete.
+[2020.04.30-09.51.23:510][  0]LogFileHelpers: Loading map 'FullLevelStreamed' took 65.038
+[2020.04.30-09.51.30:711][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-09.51.30:718][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-09.51.30:724][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-09.51.30:730][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-09.51.30:996][  0]LogCollectionManager: Loaded 0 collections in 0.002162 seconds
+[2020.04.30-09.51.31:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Collections/' took 0.04s
+[2020.04.30-09.51.31:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Developers/Matthew/Collections/' took 0.01s
+[2020.04.30-09.51.31:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Collections/' took 0.00s
+[2020.04.30-09.51.31:323][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.04.30-09.51.31:348][  0]LogContentBrowser: Native class hierarchy populated in 0.0236 seconds. Added 2660 classes and 625 folders.
+[2020.04.30-09.51.31:820][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.30-09.51.31:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:076][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:147][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:149][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:176][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:192][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:241][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:254][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:266][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:275][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:284][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:298][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:312][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:327][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:349][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:383][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.32:399][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.30-09.51.35:704][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.30-09.51.36:094][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.30-09.51.37:078][  0]LogSlate: Took 0.020783 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.30-09.51.37:100][  0]LogSlate: Took 0.018888 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.30-09.51.37:243][  0]LogSlate: Took 0.065134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.30-09.51.38:248][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2020.04.30-09.51.39:677][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.30-09.51.39:699][  0]LogLoad: (Engine Initialization) Total time: 184.29 seconds
+[2020.04.30-09.51.39:700][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.30-09.51.40:299][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.30-09.51.40:768][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/' took 0.75s
+[2020.04.30-09.51.41:470][  7]LogAssetRegistry: Asset discovery search completed in 145.6105 seconds
+[2020.04.30-09.51.41:472][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.04.30-09.51.41:472][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2020.04.30-09.52.23:286][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-11.40.00:239][932]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:181354).
+[2020.04.30-11.40.44:387][910]LogSlate: Took 0.072608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.30-11.40.52:141][910]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.04.30-11.40.52:738][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2x361)
+[2020.04.30-11.40.55:358][912]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.30-11.41.08:769][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.30-11.41.10:971][758]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Assets/Characters/Animations/MC_Soldier_ABP.MC_Soldier_ABP
+[2020.04.30-11.41.12:051][758]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0260 seconds. Added 1 classes and 2 folders.
+[2020.04.30-11.41.14:711][758]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.30-11.41.14:787][758]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0016 seconds. Added 1 classes and 0 folders.
+[2020.04.30-11.41.18:348][758]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0017 seconds. Added 1 classes and 0 folders.
+[2020.04.30-11.41.18:407][758]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.30-11.42.23:670][378]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.04.30-11.42.26:094][494]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.30-11.43.38:410][898]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/IdleAnims/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2020.04.30-11.43.39:314][898]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.30-11.43.39:524][898]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.30-11.43.40:620][898]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.30-11.43.46:525][ 93]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/IdleAnims/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2020.04.30-11.44.23:100][124]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.30-11.45.22:243][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.30-11.46.03:297][743]LogSlate: Took 0.030334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.30-11.46.03:426][743]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.04.30-11.46.22:716][965]LogSlate: Window 'Create New Animation Object' being destroyed
+[2020.04.30-11.46.31:685][216]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2020.04.30-11.46.31:688][216]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.30-11.46.31:710][216]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2020.04.30-11.46.31:778][216]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.30-11.46.31:788][216]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2020.04.30-11.46.31:790][216]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.30-11.46.31:797][216]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2020.04.30-11.46.31:797][216]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.30-11.46.31:825][216]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.04.30-11.47.19:247][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Death_133F8A9D448B59F4DDB88A484E46D2182.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/DeathAnims/Death_1.uasset'
+[2020.04.30-11.47.19:495][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Death_2D95FDF73435CB2BA752FD29D4E273EA1.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/DeathAnims/Death_2.uasset'
+[2020.04.30-11.47.19:568][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Death_3A95BD95F4780BDD02D895D9B287B2667.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/DeathAnims/Death_3.uasset'
+[2020.04.30-11.47.19:641][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Death_Ironsights_1944276354D2D886FD5AB0D84D6FA5687.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/DeathAnims/Death_Ironsights_1.uasset'
+[2020.04.30-11.47.19:680][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Death_Ironsights_2AFF77EA94598C6ECA896058FCB410938.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/DeathAnims/Death_Ironsights_2.uasset'
+[2020.04.30-11.47.19:716][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Prone_Death_16AA464A94D5B0F07E76F4A9FBF5E00B5.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/DeathAnims/Prone_Death_1.uasset'
+[2020.04.30-11.47.19:752][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Prone_Death_22BA562E8451C4F129EDF45A1D2AE28E9.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/DeathAnims/Prone_Death_2.uasset'
+[2020.04.30-11.47.24:056][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Aim_Space_Hip8F30F8FE4C9E5A70F9D81381A843A909.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Aim_Space_Hip.uasset'
+[2020.04.30-11.47.24:136][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Aim_Space_Ironsights7AA3FE9C422BD2D2498DF6AF5354F347.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Aim_Space_Ironsights.uasset'
+[2020.04.30-11.47.24:190][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Equip_Pistol_Standing87B7D47A4E68B5C726B827882E543921.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Equip_Pistol_Standing.uasset'
+[2020.04.30-11.47.24:238][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Equip_Rifle_StandingE33D01684F45B797D2704F8370CA6BE4.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Equip_Rifle_Standing.uasset'
+[2020.04.30-11.47.24:282][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Fire_Rifle_Hip73AEBEBB4282661E17D800A8B9FED60C.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Fire/Fire_Rifle_Hip.uasset'
+[2020.04.30-11.47.24:331][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Fire_Rifle_Ironsights2AED7C674AE34B56C03DC08B04FCCCDF.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Fire/Fire_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.24:378][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Fire_Shotgun_Hip7206900D4DBB498A272374B21EF19D03.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Fire/Fire_Shotgun_Hip.uasset'
+[2020.04.30-11.47.24:422][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Fire_Shotgun_IronsightsCAC9B3C1486F23C0E9E514B0886715F9.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Fire/Fire_Shotgun_Ironsights.uasset'
+[2020.04.30-11.47.24:464][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Prone_Fire_1C2E5F8B74B7E4A4B0F82868B0AF324C7.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Fire/Prone_Fire_1.uasset'
+[2020.04.30-11.47.24:509][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Prone_Fire_279F5549746593019589515B18DCC21B9.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Fire/Prone_Fire_2.uasset'
+[2020.04.30-11.47.24:553][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Prone_Reload_RifleA0ACA55949A51D0CBBAF03B9FEAE0E27.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Reload/Prone_Reload_Rifle.uasset'
+[2020.04.30-11.47.24:598][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Prone_Reload_ShotgunAFC1BAC84214A7ACC65765B395917C15.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Reload/Prone_Reload_Shotgun.uasset'
+[2020.04.30-11.47.24:643][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Reload_Pistol7C1ADD03499E9C583CACD49C07EE2454.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Reload/Reload_Pistol.uasset'
+[2020.04.30-11.47.24:688][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Reload_Rifle_Hip34347AE6475E0A206CBF2AB178298A4C.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Reload/Reload_Rifle_Hip.uasset'
+[2020.04.30-11.47.24:735][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Reload_Rifle_Ironsights236C65DE40AB345CBB90269FC8A721F3.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Reload/Reload_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.24:780][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Reload_Shotgun_HipA848E9144B404EB05542B589845AC030.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Reload/Reload_Shotgun_Hip.uasset'
+[2020.04.30-11.47.24:826][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Reload_Shotgun_Ironsights59965D674CEC6E2E37B55C811E92481D.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/GunAnims/Reload/Reload_Shotgun_Ironsights.uasset'
+[2020.04.30-11.47.27:317][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Equip_Pistol_Standing5D7A730547BC6E807DBBCE86B766F826.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Equip_Pistol_Standing.uasset'
+[2020.04.30-11.47.27:332][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Fire_Rifle_Ironsights150C1E834C7AC7E5C79B658B979E642C.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.27:341][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Reload_Rifle_Hip" FILE="C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Reload_Rifle_Hip.uasset" SILENT=true
+[2020.04.30-11.47.27:349][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Reload_Rifle_Hip1ADE37CA4F14D30FC927C2A459EBF8CB.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Reload_Rifle_Hip.uasset'
+[2020.04.30-11.47.27:959][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Hit_React_1268286464FC33E6F9964C7B260B791A6.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/HitAnims/Hit_React_1.uasset'
+[2020.04.30-11.47.28:030][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Hit_React_275EA2FB14B4C403A14E9C98037D0EAED.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/HitAnims/Hit_React_2.uasset'
+[2020.04.30-11.47.28:103][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Hit_React_3B4BC4CFE4826F5ECAFEB758336E9BABB.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/HitAnims/Hit_React_3.uasset'
+[2020.04.30-11.47.28:178][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Hit_React_4B4680BED495779FEF303F580AA13C7E7.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/HitAnims/Hit_React_4.uasset'
+[2020.04.30-11.47.28:814][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_1" FILE="C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Hit_React_1.uasset" SILENT=true
+[2020.04.30-11.47.28:821][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Hit_React_1745D643E4CC30AA7547DEEB07A12928B.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Hit_React_1.uasset'
+[2020.04.30-11.47.28:829][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_2" FILE="C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Hit_React_2.uasset" SILENT=true
+[2020.04.30-11.47.28:835][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Hit_React_2ECAFD0AC4299A5511B16058FFF489293.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Hit_React_2.uasset'
+[2020.04.30-11.47.28:843][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_3" FILE="C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Hit_React_3.uasset" SILENT=true
+[2020.04.30-11.47.28:849][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Hit_React_305DD6039436E7C9BCDBFC391344BA780.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Hit_React_3.uasset'
+[2020.04.30-11.47.30:390][621]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2020.04.30-11.47.30:391][621]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.04.30-11.47.30:391][621]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.04.30-11.47.30:392][621]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.04.30-11.47.30:620][621]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [7135.23] Compile of Ue4ASP_Character successful, but with 4 Warning(s) [in 625 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2020.04.30-11.47.31:113][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Idle_Rifle_Hip94B618A4426C46B60E03068C0734B95D.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/IdleAnims/Idle_Rifle_Hip.uasset'
+[2020.04.30-11.47.31:188][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Idle_Rifle_Hip_Break18999A9E04FE9D960132E8BBF694D9440.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/IdleAnims/Idle_Rifle_Hip_Break1.uasset'
+[2020.04.30-11.47.31:237][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Crouch_Idle_Rifle_Hip6AAE51B44CAF893BC700A79D15D6D0D4.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/IdleAnims/Crouch_Idle_Rifle_Hip.uasset'
+[2020.04.30-11.47.31:278][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Crouch_Idle_Rifle_IronsightsC390D94549EDFDC552BBE0B752823D93.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/IdleAnims/Crouch_Idle_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.31:320][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Idle_PistolD1EF5E9E4614645C077556998F0551CE.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/IdleAnims/Idle_Pistol.uasset'
+[2020.04.30-11.47.31:364][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Idle_Rifle_Hip_Break24F95213848435B1DFDDD9E98C05B1147.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/IdleAnims/Idle_Rifle_Hip_Break2.uasset'
+[2020.04.30-11.47.31:408][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Idle_Rifle_IronsightsABA6973F4830EB1BA912ECAFE3C3A45B.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/IdleAnims/Idle_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.31:449][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Prone_Idle71B9262A44A00178017284A50645B93F.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/IdleAnims/Prone_Idle.uasset'
+[2020.04.30-11.47.32:850][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/UE4ASP_HeroTPP_AnimBlueprintEAC3AFE940E08AB3ADA43E93D5BA0756.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2020.04.30-11.47.32:864][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Idle_Rifle_Hip_Break1D843A30C4A601A3B1042BAB98A2CFCFB.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset'
+[2020.04.30-11.47.32:878][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Crouch_Idle_Rifle_HipC59CBCB44A834E0E736152A83AF79356.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset'
+[2020.04.30-11.47.32:893][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Crouch_Idle_Rifle_IronsightsE86FE57B4E6B04E067D57BA240031334.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.32:907][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Idle_Rifle_Hip_Break26FA9830A4D01DB7220C02CBCB9FA2481.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset'
+[2020.04.30-11.47.33:587][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/BS_CrouchWalkBBADFBA94185D1A777F498A349F121BE.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/BS_CrouchWalk.uasset'
+[2020.04.30-11.47.33:664][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/BS_Jog870BBA43438120F9074491A29F038046.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/BS_Jog.uasset'
+[2020.04.30-11.47.33:730][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Sprint_Fwd_Rifle554578D74C89BF0B9E9A34AD0B7CA3E3.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Sprint_Fwd_Rifle.uasset'
+[2020.04.30-11.47.33:777][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Crouch_Walk_Bwd_Rifle_Hip789F6C0D4701478E8AC548B95E3FEFF1.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Crouch/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2020.04.30-11.47.33:824][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Crouch_Walk_Bwd_Rifle_Ironsights89CEE6CC4937EF065AB66DAACCC7DD02.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Crouch/Crouch_Walk_Bwd_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.33:873][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Crouch_Walk_Fwd_Rifle_HipE1E50D7340E63144DDC6D68B8DAC0617.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Crouch/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2020.04.30-11.47.33:918][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Crouch_Walk_Fwd_Rifle_Ironsights61EAB1014292AF9A95CA948F727D0832.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Crouch/Crouch_Walk_Fwd_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.33:964][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Crouch_Walk_Lt_Rifle_Hip5349BF2641C7449FF6885A8DD0B9EF15.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Crouch/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2020.04.30-11.47.34:006][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Crouch_Walk_Lt_Rifle_Ironsights733059F748DE459823B9C69362545CA4.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Crouch/Crouch_Walk_Lt_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.34:048][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Crouch_Walk_Rt_Rifle_Hip90CD7B0944D21BA5069D12AFF803232E.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Crouch/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2020.04.30-11.47.34:089][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Crouch_Walk_Rt_Rifle_Ironsights39F12623470609E02CEF42B0CEE3CBB0.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Crouch/Crouch_Walk_Rt_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.34:135][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Jog_Bwd_Rifle7394B61B4E450C6074806AB2BC6C76B8.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Jog/Jog_Bwd_Rifle.uasset'
+[2020.04.30-11.47.34:179][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Jog_Fwd_RifleE21B823F48002E04A9CC0EA20232F0DF.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Jog/Jog_Fwd_Rifle.uasset'
+[2020.04.30-11.47.34:226][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Jog_Lt_RifleFFE7618C462BA6C08EC82AA1D724B851.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Jog/Jog_Lt_Rifle.uasset'
+[2020.04.30-11.47.34:271][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Jog_Rt_RifleF3278B484D9C61A581CF6991F9DD73DD.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Jog/Jog_Rt_Rifle.uasset'
+[2020.04.30-11.47.34:314][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Jump_From_JogF02B3D5A40BFB5A2A8AAAA817D04A7F0.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Jump/Jump_From_Jog.uasset'
+[2020.04.30-11.47.34:357][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Jump_From_Stand2B6EE93C4EF5742683D39D96F8D5710A.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Jump/Jump_From_Stand.uasset'
+[2020.04.30-11.47.34:406][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Jump_From_Stand_IronsightsD1F3F2C949B54C36BB4EEFB64F5A139E.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Jump/Jump_From_Stand_Ironsights.uasset'
+[2020.04.30-11.47.34:450][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Walk_Bwd_Rifle_IronsightsB195F9F8412FDB19345038BA71FDCD14.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Walk/Walk_Bwd_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.34:494][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Walk_Fwd_Rifle_Ironsights03BFB3AA4844868C27DD14BE91112B97.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Walk/Walk_Fwd_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.34:540][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Walk_Lt_Rifle_Ironsights4231F88E40C6D87E13D5B987E6FEF55F.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Walk/Walk_Lt_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.34:585][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Walk_Rt_Rifle_Ironsights40C2BD8A4E9930AC63BD088E99BF4C37.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/MovementAnims/Walk/Walk_Rt_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.37:700][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/UE4ASP_HeroTPP_AnimBlueprint1ED4622742B0CDC08C9F1FA963968DE2.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2020.04.30-11.47.37:715][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Crouch_Walk_Fwd_Rifle_IronsightsDE4F5A9149FA8F632B702E9724FAB9BC.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.37:734][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Walk_Fwd_Rifle_IronsightsAF8CA4524EAD6B3A40209786D91B365A.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.38:318][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Crouch_to_Stand_Rifle_Hip03F85A89471F0A4821CF4AB7FB7552CC.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/TransitionAnims/Crouch_to_Stand_Rifle_Hip.uasset'
+[2020.04.30-11.47.38:392][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Crouch_to_Stand_Rifle_IronsightsC9E963134421517D98F0B48F5CD75296.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/TransitionAnims/Crouch_to_Stand_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.38:439][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Prone_To_Stand08D2E36949847527ADF11E98792B4970.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/TransitionAnims/Prone_To_Stand.uasset'
+[2020.04.30-11.47.38:483][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Stand_to_Crouch_Rifle_Hip4A47B75C40F6006216E708BC2F136E1E.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/TransitionAnims/Stand_to_Crouch_Rifle_Hip.uasset'
+[2020.04.30-11.47.38:525][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Stand_to_Crouch_Rifle_IronsightsB37FAA8B4DFDEB992EA423BD5457FCF3.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/TransitionAnims/Stand_to_Crouch_Rifle_Ironsights.uasset'
+[2020.04.30-11.47.38:568][621]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Stand_To_Prone73C5F53F4374925B3B63EC813866BDE4.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Default/TransitionAnims/Stand_To_Prone.uasset'
+[2020.04.30-11.47.57:253][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Idle_Rifle_Hip" FILE="C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" SILENT=true
+[2020.04.30-11.47.57:270][147]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Idle_Rifle_HipB73ADE48443E16DEBE4E92A719A1E207.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Idle_Rifle_Hip.uasset'
+[2020.04.30-11.48.02:817][285]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Idle_Rifle_Hip618D3BA74B78357A4DEE63BF14528177.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Retargeted/Idle_Rifle_Hip.uasset'
+[2020.04.30-11.48.14:010][599]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Idle_Rifle_Hip685102214388EBC0A9D65F914B1F2869.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/Retargeted/Idle/Idle_Rifle_Hip.uasset'
+[2020.04.30-11.48.19:419][683]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/FullLevelStreamed78C83F0548F1C21F1427479D4F420408.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level1/FullLevelStreamed.umap'
