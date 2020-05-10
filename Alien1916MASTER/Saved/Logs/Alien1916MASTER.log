@@ -2052,3 +2052,112 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.10-16.42.53:085][934]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Assets/Characters/Soldier_Test/Character/SoldierAnims/Soldier_Animation_Blueprint.Soldier_Animation_Blueprint
 [2020.05.10-16.42.53:271][934]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
 [2020.05.10-16.42.54:814][934]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.05.10-17.05.27:157][220]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Characters/AI_AB/BTS_ChangeSpeed_AB.BTS_ChangeSpeed_AB
+[2020.05.10-17.11.22:703][419]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Characters/Soldier_Test/Character/BP_Soldier.BP_Soldier
+[2020.05.10-17.11.56:060][678]LogTexture: Display: Building textures: xeno_LP_claws_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.05.10-17.11.56:226][678]LogTexture: Display: Building textures: xeno_LP_tubes_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.05.10-17.11.56:226][678]LogTexture: Display: Building textures: xeno_LP_tubes_BaseColor (AutoDXT, 2048X2048)
+[2020.05.10-17.11.56:226][678]LogTexture: Display: Building textures: xeno_LP_tubes_Normal (BC5, 2048X2048)
+[2020.05.10-17.11.56:227][678]LogTexture: Display: Building textures: xeno_LP_claws_Normal (BC5, 2048X2048)
+[2020.05.10-17.11.56:227][678]LogTexture: Display: Building textures: xeno_LP_claws_BaseColor (AutoDXT, 2048X2048)
+[2020.05.10-17.11.56:227][678]LogTexture: Display: Building textures: xeno_LP_ribs_BaseColor (AutoDXT, 2048X2048)
+[2020.05.10-17.11.56:227][678]LogTexture: Display: Building textures: xeno_LP_necktubes_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.05.10-17.11.56:228][678]LogTexture: Display: Building textures: xeno_LP_necktubes_Normal (BC5, 2048X2048)
+[2020.05.10-17.11.56:228][678]LogTexture: Display: Building textures: xeno_LP_necktubes_BaseColor (AutoDXT, 2048X2048)
+[2020.05.10-17.11.56:228][678]LogTexture: Display: Building textures: xeno_LP_tail_BaseColor (AutoDXT, 2048X2048)
+[2020.05.10-17.11.56:228][678]LogTexture: Display: Building textures: xeno_LP_tail_Normal (BC5, 2048X2048)
+[2020.05.10-17.11.56:228][678]LogTexture: Display: Building textures: xeno_LP_ribs_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.05.10-17.11.56:228][678]LogMaterial: Display: Missing cached shader map for material M_claws, compiling. 
+[2020.05.10-17.11.59:349][678]LogTexture: Display: Building textures: xeno_LP_ribs_Normal (BC5, 2048X2048)
+[2020.05.10-17.12.00:462][678]LogTexture: Display: Building textures: xeno_LP_teeth_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.05.10-17.12.00:462][678]LogTexture: Display: Building textures: xeno_LP_teeth_BaseColor (AutoDXT, 2048X2048)
+[2020.05.10-17.12.00:462][678]LogTexture: Display: Building textures: xeno_LP_teeth_Normal (BC5, 2048X2048)
+[2020.05.10-17.12.00:462][678]LogTexture: Display: Building textures: xeno_LP_tail_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.05.10-17.12.00:463][678]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.05.10-17.12.00:463][678]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.05.10-17.12.00:463][678]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.10-17.12.00:466][678]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.10-17.12.00:466][678]LogMaterial: Display: Missing cached shader map for material M_ribs, compiling. 
+[2020.05.10-17.12.00:939][678]LogMaterial: Display: Missing cached shader map for material M_necktubes, compiling. 
+[2020.05.10-17.12.01:031][678]LogMaterial: Display: Missing cached shader map for material M_tailspike, compiling. 
+[2020.05.10-17.12.01:193][678]LogSkeletalMesh: Building Skeletal Mesh Xeno_LP...
+[2020.05.10-17.12.01:773][678]LogSkeletalMesh: Built Skeletal Mesh [0.60s] /Game/Xeno_LP.Xeno_LP
+[2020.05.10-17.12.01:869][678]LogMaterial: Display: Missing cached shader map for material M_backtubes, compiling. 
+[2020.05.10-17.12.01:962][678]LogMaterial: Display: Missing cached shader map for material M_teeth, compiling. 
+[2020.05.10-17.12.11:895][679]LogShaderCompilers: Display: Shaders left to compile 320
+[2020.05.10-17.12.11:895][679]LogShaderCompilers: Display: Shaders left to compile 310
+[2020.05.10-17.12.11:895][679]LogShaderCompilers: Display: Shaders left to compile 300
+[2020.05.10-17.12.11:895][679]LogShaderCompilers: Display: Shaders left to compile 290
+[2020.05.10-17.12.11:895][679]LogShaderCompilers: Display: Shaders left to compile 280
+[2020.05.10-17.12.11:896][679]LogShaderCompilers: Display: Shaders left to compile 270
+[2020.05.10-17.12.11:896][679]LogShaderCompilers: Display: Shaders left to compile 260
+[2020.05.10-17.12.11:896][679]LogShaderCompilers: Display: Shaders left to compile 250
+[2020.05.10-17.12.11:896][679]LogShaderCompilers: Display: Shaders left to compile 240
+[2020.05.10-17.12.13:559][679]LogShaderCompilers: Display: Shaders left to compile 230
+[2020.05.10-17.12.14:001][679]LogShaderCompilers: Display: Shaders left to compile 220
+[2020.05.10-17.12.14:427][680]LogShaderCompilers: Display: Shaders left to compile 210
+[2020.05.10-17.12.16:229][682]LogShaderCompilers: Display: Shaders left to compile 200
+[2020.05.10-17.12.17:940][690]LogShaderCompilers: Display: Shaders left to compile 190
+[2020.05.10-17.12.18:405][692]LogShaderCompilers: Display: Shaders left to compile 180
+[2020.05.10-17.12.20:633][722]LogShaderCompilers: Display: Shaders left to compile 170
+[2020.05.10-17.12.21:071][730]LogShaderCompilers: Display: Shaders left to compile 160
+[2020.05.10-17.12.23:750][780]LogShaderCompilers: Display: Shaders left to compile 150
+[2020.05.10-17.12.26:664][825]LogShaderCompilers: Display: Shaders left to compile 140
+[2020.05.10-17.12.27:809][828]LogShaderCompilers: Display: Shaders left to compile 130
+[2020.05.10-17.12.27:876][828]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Characters/AI_AB/BP_Soldier_AB.BP_Soldier_AB
+[2020.05.10-17.12.28:511][828]LogShaderCompilers: Display: Shaders left to compile 120
+[2020.05.10-17.12.32:323][828]LogShaderCompilers: Display: Shaders left to compile 110
+[2020.05.10-17.12.32:323][828]LogShaderCompilers: Display: Shaders left to compile 100
+[2020.05.10-17.12.32:323][828]LogShaderCompilers: Display: Shaders left to compile 90
+[2020.05.10-17.12.32:323][828]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.05.10-17.12.35:923][828]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.05.10-17.12.35:923][828]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.05.10-17.12.35:923][828]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.05.10-17.12.36:603][836]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.10-17.12.38:819][851]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.10-17.12.46:367][851]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.10-17.12.46:367][851]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.10-17.16.18:340][877]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelFolder/Level1/FullLevelStreamed' took 2.641
+[2020.05.10-17.16.18:476][877]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Characters/Soldier_Test/Character/SoldierAnims/Soldier_Animation_Blueprint] ([1] browsable assets)...
+[2020.05.10-17.16.18:678][877]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Assets/Characters/Soldier_Test/Character/SoldierAnims/Soldier_Animation_Blueprint.Soldier_Animation_Blueprint]
+[2020.05.10-17.16.18:678][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/Soldier_Test/Character/SoldierAnims/Soldier_Animation_Blueprint]
+[2020.05.10-17.16.19:164][877]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Soldier_Animation_Blueprint_Auto9C3A1F134D11A226DE78ED81FD716DE4.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/Assets/Characters/Soldier_Test/Character/SoldierAnims/Soldier_Animation_Blueprint_Auto3.uasset'
+[2020.05.10-17.16.19:300][877]LogFileHelpers: Auto-saving content packages took 0.935
+[2020.05.10-18.39.09:363][ 67]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/BP_Soldier_AB8F45D0BC4E1529A00C0D239004A7B7F4.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/Characters/AI_AB/BP_Soldier_AB.uasset'
+[2020.05.10-18.39.15:213][ 68]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.10-18.39.23:979][170]BlueprintLog: New page: Compile Soldier_Animation_Blueprint
+[2020.05.10-18.39.24:787][170]LogBlueprint: Warning: [Compiler Soldier_Animation_Blueprint] Walking/Running to Aim Down Sights  will never be taken, please connect something to  Can Enter Transition
+[2020.05.10-18.39.24:787][170]LogBlueprint: Warning: [Compiler Soldier_Animation_Blueprint] Aim Down Sights to Walking/Running  will never be taken, please connect something to  Can Enter Transition
+[2020.05.10-18.39.24:787][170]LogBlueprint: Warning: [Compiler Soldier_Animation_Blueprint] Walking/Running to Melee Dead  will never be taken, please connect something to  Can Enter Transition
+[2020.05.10-18.39.24:789][170]LogBlueprint: Warning: [Compiler Soldier_Animation_Blueprint] Aim Down Sights to ADS Dead  will never be taken, please connect something to  Can Enter Transition
+[2020.05.10-18.39.24:791][170]LogBlueprint: Warning: [Compiler Soldier_Animation_Blueprint] Walking/Running to Acid Dead  will never be taken, please connect something to  Can Enter Transition
+[2020.05.10-18.39.28:878][170]LogBlueprint: Warning: [Compiler Soldier_Animation_Blueprint] [3911.01] Compile of Soldier_Animation_Blueprint successful, but with 5 Warning(s) [in 4,868 ms] (/Game/Assets/Characters/Soldier_Test/Character/SoldierAnims/Soldier_Animation_Blueprint.Soldier_Animation_Blueprint)
+[2020.05.10-18.39.32:586][251]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Soldier_Animation_BlueprintEB651B9A4C9AB023BC237395C334E073.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/Characters/Soldier_Test/Character/SoldierAnims/Soldier_Animation_Blueprint.uasset'
+[2020.05.10-18.39.34:802][313]LogSlate: Window 'Soldier_Animation_Blueprint' being destroyed
+[2020.05.10-18.39.39:627][313]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/FullLevelStreamed583E03324D9BF6D761EA398A5074D037.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level1/FullLevelStreamed.umap'
+[2020.05.10-18.39.45:224][313]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/FullLevelStreamed_BuiltDataFB5ABD444CDE1B43CE03F9B5464AE407.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level1/FullLevelStreamed_BuiltData.uasset'
+[2020.05.10-18.39.55:314][340]LogSlate: Window 'Save Content' being destroyed
+[2020.05.10-18.39.55:543][340]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/UE4_Mannequin_SkeletonDA138D9D47FB59DD91AD1B95B29FBE4E.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2020.05.10-18.39.55:565][340]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Soldier_Test_Skeleton488A1A2B4B02C0048F938A93B02D2818.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/Characters/Soldier_Test/Character/Meshes/Soldier/Soldier_Test_Skeleton.uasset'
+[2020.05.10-18.39.55:652][340]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Death_2C223B8BC4CFE645979AE8799E2370E6F.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/Characters/Soldier_Test/Character/SoldierAnims/Retargeted_Animations/Death/Death_2.uasset'
+[2020.05.10-18.39.55:685][340]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Death_Ironsights_2757E8C3E472C00AD15986E9923CC9DD7.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/Characters/Soldier_Test/Character/SoldierAnims/Retargeted_Animations/Death/Death_Ironsights_2.uasset'
+[2020.05.10-18.39.55:732][340]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Idle_Rifle_Ironsights3657D4854A2837A7CFB040B9FD043D2F.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/Characters/Soldier_Test/Character/SoldierAnims/Retargeted_Animations/Idle_Rifle_Ironsights.uasset'
+[2020.05.10-18.39.55:851][340]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Armory, Actor: /Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.REINST_Armory_C_0
+[2020.05.10-18.39.56:460][340]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/ArmoryC06E6FFC4B083D1C231EE084B8E1D453.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level1/Armory.umap'
+[2020.05.10-18.39.56:478][340]LogFileHelpers: Saving map 'Armory' took 0.722
+[2020.05.10-18.39.56:560][340]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Barraks, Actor: /Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.REINST_Barraks_C_0
+[2020.05.10-18.39.57:481][340]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Barraks4A30AACD410B2BFA0A8D27957F6094AC.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level1/Barraks.umap'
+[2020.05.10-18.39.57:488][340]LogFileHelpers: Saving map 'Barraks' took 1.007
+[2020.05.10-18.39.57:657][340]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Cafeteria, Actor: /Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.REINST_Cafeteria_C_0
+[2020.05.10-18.39.58:475][340]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/CafeteriaCEEC1B8C43C46F56CEACF2982D488565.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level1/Cafeteria.umap'
+[2020.05.10-18.39.58:480][340]LogFileHelpers: Saving map 'Cafeteria' took 0.954
+[2020.05.10-18.39.58:621][340]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Corridor, Actor: /Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.REINST_Corridor_C_0
+[2020.05.10-18.39.59:202][340]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/CorridorEF14F54E405323009C6AA191046DF1BD.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level1/Corridor.umap'
+[2020.05.10-18.39.59:207][340]LogFileHelpers: Saving map 'Corridor' took 0.692
+[2020.05.10-18.39.59:315][340]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: StartingArea, Actor: /Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.REINST_StartingArea_C_0
+[2020.05.10-18.40.00:181][340]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/StartingArea41C47A604EFF0061A26B8A8A5E0B6A1D.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level1/StartingArea.umap'
+[2020.05.10-18.40.00:188][340]LogFileHelpers: Saving map 'StartingArea' took 0.977
+[2020.05.10-18.40.00:516][340]LogSlate: Window 'Alien1916MASTER - Unreal Editor' being destroyed
+[2020.05.10-18.40.00:537][340]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.10-18.40.21:826][341]Cmd: QUIT_EDITOR
+[2020.05.10-18.40.24:717][341]LogExit: Preparing to exit.
