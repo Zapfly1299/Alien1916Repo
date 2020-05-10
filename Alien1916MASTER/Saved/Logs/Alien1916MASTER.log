@@ -2044,3 +2044,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.10-16.34.32:998][932]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Soldier_Animation_Blueprint3BB639DC46190808929C6D8BAB7313BE.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/Characters/Soldier_Test/Character/SoldierAnims/Soldier_Animation_Blueprint.uasset'
 [2020.05.10-16.34.37:361][ 14]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/FullLevelStreamed18237AEC437428B00FE991BDF076C758.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level1/FullLevelStreamed.umap'
 [2020.05.10-16.34.41:273][ 14]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/FullLevelStreamed_BuiltData9B9FA6444D2A7DE937399797BA21CC2C.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level1/FullLevelStreamed_BuiltData.uasset'
+[2020.05.10-16.39.22:211][947]LogSlate: Window 'BP_Soldier' being destroyed
+[2020.05.10-16.39.22:230][947]LogSlate: Window 'BP_Soldier' being destroyed
+[2020.05.10-16.41.41:244][736]LogAssetEditorManager: Opening Asset editor for BlackboardData /Game/Assets/Characters/AI_AB/BB_Soldier_AB.BB_Soldier_AB
+[2020.05.10-16.41.58:619][242]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Assets/Characters/AI_AB/BT_Soldier_AB.BT_Soldier_AB
+[2020.05.10-16.42.31:405][298]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Characters/AI_AB/BTT_ChasePlayer_AB.BTT_ChasePlayer_AB
+[2020.05.10-16.42.53:085][934]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Assets/Characters/Soldier_Test/Character/SoldierAnims/Soldier_Animation_Blueprint.Soldier_Animation_Blueprint
+[2020.05.10-16.42.53:271][934]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.10-16.42.54:814][934]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
