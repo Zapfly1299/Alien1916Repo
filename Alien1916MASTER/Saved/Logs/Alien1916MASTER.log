@@ -2815,3 +2815,232 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.11-12.38.36:143][925]LogFileHelpers: Auto-saving content packages took 0.498
 [2020.05.11-13.08.56:060][605]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/FullLevelStreamedC8BEAA4D43D5D3814D676EA4962A64F8.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level1/FullLevelStreamed.umap'
 [2020.05.11-13.09.05:933][605]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/FullLevelStreamed_BuiltData9443939B48277A8D553A44AFCD24BCF4.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/LevelFolder/Level1/FullLevelStreamed_BuiltData.uasset'
+[2020.05.11-13.50.18:218][296]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Characters/AI_AB/BTT_ChasePlayer_AB.BTT_ChasePlayer_AB
+[2020.05.11-13.51.18:053][264]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.138 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.11-13.54.32:669][332]BlueprintLog: New page: Compile BTT_ChasePlayer_AB
+[2020.05.11-13.54.55:071][565]BlueprintLog: New page: Compile BTT_ChasePlayer_AB
+[2020.05.11-13.55.00:147][634]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/BT_Soldier_ABE376A9704EBB95F97CBE3D88A70F6806.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/Characters/AI_AB/BT_Soldier_AB.uasset'
+[2020.05.11-13.55.05:639][792]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-13.55.05:833][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.05.11-13.55.05:834][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.05.11-13.55.05:836][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.05.11-13.55.05:836][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.05.11-13.55.05:837][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.05.11-13.55.05:838][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.05.11-13.55.06:223][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.11-13.55.06:313][792]PIE: New page: PIE session: FullLevelStreamed (11 May 2020 15:55:06)
+[2020.05.11-13.55.06:457][792]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed
+[2020.05.11-13.55.08:505][792]LogPlayLevel: PIE: StaticDuplicateObject took: (2.017722s)
+[2020.05.11-13.55.09:052][792]LogAIModule: Creating AISystem for world FullLevelStreamed
+[2020.05.11-13.55.09:331][792]LogPlayLevel: PIE: World Init took: (0.806172s)
+[2020.05.11-13.55.09:333][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed to /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed.FullLevelStreamed (2.881513s)
+[2020.05.11-13.55.09:739][792]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.11-13.55.19:047][792]LogInit: FAudioDevice initialized.
+[2020.05.11-13.55.20:227][792]LogLoad: Game class is 'BP_MainGameMode_AB_C'
+[2020.05.11-13.55.21:789][792]LogWorld: Bringing World /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed.FullLevelStreamed up for play (max tick rate 60) at 2020.05.11-14.55.21
+[2020.05.11-13.55.21:899][792]LogWorld: Bringing up level for play took: 1.302146
+[2020.05.11-13.55.22:558][792]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.22:569][792]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.22:569][792]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.22:572][792]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.22:573][792]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.22:573][792]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.22:573][792]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.22:573][792]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.22:573][792]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.22:880][792]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Armory 1 1 1
+[2020.05.11-13.55.22:943][792]PIE: Play in editor start time for /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed 17.839
+[2020.05.11-13.55.23:042][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.05.11-13.55.23:042][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.05.11-13.55.23:042][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.05.11-13.55.23:042][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.05.11-13.55.23:042][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.05.11-13.55.23:042][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.05.11-13.55.24:208][793]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_StartingArea 1 1 1
+[2020.05.11-13.55.25:169][794]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Cafeteria 1 1 1
+[2020.05.11-13.55.25:690][795]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Barraks 1 1 1
+[2020.05.11-13.55.25:987][796]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Corridor 1 1 1
+[2020.05.11-13.55.26:431][799]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.29:993][961]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Attack!
+[2020.05.11-13.55.29:993][961]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] P=47.899021 Y=90.000000 R=0.000005
+[2020.05.11-13.55.31:175][994]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.31:281][999]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.31:527][ 10]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.32:738][ 63]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.33:088][ 77]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.34:025][114]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.34:218][122]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.34:369][128]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.34:836][147]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.34:886][149]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.36:279][205]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.39:580][338]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.39:580][338]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.39:796][348]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.40:049][359]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.40:290][370]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.40:529][381]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Jump timer done!
+[2020.05.11-13.55.40:531][381]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.42:662][471]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.42:829][477]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.43:389][496]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.43:646][506]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Jump timer done!
+[2020.05.11-13.55.44:271][531]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.44:412][536]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.44:841][553]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.45:248][570]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Jump timer done!
+[2020.05.11-13.55.45:592][584]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.45:669][587]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.45:978][598]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.46:408][614]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.46:638][623]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Jump timer done!
+[2020.05.11-13.55.46:804][629]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.46:879][632]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.47:079][640]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.47:178][644]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.47:418][653]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.47:468][655]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.47:760][667]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Jump timer done!
+[2020.05.11-13.55.49:604][745]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Jump timer done!
+[2020.05.11-13.55.50:406][780]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.50:563][787]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.50:690][793]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.51:177][814]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Jump timer done!
+[2020.05.11-13.55.51:818][840]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.51:932][845]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.52:146][854]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.53:618][916]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.53:973][933]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.54:141][941]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.55.57:170][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.05.11-13.55.57:170][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.05.11-13.55.57:171][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.05.11-13.55.57:171][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.05.11-13.55.57:171][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.05.11-13.55.57:171][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.05.11-13.55.57:450][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-13.55.57:929][ 75]LogStreaming: Display: UWorld::AddToWorld: unregistering components for /Game/LevelFolder/Level1/UEDPIE_0_Cafeteria took (less than) 21.80 ms
+[2020.05.11-13.55.57:962][ 75]LogStreaming: Display: UWorld::AddToWorld: unregistering components for /Game/LevelFolder/Level1/UEDPIE_0_Cafeteria took (less than) 32.93 ms
+[2020.05.11-13.55.58:534][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-13.55.58:546][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.05.11-13.55.58:547][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.05.11-13.55.58:547][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.05.11-13.55.58:547][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.05.11-13.55.58:547][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.05.11-13.55.58:547][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.05.11-13.55.58:880][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-13.55.59:561][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.05.11-13.56.01:512][120]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.05.11-13.56.06:474][210]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.05.11-13.56.10:212][352]LogEditorViewport: Clicking on Actor (LMB): BP_Soldier_AB_C (BP_Soldier_AB6)
+[2020.05.11-13.56.17:540][490]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.347 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.11-13.56.18:142][506]LogEditorViewport: Clicking on Actor (LMB): BP_PatrolPoint_AB_C (Patrol enemy 6)
+[2020.05.11-13.56.23:773][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4x141)
+[2020.05.11-13.56.25:156][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4x4WithHole9)
+[2020.05.11-13.56.25:834][714]LogEditorViewport: Clicking on Actor (LMB): BP_PatrolPoint_AB_C (Patrol enemy 6)
+[2020.05.11-13.56.30:827][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-13.56.30:843][879]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-13.56.32:664][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.05.11-13.56.32:664][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.05.11-13.56.32:665][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.05.11-13.56.32:666][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.05.11-13.56.32:666][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.05.11-13.56.32:666][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.05.11-13.56.32:968][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.11-13.56.33:104][879]PIE: New page: PIE session: FullLevelStreamed (11 May 2020 15:56:32)
+[2020.05.11-13.56.33:308][879]LogPlayLevel: Creating play world package: /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed
+[2020.05.11-13.56.34:957][879]LogPlayLevel: PIE: StaticDuplicateObject took: (1.642878s)
+[2020.05.11-13.56.35:535][879]LogAIModule: Creating AISystem for world FullLevelStreamed
+[2020.05.11-13.56.35:789][879]LogPlayLevel: PIE: World Init took: (0.817693s)
+[2020.05.11-13.56.35:799][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed to /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed.FullLevelStreamed (2.492020s)
+[2020.05.11-13.56.37:283][879]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.11-13.56.46:973][879]LogInit: FAudioDevice initialized.
+[2020.05.11-13.56.48:086][879]LogLoad: Game class is 'BP_MainGameMode_AB_C'
+[2020.05.11-13.56.49:331][879]LogWorld: Bringing World /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed.FullLevelStreamed up for play (max tick rate 60) at 2020.05.11-14.56.49
+[2020.05.11-13.56.49:534][879]LogWorld: Bringing up level for play took: 1.048532
+[2020.05.11-13.56.50:134][879]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.56.50:146][879]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.56.50:146][879]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.56.50:146][879]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.56.50:146][879]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.56.50:146][879]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.56.50:146][879]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.56.50:146][879]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.56.50:576][879]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Armory 1 1 1
+[2020.05.11-13.56.50:704][879]PIE: Play in editor start time for /Game/LevelFolder/Level1/UEDPIE_0_FullLevelStreamed 19.54
+[2020.05.11-13.56.50:749][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.05.11-13.56.50:749][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.05.11-13.56.50:749][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.05.11-13.56.50:749][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.05.11-13.56.50:749][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.05.11-13.56.50:749][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.05.11-13.56.52:180][880]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_StartingArea 1 1 1
+[2020.05.11-13.56.52:852][881]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Cafeteria 1 1 1
+[2020.05.11-13.56.53:782][882]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Barraks 1 1 1
+[2020.05.11-13.56.54:197][883]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.56.54:198][883]LogLevel: ActivateLevel /Game/LevelFolder/Level1/UEDPIE_0_Corridor 1 1 1
+[2020.05.11-13.56.54:624][886]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.56.58:564][ 43]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.01:862][180]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Attack!
+[2020.05.11-13.57.01:862][180]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] P=15.703341 Y=-90.000000 R=-0.000002
+[2020.05.11-13.57.02:003][183]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.02:109][185]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.02:329][186]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.02:517][190]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.02:896][206]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Jump timer done!
+[2020.05.11-13.57.03:791][243]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.03:912][248]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.04:643][278]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Jump timer done!
+[2020.05.11-13.57.06:938][379]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.06:962][380]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.07:010][382]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.07:136][388]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.17:134][827]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.17:429][839]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.17:717][853]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.17:959][864]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.18:126][871]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Jump timer done!
+[2020.05.11-13.57.18:554][890]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.18:554][890]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.18:990][909]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.19:460][930]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Jump timer done!
+[2020.05.11-13.57.20:180][961]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.20:440][972]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.23:649][ 99]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Jump timer done!
+[2020.05.11-13.57.23:786][104]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.24:498][132]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.24:782][143]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Jump timer done!
+[2020.05.11-13.57.25:146][157]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.28:415][286]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.31:372][380]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.31:618][389]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Jump timer done!
+[2020.05.11-13.57.34:304][476]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.34:355][478]LogBlueprintUserMessages: [BP_PhyCharTest_MJB_C_0] Light added
+[2020.05.11-13.57.41:116][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-13.57.41:259][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.05.11-13.57.41:261][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.05.11-13.57.41:262][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.05.11-13.57.41:262][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.05.11-13.57.41:262][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.05.11-13.57.41:263][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.05.11-13.57.42:421][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-13.57.42:733][728]LogStreaming: Display: UWorld::AddToWorld: unregistering components for /Game/LevelFolder/Level1/UEDPIE_0_Cafeteria took (less than) 37.20 ms
+[2020.05.11-13.57.42:839][728]LogStreaming: Display: UWorld::AddToWorld: unregistering components for /Game/LevelFolder/Level1/UEDPIE_0_Cafeteria took (less than) 106.11 ms
+[2020.05.11-13.57.43:553][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-13.57.43:556][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed' with GeneratedClass '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/FullLevelStreamed.FullLevelStreamed:PersistentLevel.FullLevelStreamed'
+[2020.05.11-13.57.43:556][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory' with GeneratedClass '/Game/LevelFolder/Level1/Armory.Armory_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Armory.Armory:PersistentLevel.Armory'
+[2020.05.11-13.57.43:556][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks' with GeneratedClass '/Game/LevelFolder/Level1/Barraks.Barraks_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Barraks.Barraks:PersistentLevel.Barraks'
+[2020.05.11-13.57.43:556][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria' with GeneratedClass '/Game/LevelFolder/Level1/Cafeteria.Cafeteria_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Cafeteria.Cafeteria:PersistentLevel.Cafeteria'
+[2020.05.11-13.57.43:556][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor' with GeneratedClass '/Game/LevelFolder/Level1/Corridor.Corridor_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/Corridor.Corridor:PersistentLevel.Corridor'
+[2020.05.11-13.57.43:556][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel' has LevelScriptBlueprint '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea' with GeneratedClass '/Game/LevelFolder/Level1/StartingArea.StartingArea_C' with ClassGeneratedBy '/Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.StartingArea'
+[2020.05.11-13.57.43:926][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-13.57.44:685][729]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.05.11-13.59.38:447][939]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/BTT_ChasePlayer_AB692EF1F342AD80594B9142B40A354B1B.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Content/Assets/Characters/AI_AB/BTT_ChasePlayer_AB.uasset'
+[2020.05.11-14.00.37:262][334]LogEditorViewport: Clicking on Actor (LMB): BP_Soldier_AB_C (BP_Soldier_AB6)
+[2020.05.11-14.01.16:282][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-14.02.17:461][756]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (30.451 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.05.11-14.02.52:407][994]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/FullLevelStreamed_Auto7C07B899D44081FA65750B491B32209E2.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/LevelFolder/Level1/FullLevelStreamed_Auto7.umap'
+[2020.05.11-14.02.52:764][994]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: StartingArea, Actor: /Game/LevelFolder/Level1/StartingArea.StartingArea:PersistentLevel.REINST_StartingArea_C_0
+[2020.05.11-14.02.53:856][994]LogSavePackage: Moving 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/StartingArea_Auto71191553E4DABD420042843A46659D85B.tmp' to 'C:/Users/Matthew/Documents/GitHub/Alien1916Repo/Alien1916MASTER/Saved/Autosaves/Game/LevelFolder/Level1/StartingArea_Auto7.umap'
+[2020.05.11-14.02.53:892][994]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelFolder/Level1/FullLevelStreamed' took 22.094
+[2020.05.11-14.02.53:892][994]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 22.094
